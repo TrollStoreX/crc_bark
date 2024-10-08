@@ -22,6 +22,10 @@
     },
     {
       "enable": 1,
+      "url": "https://trollstorex.github.io/repo/"
+    },
+    {
+      "enable": 1,
       "url": "https://invalidunit.github.io/repo2/"
     },
     {
