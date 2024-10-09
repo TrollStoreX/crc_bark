@@ -13,6 +13,7 @@ com.82flex.singlevpns,Single VPN 上色,1.2,iphoneos-arm64e
 com.82flex.wtvrbglauncher,语音转文字免跳转,1.1,iphoneos-arm64e
 com.82flex.wtvrbglaunchers,语音转文字免跳转,1.1,iphoneos-arm64e
 com.bandarhl.bhtwitters,BHTwitter,4.3-3+debug,iphoneos-arm64e
+com.BeanbunsHelpers.DBs,抖音 豆包助手,1.0-1,iphoneos-arm64e
 com.curtin.pkc.rootless,PKC 助手,0.6-0,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.dumpapp.wechat-rootlesss,锤子助手,2.0.1,iphoneos-arm64e
@@ -44,6 +45,7 @@ com.netskao.appdata,AppData,1.4.2,iphoneos-arm64e
 com.netskao.awemedisablebars,抖音禁用 AwemeDisableBar,1.1-2,iphoneos-arm64e
 com.netskao.awemedownloadmedias,抖音 AwemeDownloadMedia,1.1-6,iphoneos-arm64e
 com.netskao.awemefullscreens,抖音全屏 AwemeFullScreen,1.1-9,iphoneos-arm64e
+com.netskao.awemevideotimes,抖音进度条 AwemeVideoTime,1.1-1,iphoneos-arm64e
 com.netskao.qqnotiavatars,QQNotiAvatar QQ头像,1.2-2,iphoneos-arm64e
 com.netskao.wechatnotiavatars,WeChatNotiAvatar 微信头像,1.2-5,iphoneos-arm64e
 com.opa334.dopamine.trollstore,opa334,1.0,iphoneos-arm64e
