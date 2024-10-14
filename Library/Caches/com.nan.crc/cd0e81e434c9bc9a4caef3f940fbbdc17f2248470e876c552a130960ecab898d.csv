@@ -1,0 +1,156 @@
+Package,Name,Version,Architecture
+com.ps.3gunrestrictorflipswitch,3G Unrestrictor Flipswitch,0.0.1-1,iphoneos-arm
+com.ps.adguardunbounded,Adguard Unbounded,0.0.1.1,iphoneos-arm
+com.ps.advancedmapenabler,Advanced Map Enabler,1.0.0,iphoneos-arm64
+com.ps.amber,Amber,1.2.1,iphoneos-arm64
+com.ps.anysuggestemojiim,AnySuggestEmoji (iMessages),1.0.1,iphoneos-arm
+com.ps.anywherepredict,AnywherePredict,1.1.3.1,iphoneos-arm
+com.ps.anywherewidgetsforipad,Anywhere Widgets for iPad,1.4.0,iphoneos-arm
+com.ps.appcolorclose,AppColorClose (iOS 12+),1.2.1,iphoneos-arm64
+com.ps.applebtdeviceessupport,Apple BT Devices Support,1.0.0,iphoneos-arm
+com.ps.apppad,AppPad,1.1.2,iphoneos-arm64
+com.ps.assistivetouchflipswitch,Assistive Touch Flipswitch,1.0.0,iphoneos-arm
+com.ps.backgroundapprefreshflipswitch,Background App Refresh Flipswitch,1.0.0,iphoneos-arm
+com.ps.backupdfix,backupd_fix,1.0.0,iphoneos-arm
+com.ps.batteryhealthenabler,Battery Health Enabler,1.0.0,iphoneos-arm64
+com.ps.batterypercentageenabler,Battery Percentage Enabler,1.0.0,iphoneos-arm
+com.ps.bigmoji,Bigmoji,1.0.0,iphoneos-arm
+com.ps.blobmojiefm,Blobmoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.blockemall,BlockEmAll,1.0.0,iphoneos-arm
+com.ps.blurrybadges,BlurryBadges (iOS 14+),1.5.2,iphoneos-arm64
+com.ps.boldtextflipswitch,Bold Text Flipswitch,1.0.0,iphoneos-arm
+com.ps.cahighfps,CAHighFPS,1.3.1,iphoneos-arm64
+com.ps.calleridfs,Caller ID Flipswitch,0.0.2,iphoneos-arm
+com.ps.camelapsedplus,CamElapsed+,1.0.0-1,iphoneos-arm64
+com.ps.cameragridflipswitch,Camera Grid Flipswitch,1.0.0,iphoneos-arm
+com.ps.cameramodes,CameraModes,1.2.1,iphoneos-arm64
+com.ps.camswitchdown,CamSwitchDown,1.5.0,iphoneos-arm
+com.ps.ccmultitaskinggestures,CCMultitaskingGestures,1.0.0,iphoneos-arm
+com.ps.cconandoff,CC On & Off,1.1.0,iphoneos-arm64
+com.ps.ccscalebt,CCScaleBT,1.0-2,iphoneos-arm
+com.ps.changevolwithbuttonflipswitch,Change Vol With Buttons Flipswitch,1.0.0,iphoneos-arm
+com.ps.cyarchfix,cyarchfix,1.0.0,iphoneos-arm
+com.ps.efmfontdl,EFM Font Downloader,1.0.4-2,iphoneos-arm64
+com.ps.efmfontsetter,EFM Font Setter,99.1,iphoneos-arm64
+com.ps.emodeji,EModeji,1.0,iphoneos-arm
+com.ps.emojiattributes,EmojiAttributes,1.8.0~b2,iphoneos-arm64
+com.ps.emojiattributes-meowbrek,EmojiAttributes (meowbrek),1.8.0~b1,iphoneos-arm64
+com.ps.emojidarkstyle,EmojiDarkStyle,1.0.6,iphoneos-arm
+com.ps.emojifontefm,AppleColorEmoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.emojifontflipefm,AppleColorEmoji Unicode 15.1 HD Flip (EFM),15.1.0,iphoneos-arm64
+com.ps.emojifonthdefm,AppleColorEmoji Unicode 15.1 HD (EFM),15.1.0,iphoneos-arm64
+com.ps.emojifontlqefm,AppleColorEmoji Low Quality (EFM),15.1.0,iphoneos-arm64
+com.ps.emojifontmanager,EmojiFontManager,1.3.5,iphoneos-arm64
+com.ps.emojilayout,EmojiLayout,1.2.0,iphoneos-arm
+com.ps.emojilibrary,EmojiLibrary,1.6.0,iphoneos-arm64
+com.ps.emojilocalization,EmojiLocalization,1.1.2,iphoneos-arm
+com.ps.emojiport10resources,EmojiPort Resources (iOS 10+),1.6.0,iphoneos-arm64
+com.ps.emojiportalpha,EmojiPort (iOS 5.1),1.0.10,iphoneos-arm
+com.ps.emojiportlegacy,EmojiPort (iOS 6.0-8.2),1.8.2,iphoneos-arm
+com.ps.emojiportpe,EmojiPort (iOS 12.0-17.3),1.5.0~b3,iphoneos-arm64
+com.ps.emojiportps,EmojiPort (iOS 8.3-9.3),1.7.1,iphoneos-arm
+com.ps.emojiportwt,EmojiPort (iOS 10.0-11.4),1.4.1,iphoneos-arm
+com.ps.emojiresources,EmojiResources,1.2.2,iphoneos-arm
+com.ps.emojisearchforipad,Emoji Search for iPad,1.0.0,iphoneos-arm
+com.ps.expandedclassicscreen,ExpandedClassicScreen,1.0.0,iphoneos-arm64
+com.ps.expandlesscamcontrols,ExpandlessCamControls,1.0.0,iphoneos-arm
+com.ps.fbemojiefm,Facebook Emoji Unicode 15.0 (EFM),15.0.0~d,iphoneos-arm64
+com.ps.flashorama,Flashorama,1.7.0,iphoneos-arm64
+com.ps.flexibleflipswitch,FLEXible Flipswitch,0.0.2-5,iphoneos-arm
+com.ps.fluentuicolorefm,FluentUI Color Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
+com.ps.fluentuiflatefm,FluentUI Flat Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
+com.ps.forceinpicture,ForceInPicture,1.0,iphoneos-arm
+com.ps.gboardall,GboardAll,1.0.2,iphoneos-arm64
+com.ps.grayscaleflipswitch,Grayscale Flipswitch,1.0.0,iphoneos-arm
+com.ps.hdavatar,HD Avatar,1.0.0,iphoneos-arm64
+com.ps.highgraphics,HighGraphics,1.1.0,iphoneos-arm64
+com.ps.igclassiclayout,IGClassicLayout,1.0.2,iphoneos-arm
+com.ps.igetmorechoices,IGetMoreChoices,1.0.0,iphoneos-arm
+com.ps.igotallemojis,IGotAllEmojis,1.0.1,iphoneos-arm64
+com.ps.igotnosecret,IGotNoSecret,1.0.0,iphoneos-arm64
+com.ps.injectionfoundation,Injection Foundation,1.0.1,iphoneos-arm64
+com.ps.joypixelsdecalefm,JoyPixels Decal Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.joypixelsefm,JoyPixels Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.keyboardflipswitchs,Keyboard Flipswitchs,1.0.0,iphoneos-arm
+com.ps.latesttranslate,LatestTranslate,6.0.1,iphoneos-arm64
+com.ps.letmeblock,LetMeBlock,1.2.1,iphoneos-arm64
+com.ps.libsubstitrate,libSubstitrate,0.0.1-3,iphoneos-arm
+com.ps.linebreakliberator,LineBreakLiberator,1.0.0,iphoneos-arm64
+com.ps.livetextenabler,Live Text Enabler,1.3.0,iphoneos-arm64
+com.ps.lpmenabler,LPM Enabler,1.0.0,iphoneos-arm
+com.ps.mywifs,MyWi Flipswitch,0.0.1,iphoneos-arm
+com.ps.noaneemojisticker,NoANEEmojiSticker,1.0.0,iphoneos-arm64
+com.ps.notoemojicursedefm,Noto Color Emoji Cursed Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.notoemojiefm,Noto Color Emoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.nottodayhomescreensidebar,NotTodayHomeScreenSideBar,1.0.0,iphoneos-arm
+com.ps.noytmpremium,NoYTMPremium,1.0.1,iphoneos-arm
+com.ps.noytpremium,NoYTPremium,1.0.4,iphoneos-arm64
+com.ps.oneuiefm,Samsung One UI 6.0 Unicode 15.1 (EFM),15.1.0~beta7,iphoneos-arm64
+com.ps.openmojiefm,OpenMoji Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
+com.ps.padgrid,PadGrid,1.2.0,iphoneos-arm64
+com.ps.pearltracking,PearlTracking,0.0.1,iphoneos-arm64
+com.ps.pencilpro,Pencil Pro,1.0.0,iphoneos-arm64
+com.ps.poweroptionfs,Power Option FS,0.0.2,iphoneos-arm
+com.ps.predictivekeyboardflipswitch,Predictive Keyboard Flipswitch,1.0.0,iphoneos-arm
+com.ps.quadhighcurrent,QuadHighCurrent,1.1.1,iphoneos-arm64
+com.ps.quicknotesenabler,Quick Notes Enabler,1.2.0,iphoneos-arm64
+com.ps.raisetowakeflipswitch,Raise To Wake Flipswitch,1.0.0,iphoneos-arm
+com.ps.recordntorch,Record 'n' Torch (iOS 12+),1.8.2,iphoneos-arm64
+com.ps.recordpause,RecordPause,2.0.3,iphoneos-arm64
+com.ps.reducemotionflipswitch,Reduce Motion Flipswitch,1.0.0,iphoneos-arm
+com.ps.reducetransparencyflipswitch,Reduce Transparency Flipswitch,1.0.0,iphoneos-arm
+com.ps.replaykitmax,ReplayKit Max,1.0.1,iphoneos-arm64
+com.ps.sixtyfps,60fps,1.0.0~b1,iphoneos-arm
+com.ps.slicesflipswitch,Slices Flipswitch,0.0.1-1,iphoneos-arm
+com.ps.smarttapflipswitch,SmartTap Flipswitch,0.0.1-1,iphoneos-arm
+com.ps.smoothcursorios13,SmoothCursor (iOS 13+),0.0.1,iphoneos-arm64
+com.ps.smoothkb,SmoothKB,1.0.3,iphoneos-arm64
+com.ps.smsgroupname,SMSGroupName,0.0.1-1,iphoneos-arm
+com.ps.splitit,SplitIt,0.0.2,iphoneos-arm
+com.ps.ssgesturesios12fix,SSGestures iOS 12 Fix,0.0.1.1,iphoneos-arm
+com.ps.staticzoom,StaticZoom,0.0.2,iphoneos-arm
+com.ps.stillcaptureenabler,Still Capture Enabler (iPadOS 15+),1.0.0,iphoneos-arm64
+com.ps.tapformore,TapForMore,1.0.2,iphoneos-arm
+com.ps.tapvideoconfig,TapVideoConfig,1.0.1,iphoneos-arm64
+com.ps.tossfaceefm,Toss Face Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
+com.ps.trollleds,TrollLEDs,1.8.0,iphoneos-arm64
+com.ps.twemojiefm,Twemoji 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.uyoucompat,uYouCompat,1.0.2,iphoneos-arm
+com.ps.voiceoverflipswitch,VoiceOver Flipswitch,1.0.0,iphoneos-arm
+com.ps.whatsallemojis,WhatsAllEmojis,1.0.0,iphoneos-arm64
+com.ps.whatsappefm,WhatsApp Emoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
+com.ps.youarethere,YouAreThere,1.0.1,iphoneos-arm
+com.ps.youchoosequality,YouChooseQuality,1.0.0-1,iphoneos-arm64
+com.ps.yougroupsettings,YouGroupSettings,1.0.1,iphoneos-arm64
+com.ps.youmusicpip,YouMusicPiP,1.0.0,iphoneos-arm
+com.ps.youmute,YouMute,1.2.3,iphoneos-arm64
+com.ps.youpip,YouPiP,1.8.9,iphoneos-arm64
+com.ps.youquality,YouQuality,1.2.1,iphoneos-arm64
+com.ps.youremembercaption,YouRememberCaption,1.0.0,iphoneos-arm
+com.ps.ytabconfig,YTABConfig,1.7.3,iphoneos-arm64
+com.ps.ytabgoodies,YTABGoodies,1.0.5,iphoneos-arm64
+com.ps.ytautofullscreen,YTAutoFullScreen,1.0.3,iphoneos-arm64
+com.ps.ytclassicvideoquality,YTClassicVideoQuality,1.4.0,iphoneos-arm64
+com.ps.ytdarker,YTDarker,1.0.3,iphoneos-arm64
+com.ps.ytdarkeruyoupatch,YTDarker for uYou Patch,1.0.0,iphoneos-arm
+com.ps.ytmabconfig,YTMABConfig,1.0.0,iphoneos-arm64
+com.ps.ytnochecklocalnetwork,YTNoCheckLocalNetwork,1.0.0,iphoneos-arm
+com.ps.ytnopaidpromo,YTNoPaidPromo,1.0.0,iphoneos-arm64
+com.ps.ytreexplore,YTReExplore,1.0.2,iphoneos-arm64
+com.ps.ytshortsprogress,YTShortsProgress,1.0.3,iphoneos-arm64
+com.ps.ytsilentvote,YTSilentVote,1.0.0,iphoneos-arm64
+com.ps.ytsystemappearance,YTSystemAppearance,1.0.0,iphoneos-arm
+com.ps.ytuhd,YTUHD,1.5.5,iphoneos-arm64
+com.ps.ytunshorts,YTUnShorts,1.2.1,iphoneos-arm64
+com.ps.ytvideooverlay,YTVideoOverlay,1.2.0,iphoneos-arm64
+com.ps.ytx,YouTube X,1.7.3,iphoneos-arm64
+com.ps.zoomtouchflipswitch,ZoomTouch Flipswitch,1.0.0,iphoneos-arm
+com.spicat.flashorama,Flashorama,1.6.2,iphoneos-arm
+com.spicat.internalphotos,InternalPhotos,1.2.1,iphoneos-arm
+com.spicat.photores,PhotoRes+,1.4.2,iphoneos-arm
+com.spicat.phototorch,PhotoTorch,1.7.1,iphoneos-arm
+com.spicat.transparentcamerabar,TransparentCameraBar,1.8,iphoneos-arm
+daniel.analytics,OSAnalytics,0.0.3,iphoneos-arm64
+org.thebigboss.dismissprogress,DismissProgress,1.1.1,iphoneos-arm
+org.thebigboss.smoothcursor,SmoothCursor,1.1.3,iphoneos-arm
+org.thebigboss.swipeformore,SwipeForMore,1.2.3,iphoneos-arm
