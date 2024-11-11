@@ -26,6 +26,14 @@
     },
     {
       "enable": 1,
+      "url": "https://apt.82flex.com/"
+    },
+    {
+      "enable": 1,
+      "url": "https://cydia.dumpapp.com/"
+    },
+    {
+      "enable": 1,
       "url": "https://invalidunit.github.io/repo2/"
     },
     {
@@ -35,6 +43,10 @@
     {
       "enable": 1,
       "url": "https://repo.chariz.com/"
+    },
+    {
+      "enable": 1,
+      "url": "https://poomsmart.github.io/repo/"
     },
     {
       "enable": 1,
