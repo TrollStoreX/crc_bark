@@ -3,7 +3,7 @@ cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.2,iphoneos-
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.llld.zfbbs,支付宝步数 XD,1.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,2.7,iphoneos-arm64e
-com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.2,iphoneos-arm64e
+com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.5,iphoneos-arm64e
 com.0xkuj.safarixs,Safari X,1.3.0,iphoneos-arm64e
 com.25mao.KuaiDou,快斗,0.1-1,iphoneos-arm64e
 com.25mao.miyou.rootlesss,微信助手,3.8-0,iphoneos-arm64e
@@ -57,6 +57,7 @@ com.mikifp.griddys,Griddy 图标随意摆,1.0.4,iphoneos-arm64e
 com.mrgcgamer.libgcuniversals,LibGcUniversal,1.7.0,iphoneos-arm64e
 com.nathan.internalstoragesettingss,显示存储系统数据详情InternalStorageSettings,1.0,iphoneos-arm64e
 com.netskao.appdatas,AppData,1.4.4,iphoneos-arm64e
+com.netskao.awemealwaysshowtimes,抖音发布时间 AwemeAlwaysShowTime,1.1-1,iphoneos-arm64e
 com.netskao.awemeclearlikess,抖音清除点赞 AwemeClearLikes,1.1-2,iphoneos-arm64e
 com.netskao.awemedisablebars,抖音禁用 AwemeDisableBar,1.1-6,iphoneos-arm64e
 com.netskao.awemedownloadmedias,抖音下载 AwemeDownloadMedia,1.1-8,iphoneos-arm64e
@@ -65,7 +66,8 @@ com.netskao.awemevideotimes,抖音时间 AwemeVideoTime,1.1-2,iphoneos-arm64e
 com.netskao.dumpdecrypters,DumpDecrypter 砸壳,1.4-9,iphoneos-arm64e
 com.netskao.qqipadmodelogins,QQ iPad 模式,1.1-1,iphoneos-arm64e
 com.netskao.qqnotiavatars,QQNotiAvatar QQ头像,1.2-2,iphoneos-arm64e
-com.netskao.twitternoadss,Twitter NoAds,1.1-1,iphoneos-arm64e
+com.netskao.twitternoadss,Twitter NoAds,1.1-2,iphoneos-arm64e
+com.netskao.wcisoverseausers,微信通行密钥 WCIsOverSeaUser,1.1-1,iphoneos-arm64e
 com.netskao.wechatnotiavatars,WeChatNotiAvatar 微信头像,1.2-5,iphoneos-arm64e
 com.notificationsgroupcounts.zh-Hans,NotificationsGroupCount 简体中文,1.0,iphoneos-arm64e
 com.opa334.dopamine.trollstore,opa334,1.0,iphoneos-arm64e
@@ -90,7 +92,7 @@ com.sutuplus.releasefugu15s,酸果,5.9.1-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram Return 回车键,1.0,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.wechat.themepro,ThemePro 微信主题,3.1.4,iphoneos-arm64e
+com.wechat.themepro,ThemePro 微信主题,3.1.6,iphoneos-arm64e
 com.weifeng.noad,威锋去广告,1.1,iphoneos-arm64e
 com.wrp1002.cornbars,CornBar 玉米手势横杠,1.1.0,iphoneos-arm64e
 com.xx.dyhooks,抖音图层,2.0.7,iphoneos-arm64e
