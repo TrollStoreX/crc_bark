@@ -44,7 +44,7 @@ com.ps.emojilayout,EmojiLayout,1.2.0,iphoneos-arm
 com.ps.emojilibrary,EmojiLibrary,1.6.1,iphoneos-arm64
 com.ps.emojilocalization,EmojiLocalization,1.1.2,iphoneos-arm
 com.ps.emojiport10resources,EmojiPort Resources (iOS 10+),1.6.0,iphoneos-arm64
-com.ps.emojiportalpha,EmojiPort (iOS 5.1),1.0.10,iphoneos-arm
+com.ps.emojiportalpha,EmojiPort (iOS 5.1),1.0.11,iphoneos-arm
 com.ps.emojiportlegacy,EmojiPort (iOS 6.0-8.2),1.8.3,iphoneos-arm
 com.ps.emojiportpe,EmojiPort (iOS 12.0-17.3),1.5.1,iphoneos-arm64
 com.ps.emojiportps,EmojiPort (iOS 8.3-9.3),1.7.1,iphoneos-arm
