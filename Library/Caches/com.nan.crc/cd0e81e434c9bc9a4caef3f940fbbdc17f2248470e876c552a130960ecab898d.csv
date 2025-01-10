@@ -2,7 +2,7 @@ Package,Name,Version,Architecture
 com.ps.3gunrestrictorflipswitch,3G Unrestrictor Flipswitch,0.0.1-1,iphoneos-arm
 com.ps.adguardunbounded,Adguard Unbounded,0.0.1.1,iphoneos-arm
 com.ps.advancedmapenabler,Advanced Map Enabler,1.0.0,iphoneos-arm64
-com.ps.amber,Amber,1.2.1,iphoneos-arm64
+com.ps.amber,Amber,1.2.2,iphoneos-arm64
 com.ps.anysuggestemojiim,AnySuggestEmoji (iMessages),1.0.1,iphoneos-arm
 com.ps.anywherepredict,AnywherePredict,1.1.3.1,iphoneos-arm
 com.ps.anywherewidgetsforipad,Anywhere Widgets for iPad,1.4.0,iphoneos-arm
@@ -93,7 +93,7 @@ com.ps.pearltracking,PearlTracking,0.0.1,iphoneos-arm64
 com.ps.pencilpro,Pencil Pro,1.0.0,iphoneos-arm64
 com.ps.poweroptionfs,Power Option FS,0.0.2,iphoneos-arm
 com.ps.predictivekeyboardflipswitch,Predictive Keyboard Flipswitch,1.0.0,iphoneos-arm
-com.ps.quadhighcurrent,QuadHighCurrent,1.1.1,iphoneos-arm64
+com.ps.quadhighcurrent,QuadHighCurrent,1.1.2,iphoneos-arm64
 com.ps.quicknotesenabler,Quick Notes Enabler,1.2.0,iphoneos-arm64
 com.ps.raisetowakeflipswitch,Raise To Wake Flipswitch,1.0.0,iphoneos-arm
 com.ps.recordntorch,Record 'n' Torch (iOS 12+),1.8.2,iphoneos-arm64
