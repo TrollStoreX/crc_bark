@@ -87,7 +87,7 @@ com.ps.notoemojicursedefm,Noto Color Emoji Cursed Unicode 15.1 (EFM),15.1.0,ipho
 com.ps.notoemojiefm,Noto Color Emoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
 com.ps.nottodayhomescreensidebar,NotTodayHomeScreenSideBar,1.0.0,iphoneos-arm
 com.ps.noytmpremium,NoYTMPremium,1.0.1,iphoneos-arm
-com.ps.noytpremium,NoYTPremium,1.0.4,iphoneos-arm64
+com.ps.noytpremium,NoYTPremium,1.0.4,iphoneos-arm64e
 com.ps.oneuiefm,Samsung One UI 6.0 Unicode 15.1 (EFM),15.1.0~beta7,iphoneos-arm64
 com.ps.openmojiefm,OpenMoji Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
 com.ps.padgrid,PadGrid,1.2.0,iphoneos-arm64
@@ -123,17 +123,17 @@ com.ps.voiceoverflipswitch,VoiceOver Flipswitch,1.0.0,iphoneos-arm
 com.ps.whatsallemojis,WhatsAllEmojis,1.0.0,iphoneos-arm64
 com.ps.whatsappefm,WhatsApp Emoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
 com.ps.youarethere,YouAreThere,1.0.1,iphoneos-arm
-com.ps.youchoosequality,YouChooseQuality,1.0.5,iphoneos-arm64
+com.ps.youchoosequality,YouChooseQuality,1.0.5,iphoneos-arm64e
 com.ps.youmusicpip,YouMusicPiP,1.1.0,iphoneos-arm64
-com.ps.youmute,YouMute,1.3.1,iphoneos-arm64
+com.ps.youmute,YouMute,1.3.1,iphoneos-arm64e
 com.ps.youpip,YouPiP,1.9.0,iphoneos-arm64
-com.ps.youquality,YouQuality,1.3.5,iphoneos-arm64
+com.ps.youquality,YouQuality,1.3.5,iphoneos-arm64e
 com.ps.youremembercaption,YouRememberCaption,1.0.0,iphoneos-arm
-com.ps.youspeed,YouSpeed,1.1.3,iphoneos-arm64
-com.ps.ytabconfig,YTABConfig,1.7.7,iphoneos-arm64
-com.ps.ytabgoodies,YTABGoodies,1.0.6,iphoneos-arm64
-com.ps.ytautofullscreen,YTAutoFullScreen,1.0.4,iphoneos-arm64
-com.ps.ytclassicvideoquality,YTClassicVideoQuality,1.4.0,iphoneos-arm64
+com.ps.youspeed,YouSpeed,1.1.3,iphoneos-arm64e
+com.ps.ytabconfig,YTABConfig,1.7.7,iphoneos-arm64e
+com.ps.ytabgoodies,YTABGoodies,1.0.6,iphoneos-arm64e
+com.ps.ytautofullscreen,YTAutoFullScreen,1.0.4,iphoneos-arm64e
+com.ps.ytclassicvideoquality,YTClassicVideoQuality,1.4.0,iphoneos-arm64e
 com.ps.ytdarker,YTDarker,1.0.3,iphoneos-arm64
 com.ps.ytdarkeruyoupatch,YTDarker for uYou Patch,1.0.0,iphoneos-arm
 com.ps.ytmabconfig,YTMABConfig,1.0.3,iphoneos-arm64
@@ -143,11 +143,11 @@ com.ps.ytreexplore,YTReExplore,1.0.3,iphoneos-arm64
 com.ps.ytshortsprogress,YTShortsProgress,1.0.3,iphoneos-arm64
 com.ps.ytsilentvote,YTSilentVote,1.0.1,iphoneos-arm64
 com.ps.ytsystemappearance,YTSystemAppearance,1.0.0,iphoneos-arm
-com.ps.ytuhd,YTUHD,1.5.9,iphoneos-arm64
+com.ps.ytuhd,YTUHD,1.5.9,iphoneos-arm64e
 com.ps.ytunshorts,YTUnShorts,1.2.2,iphoneos-arm64
 com.ps.ytvideoerroralert,YTVideoErrorAlert,1.0.0,iphoneos-arm64
-com.ps.ytvideooverlay,YTVideoOverlay,2.1.2,iphoneos-arm64
-com.ps.ytx,YouTube X,1.7.7,iphoneos-arm64
+com.ps.ytvideooverlay,YTVideoOverlay,2.1.2,iphoneos-arm64e
+com.ps.ytx,YouTube X,1.7.7,iphoneos-arm64e
 com.ps.zoomtouchflipswitch,ZoomTouch Flipswitch,1.0.0,iphoneos-arm
 com.spicat.flashorama,Flashorama,1.6.2,iphoneos-arm
 com.spicat.internalphotos,InternalPhotos,1.2.1,iphoneos-arm
