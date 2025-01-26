@@ -18,7 +18,7 @@ com.ps.batterypercentageenabler,Battery Percentage Enabler,1.0.0,iphoneos-arm
 com.ps.bigmoji,Bigmoji,1.0.0,iphoneos-arm
 com.ps.blobmojiefm,Blobmoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64e
 com.ps.blockemall,BlockEmAll,1.0.0,iphoneos-arm
-com.ps.blurrybadges,BlurryBadges (iOS 14+),1.5.2,iphoneos-arm64
+com.ps.blurrybadges,BlurryBadges (iOS 14+),1.5.2,iphoneos-arm64e
 com.ps.boldtextflipswitch,Bold Text Flipswitch,1.0.0,iphoneos-arm
 com.ps.cahighfps,CAHighFPS,1.3.2,iphoneos-arm64
 com.ps.calleridfs,Caller ID Flipswitch,0.0.2,iphoneos-arm
@@ -155,7 +155,7 @@ com.spicat.photores,PhotoRes+,1.4.2,iphoneos-arm
 com.spicat.phototorch,PhotoTorch,1.7.1,iphoneos-arm
 com.spicat.transparentcamerabar,TransparentCameraBar,1.8,iphoneos-arm
 com.vxbakerxv.emojiskinprefs,EmojiSkinPrefs,1.0.1,iphoneos-arm64
-daniel.analytics,OSAnalytics,0.0.3,iphoneos-arm64
+daniel.analytics,OSAnalytics,0.0.3,iphoneos-arm64e
 org.thebigboss.dismissprogress,DismissProgress,1.1.1,iphoneos-arm
 org.thebigboss.smoothcursor,SmoothCursor,1.1.3,iphoneos-arm
 org.thebigboss.swipeformore,SwipeForMore,1.2.5,iphoneos-arm
