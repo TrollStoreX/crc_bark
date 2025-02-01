@@ -18,7 +18,7 @@ com.ps.batterypercentageenabler,Battery Percentage Enabler,1.0.0,iphoneos-arm
 com.ps.bigmoji,Bigmoji,1.0.0,iphoneos-arm
 com.ps.blobmojiefm,Blobmoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64e
 com.ps.blockemall,BlockEmAll,1.0.0,iphoneos-arm
-com.ps.blurrybadges,BlurryBadges (iOS 14+),1.5.2,iphoneos-arm64e
+com.ps.blurrybadges,BlurryBadges (iOS 13+),1.5.3,iphoneos-arm64e
 com.ps.boldtextflipswitch,Bold Text Flipswitch,1.0.0,iphoneos-arm
 com.ps.cahighfps,CAHighFPS,1.3.2,iphoneos-arm64
 com.ps.calleridfs,Caller ID Flipswitch,0.0.2,iphoneos-arm
@@ -98,7 +98,7 @@ com.ps.quadhighcurrent,QuadHighCurrent,1.1.2,iphoneos-arm64
 com.ps.quicknotesenabler,Quick Notes Enabler,1.2.0,iphoneos-arm64
 com.ps.raisetowakeflipswitch,Raise To Wake Flipswitch,1.0.0,iphoneos-arm
 com.ps.recordntorch,Record 'n' Torch (iOS 12+),1.8.2,iphoneos-arm64
-com.ps.recordpause,RecordPause,2.0.4,iphoneos-arm64
+com.ps.recordpause,RecordPause,2.0.5,iphoneos-arm64
 com.ps.reducemotionflipswitch,Reduce Motion Flipswitch,1.0.0,iphoneos-arm
 com.ps.reducetransparencyflipswitch,Reduce Transparency Flipswitch,1.0.0,iphoneos-arm
 com.ps.replaykitmax,ReplayKit Max,1.0.1,iphoneos-arm64
