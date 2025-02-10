@@ -18,6 +18,30 @@
   "source": [
     {
       "enable": 1,
+      "url": "https://huami1314.github.io/devrepo/"
+    },
+    {
+      "enable": 1,
+      "url": "https://apt.alfhaily.me/"
+    },
+    {
+      "enable": 1,
+      "url": "https://xiangfeidexiaohuo.github.io/"
+    },
+    {
+      "enable": 1,
+      "url": "https://wkkyy00.github.io/"
+    },
+    {
+      "enable": 1,
+      "url": "https://poomsmart.github.io/repo/"
+    },
+    {
+      "enable": 1,
+      "url": "https://susubaby.top/0107/"
+    },
+    {
+      "enable": 1,
       "url": "https://invalidunit.github.io/repo/"
     },
     {
