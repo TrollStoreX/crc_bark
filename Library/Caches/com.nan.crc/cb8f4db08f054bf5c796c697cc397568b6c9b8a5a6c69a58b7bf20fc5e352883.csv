@@ -1,0 +1,257 @@
+Package,Name,Version,Architecture
+alias20.fakesignalbar,FakeSignalBar,0.1,iphoneos-arm64
+apt.april,April,3.1,iphoneos-arm64
+apt.griddy,Griddy,1.0.5,iphoneos-arm64
+apt.passby,PassBy,1.9.1,iphoneos-arm64
+apt.perfectxtime,PerfectXTime,1.1-3,iphoneos-arm64
+apt.wkk.xtyh,系统优化合集,2.0,iphoneos-arm64
+autoscroll,AutoScroll 自动滚动,1.0,iphoneos-arm64
+CC+,CC+,1.0,iphoneos-arm64
+cn.fuckwechatadblocker,FuckWeChatAdBlocker,0.0.1-2+debug,iphoneos-arm64
+cn.llld.swipeextenderx,SwipeExtenderX汉化-rootless,0.0.2,iphoneos-arm64
+cn.zqbb.musicrotation,音乐旋转,0.0.3,iphoneos-arm64
+codes.aurora.kayoko,Kayoko,2.7,iphoneos-arm64
+com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
+com.0xkuj.ccdnd,CCDND,1.0.0,iphoneos-arm64
+com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64
+com.0xkuj.notificationsgroupcounts,NotificationsGroupCount,1.0.8,iphoneos-arm64
+com.25mao.leftpan.rootless,左滑返回,1.0-6,iphoneos-arm64
+com.25mao.miyou.rootless,微信助手,3.8-0,iphoneos-arm64
+com.25mao.wcpluginss,微信插件管理,0.1-3,iphoneos-arm64
+com.25mao.wxurlexpand.rootless,微信URL扩展,0.2-0,iphoneos-arm64
+com.3dappversionspoofer,3DAppVersionSpoofer,2.0.3,iphoneos-arm64
+com.3dnetworkfixer,3DNetworkFixer,1.1-8,iphoneos-arm64
+com.3dtools,3DTools,1.0.6,iphoneos-arm64
+com.82flex.noredirect,No Redirect,1.3,iphoneos-arm64
+com.82flex.removewidgetbgs,移除小部件背景,1.7,iphoneos-arm64
+com.82flex.singlemute,Single Mute,1.5,iphoneos-arm64
+com.82flex.singlevpn,Single VPN,1.5,iphoneos-arm64
+com.82flex.wtvrbglauncher,语音转文字免跳转,1.1,iphoneos-arm64
+com.actionbarreborn,ActionBar Reborn,1.1-2,iphoneos-arm64
+com.adspeed,VideoAdsSpeed,1.1.1,iphoneos-arm64
+com.alwaysdark,AlwaysDark,1.2.3,iphoneos-arm64
+com.anthopak.addtofolder-rootless,AddToFolder,1.4,iphoneos-arm64
+com.anthopak.quickprefs,QuickPrefs,1.3.3,iphoneos-arm64
+com.apple.wechat.noads,微信广告净化助手,1.2.0,iphoneos-arm64
+com.aria,Aria,0.9.8.1,iphoneos-arm64
+com.awemeclearlikes,抖音清除点赞,1.1-2,iphoneos-arm64
+com.awemedisablebar,AwemeDisableBar,1.1-6,iphoneos-arm64
+com.awemedownloadmedia,AwemeDownloadMedia,1.1-8,iphoneos-arm64
+com.awemefullscreen,抖音全屏,1.2-3,iphoneos-arm64
+com.awemevideotime,AwemeVideoTime,1.1-2,iphoneos-arm64
+com.axon,Axon汉化版,1.5.5,iphoneos-arm64
+com.badgebreathing,Badge,0.0.1,iphoneos-arm64
+com.baiy.qqroundedcorners,qq输入框圆角,1.3,iphoneos-arm64
+com.BeanbunsHelpers.DB,抖音豆包助手,1.0-2,iphoneos-arm64
+com.be-huge.floating-view,floatingView,1.4.8,iphoneos-arm64
+com.betterccbrightness,BetterCCBrightness,1.0.3,iphoneos-arm64
+com.bhtwitter,BHTwitter中文版,4.3-6,iphoneos-arm64
+com.brend0n.nopassafterrespringsafe,NoPassAfterRespring,0.0.3,iphoneos-arm64
+com.cameronkatri.quickactions,QuickActions,1.0.0-2,iphoneos-arm64
+com.ccborder,CCBorder16,1.1.9,iphoneos-arm64
+com.cconandoff,RealCC,1.1.0,iphoneos-arm64
+com.ccswitchdata-rootless,控制中心切换双卡流量,1.1-4,iphoneos-arm64
+com.christopher.everest,Everest,1.0.1,iphoneos-arm64
+com.classicfolders3,ClassicFolders3,3.0.5.8,iphoneos-arm64
+com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64
+com.cozybadges,CozyBadges,2.1,iphoneos-arm64
+com.creaturecoding.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64
+com.cutestatusbar,猫,1.0.0,iphoneos-arm64
+com.cydiageek.gyration,Gyration,1.1.5,iphoneos-arm64
+com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.4-1,iphoneos-arm64
+com.cydiageek.springanimations,SpringAnimations,1.1.1,iphoneos-arm64
+com.cydiageek.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64
+com.daodao.wicellswitcher,WiCellSwitcher,1.2,iphoneos-arm64
+com.dao.icleanerpro,iCleaner Pro,7.10.0,iphoneos-arm64
+com.dao.noline,PurifyLine,1.0.1,iphoneos-arm64
+com.dao.safarix,SafariX,1.3.0,iphoneos-arm64
+com.dao.stella,Stella中文版,1.1.5,iphoneos-arm64
+com.dao.tvlock,TVLock,1.2.3,iphoneos-arm64
+com.dcproducts.colorbar15,ColorBar15,1.1.0,iphoneos-arm64
+com.dcproducts.pagedotsbegone,PageDotsBeGone,1.0.0,iphoneos-arm64
+com.disablebottombarlrswipe,DisableBottomBarLRSwipe,1.1-2,iphoneos-arm64
+com.douyinnoads,抖音NoAds,1.0,iphoneos-arm64
+com.dumpapp.wechat,锤子助手,2.0.4,iphoneos-arm64
+com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64
+com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
+com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
+com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64
+com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
+com.gamegod.igg.rootless,iGameGod,0.4.5,iphoneos-arm64
+com.gesturesxv,GesturesXV,1.6.1,iphoneos-arm64
+com.gilshahar7.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64
+com.ginsu.dualclock2,DualClock2,2.0.3,iphoneos-arm64
+com.gravitation,Gravitation,0.0.1,iphoneos-arm64
+com.hauncundaochu,百度网盘缓存导出,1.0,iphoneos-arm64
+com.HBWechatHelper.ailun,黄白助手,1.7-8,iphoneos-arm64
+com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64
+com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64
+com.hikari,Hikari,1.0.8,iphoneos-arm64
+com.hitori.misaki,Misaki,2.2,iphoneos-arm64
+com.hitori.passtext,PassText,1.0.1,iphoneos-arm64
+com.huami.dyyy,DYYY,1.9,iphoneos-arm64
+com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
+com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
+com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
+com.ichitaso.hidekbsettings,HideKBSettings,1.0.6,iphoneos-arm64
+com.ichitaso.ringertoggle,RingerToggle,0.3,iphoneos-arm64
+com.imkpatil.homebarsizer,HomeBarSizer,1.1.1,iphoneos-arm64
+com.immortalizer,Immortalizer真后台,2.0.1,iphoneos-arm64
+com.iwanttranslucent.wkk,3Dtouch透明,0.0.1,iphoneos-arm64
+com.jyzpbtbschyd,禁用图标移动删除,1.0,iphoneos-arm64
+com.keyswipe-rootless,KeySwipe-Rootless,1.0.2,iphoneos-arm64
+com.kitten.tweaktool,一键备份和恢复工具,2.0.0-beta,iphoneos-arm64
+com.krashkop,KrashKop,1.0.2,iphoneos-arm64
+com.lclrc.hammerit,Hammer It,1.7.1,iphoneos-arm64
+com.lclrc.hidepullover,PullOver Pro Hide,0.0.1,iphoneos-arm64
+com.lclrc.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64
+com.lecard.wuyu,Applecard,0.1,iphoneos-arm64
+com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
+com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
+com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64
+com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
+com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
+com.marie,Marie,1.0.6,iphoneos-arm64
+com.movenotification16,MoveNotification16,1.0,iphoneos-arm64
+com.mtac.lynxtwo,Lynx 2【已完整汉化】,2.5.4,iphoneos-arm64
+com.muirey03.cr4shed,Cr4shed,4.3.1-1+debug,iphoneos-arm64
+com.nahtedetihw.doodle,Doodle,1.2,iphoneos-arm64
+com.nahtedetihw.floatingdockxvi,ipad dock,2.4,iphoneos-arm64
+com.nahtedetihw.nowidgetlabels,NoWidgetLabels,1.0,iphoneos-arm64
+com.netskao.appdata,AppData,1.4.1,iphoneos-arm64
+com.netskao.autofaceunlock-rootless,AutoFaceUnlock,1.1-7,iphoneos-arm64
+com.netskao.dumpdecrypter,DumpDecrypter,1.5-1,iphoneos-arm64
+com.netskao.storeswitchaccounts,StoreSwitchAccounts,1.1-4,iphoneos-arm64
+com.netskao.wcmypageinfocenter,WCMyPageInfoCenter,1.2-1,iphoneos-arm64
+com.netskao.wctimelinemessagetails,WCTimeLineMessageTail,1.1-1,iphoneos-arm64
+com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.2-5,iphoneos-arm64
+com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
+com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
+com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
+com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64
+com.opa334.crane,Crane,1.3.16-3,iphoneos-arm64
+com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64
+com.p2kdev.quitall,QuitAll,1.0,iphoneos-arm64
+com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64
+com.p2kdev.twitternoads,TwitterNoAds,1.2.5,iphoneos-arm64
+com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
+com.ppcon.wkk,wkk for 花里胡哨控制中心,0.1,iphoneos-arm64
+com.pullclearnc,下拉清理通知,1.1-8,iphoneos-arm64
+com.pulloverpro,PullOver Pro,2.1.6,iphoneos-arm64
+com.qiop1379.swipeextenderx,SwipeExtenderX,1.6.1~2,iphoneos-arm64
+com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64
+com.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64
+com.sgwc.events,Events,1.0,iphoneos-arm64
+com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
+com.sini.centra,Centra,1.0,iphoneos-arm64
+com.sini.lazycursor,LazyCursor,1.0.3,iphoneos-arm64
+com.sini.onesettings,OneSettings插件归类,2.2,iphoneos-arm64
+com.sini.pancake,PanCake,2.2,iphoneos-arm64
+com.snail.easynotify,3DEasynotify,1.0.0,iphoneos-arm64
+com.snail.photoskipdelandinfinitezoom.rootless,PhotoSkipDelAndInfiniteZoom,0.0.1,iphoneos-arm64
+com.sop.killapps,killapps,1.7.8,iphoneos-arm64
+com.spark.snowboard,SnowBoard,1.5.37-Beta4-rootless,iphoneos-arm64
+com.squidforce.snapper3.plugins,Plugins For Snapper3,1.2,iphoneos-arm64
+com.storeswitcher2,StoreSwitcher 2,1.0.5,iphoneos-arm64
+com.sunshinesong.split-view-pro,split-view-pro,1.4.0,iphoneos-arm64
+com.susu.ios18batteryestimate,iOS18BatteryEstimate,1.0.1,iphoneos-arm64
+com.susu.powermenu,PowerMenu,1.0.4-3,iphoneos-arm64
+com.susu.springanimation,SpringAnimation,1.0.4,iphoneos-arm64
+com.susu.suxhshook,SuXHSHook,1.0,iphoneos-arm64
+com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.4,iphoneos-arm64
+com.swing.padswitcher,PadSwitcher - iPad多任务,1.1.0,iphoneos-arm64
+com.swipedownscreenshot,双指下滑截图,1.0,iphoneos-arm64
+com.tencent.themebox,ThemeBox,1.1.6-1,iphoneos-arm64
+com.teslaman3092.popoutbuttons,PopOutButtons,1.0.1,iphoneos-arm64
+com.tomaszpoliszuk.applibrarydisabler,App Library Disabler,1.1.1,iphoneos-arm64
+com.tomaszpoliszuk.dockcontroller,优雅dock,2.0,iphoneos-arm64
+com.tzfzdd,通知分组展开,1.1,iphoneos-arm64
+com.udevs.vpnindicator,VPNIndicator,1.2.0,iphoneos-arm64
+com.wechat.xuanzhuan,微信头像旋转,0.0.1,iphoneos-arm64
+com.weixinshurufa,微信输入法自定义,1.8,iphoneos-arm64
+com.Wes.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64
+com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64
+com.wkk.atriapeizhi,Atria五图标配置,1.0,iphoneos-arm64
+com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64
+com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64
+com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64
+com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64
+com.wkk.floatingViewpeizhi,floatingView设置备份,1.0,iphoneos-arm64
+com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64
+com.wkk.guazai,控制中心与写轮眼挂载,1.0,iphoneos-arm64
+com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64
+com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
+com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
+com.wkk.o2propeizhi,o2pro完整个人设置,1.0,iphoneos-arm64
+com.wkk.o2propeizhi2,o2pro最新个人设置（图）,2.0,iphoneos-arm64
+com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64
+com.wkk.onepeizhi,OneSettings配置(三款）,1.0,iphoneos-arm64
+com.wkk.peizhi,FT配置,1.0,iphoneos-arm64
+com.wkk.peizhise,SquidExtender配置(三款),1.0,iphoneos-arm64
+com.wkk.peizhisew,SquidExtender配置(最新26键),2.0,iphoneos-arm64
+com.wkk.peizhisew3,SquidExtender配置(五份配置直装),3.0,iphoneos-arm64
+com.wkk.qinglizhomgduan,RootHide插件缓存清理终端,1.0,iphoneos-arm64
+com.wkk.qmxshook,七猫小说,1.0,iphoneos-arm64
+com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64
+com.wkk.smartnetwork,SmartNetwork,1.0,iphoneos-arm64
+com.wkk.tiebahook,百度贴吧NoAds1,1.0.3,iphoneos-arm64
+com.wkk.tiebahook2,百度贴吧NoAds2,1.0.3,iphoneos-arm64
+com.wkk.tixingsheng,百款精选提醒声,1.0,iphoneos-arm64
+com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64
+com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64
+com.wkk.wyyxhook,网易邮箱NoAds,1.0,iphoneos-arm64
+com.wkk.xianyuhook,闲鱼NoAds,1.0,iphoneos-arm64
+com.wkk.xielunyanguazai,灵动岛录屏写轮眼,1.0,iphoneos-arm64
+com.wkkyy0.pikaqiuzhuxiao,皮卡丘注销动画1.0,1.0,iphoneos-arm64
+com.wkkyy0.qipao,微信气泡制作终端1.0,1.0,iphoneos-arm64
+com.wkkyy0.weixinqipao,红包气泡1.0,1.0,iphoneos-arm64
+com.wkk.zhihuhook,知乎NoAds,1.0,iphoneos-arm64
+com.wkk.zhuanjixuanzhuan,灵动岛音乐专辑旋转,1.0,iphoneos-arm64
+com.wkk.zhuxiaoguazai,皮卡丘注销动画2.0,2.0,iphoneos-arm64
+com.xybp888.lockbutton,一键锁屏,0.1-2,iphoneos-arm64
+com.yan.stella,Stella,1.1,iphoneos-arm64
+com.yourepo.arm64-debs.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64
+com.yourepo.arm64-debs.uiextensionswitches,UI Extension Switches,2.3,iphoneos-arm64
+com.yourepo.cydiageek.nochargingsound,禁用充电声音,0.0.1,iphoneos-arm64
+com.yourepo.huayuarc.-rootless16,【键盘】隐藏键盘地球-Rootless,0.0.1,iphoneos-arm64
+com.yourepo.huayuarc.-rootless17,【键盘】隐藏语音图标-Rootless,0.0.1,iphoneos-arm64
+com.zaire-rootless,Zaire,0.9.0,iphoneos-arm64
+com.zetsu,Zetsu,1.5,iphoneos-arm64
+com.zhezhaojihe.baidu,遮罩集合大全,1.0,iphoneos-arm64
+cpm.wkk.tinge,Tinge,1.2.1,iphoneos-arm64
+denyphotoalbumsllld.rootless,Photo pro,9.9.9,iphoneos-arm64
+dev.traurige.eneko,Eneko,1.4.2,iphoneos-arm64
+info.adolfoi.simplehome,SimpleHome,1.1.0,iphoneos-arm64
+jp.soh.freepip,FreePIP,0.0.3-1,iphoneos-arm64
+jp.uzra.getdown,GetDown,1.0,iphoneos-arm64
+killapps,一键后台清理,1.2-2,iphoneos-arm64
+kr.xsf1re.vnodebypass,vnodebypass,0.4.3,iphoneos-arm64
+latchkey,Latchkey,5.2.0,iphoneos-arm64
+locked5,锁屏来电拒接,1.0,iphoneos-arm64
+me.aleksilassila.redditundoscrollup,RedditUndoScrollUp,0.0.2,iphoneos-arm64
+me.ikghd.ikset,iKSettings,3.4,iphoneos-arm64
+me.ikghd.pmp,PMP,2.0,iphoneos-arm64
+me.lau.atria,Atria,1.4.1,iphoneos-arm64
+me.luki.arizona,Arizona,0.9.2,iphoneos-arm64
+me.luki.canna,Canna,0.9.0,iphoneos-arm64
+me.nebula.ding,Ding,1.1.0,iphoneos-arm64
+MisakaHelper,MisakaHelper,2.1-0,iphoneos-arm64
+net.joebruce.uninstallguard,卸载守护者,1.5.6,iphoneos-arm64
+netskao.wechatpurification,微信净化END,4.2-6-END,iphoneos-arm64
+newterm3theos,newterm3中文版(带theos包),3.0,iphoneos-arm64
+ngthienhoan.nobetaalert,去除Beta弹窗,1.0,iphoneos-arm64
+nohomebar,隐藏底部横条,1.1,iphoneos-arm64
+org.haxi0.derootifiers,Derootifier转无根,1.3,iphoneos-arm64
+preferenceloader,PreferenceLoader,2.2.7,iphoneos-arm64
+preferenceloader.rootless.top,PreferenceLoader - rootless (top),2.2.6.6,iphoneos-arm64
+recordpauses,录像暂停 RecordPause,2.0.4,iphoneos-arm64
+ru.domo.cocoatop64,CocoaTop64,2.2.4,iphoneos-arm64
+sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64
+twitter.nowesr1.photosplus,PhotosPlus,0.0.1,iphoneos-arm64
+wiki.qaq.chromatic.rootless,Saily,3.0-rootless-release-1724937362.2952e67,iphoneos-arm64
+wkk.skitty.lightsout,LightsOut,1.2,iphoneos-arm64
+wkk.zeppelinreborn,Zeppelin Reborn,1.4.2,iphoneos-arm64
+ws.hbang.newterm3,NewTerm 3 Beta,3.0~beta1,iphoneos-arm64
+xc.lzsxcl.o2pro.rootless,o2Pro,17.2,iphoneos-arm64
+xiaochouzhenhoutai.wkk,小丑真后台,0.1.0,iphoneos-arm64
+z.nowplayingviewcontroller,隐藏锁屏音乐组件,1.0,iphoneos-arm64
