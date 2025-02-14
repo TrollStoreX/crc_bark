@@ -53,7 +53,7 @@ com.ccborder,CCBorder16,1.1.9,iphoneos-arm64e
 com.cconandoff,RealCC,1.1.0,iphoneos-arm64
 com.ccswitchdata-rootless,控制中心切换双卡流量,1.1-4,iphoneos-arm64
 com.christopher.everest,Everest,1.0.1,iphoneos-arm64
-com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64e
+com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64
 com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64
 com.cozybadges,CozyBadges,2.1,iphoneos-arm64
 com.creaturecoding.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64
@@ -143,7 +143,7 @@ com.pullclearnc,下拉清理通知,1.1-8,iphoneos-arm64
 com.pulloverpro,PullOver Pro,2.1.6,iphoneos-arm64
 com.qiop1379.swipeextenderx,SwipeExtenderX,1.6.1~2,iphoneos-arm64
 com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64
-com.serena.AppIndex,AppIndex,1.0,iphoneos-arm64
+com.serena.AppIndex,AppIndex,1.0,iphoneos-arm64e
 com.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64
 com.sgwc.events,Events,1.0,iphoneos-arm64
 com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
@@ -189,13 +189,9 @@ com.wkk.guazai,控制中心与写轮眼挂载,1.0,iphoneos-arm64
 com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
-com.wkk.o2propeizhi,o2pro完整个人设置,1.0,iphoneos-arm64
-com.wkk.o2propeizhi2,o2pro最新个人设置（图）,2.0,iphoneos-arm64
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.onepeizhi,OneSettings配置(三款）,1.0,iphoneos-arm64
 com.wkk.peizhi,FT配置,1.0,iphoneos-arm64
-com.wkk.peizhise,SquidExtender配置(三款),1.0,iphoneos-arm64
-com.wkk.peizhisew,SquidExtender配置(最新26键),2.0,iphoneos-arm64
 com.wkk.peizhisew3,SquidExtender配置(五份配置直装),3.0,iphoneos-arm64
 com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64
 com.wkk.qinglizhomgduan,RootHide插件缓存清理终端,1.0,iphoneos-arm64
@@ -264,6 +260,5 @@ wiki.qaq.chromatic.rootless,Saily,3.0-rootless-release-1724937362.2952e67,iphone
 wkk.skitty.lightsout,LightsOut,1.2,iphoneos-arm64
 wkk.zeppelinreborn,Zeppelin Reborn,1.4.2,iphoneos-arm64e
 ws.hbang.newterm3,NewTerm 3 Beta,3.0~beta1,iphoneos-arm64
-xc.lzsxcl.o2pro.rootless,o2Pro,17.2,iphoneos-arm64
 xiaochouzhenhoutai.wkk,小丑真后台,0.1.0,iphoneos-arm64e
 z.nowplayingviewcontroller,隐藏锁屏音乐组件,1.0,iphoneos-arm64
