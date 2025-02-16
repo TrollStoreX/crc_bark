@@ -11,7 +11,7 @@ cn.fuckwechatadblocker,FuckWeChatAdBlocker,0.0.1-2+debug,iphoneos-arm64
 cn.llld.swipeextenderx,SwipeExtenderX汉化-rootless,0.0.2,iphoneos-arm64
 cn.zqbb.appdata,Hello AppData,1.3.6-9,iphoneos-arm64e
 cn.zqbb.musicrotation,音乐旋转,0.0.3,iphoneos-arm64
-codes.aurora.kayoko,Kayoko,2.7,iphoneos-arm64
+codes.aurora.kayoko,Kayoko,2.7,iphoneos-arm64e
 com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
 com.0xkuj.ccdnd,CCDND,1.0.0,iphoneos-arm64e
 com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64
@@ -54,7 +54,7 @@ com.cconandoff,RealCC,1.1.0,iphoneos-arm64
 com.ccswitchdata-rootless,控制中心切换双卡流量,1.1-4,iphoneos-arm64
 com.christopher.everest,Everest,1.0.1,iphoneos-arm64
 com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64
-com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64
+com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64e
 com.cozybadges,CozyBadges,2.1,iphoneos-arm64
 com.creaturecoding.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64
 com.cutestatusbar,猫,1.0.0,iphoneos-arm64
@@ -99,7 +99,7 @@ com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
 com.ichitaso.hidekbsettings,HideKBSettings,1.0.6,iphoneos-arm64
 com.ichitaso.ringertoggle,RingerToggle,0.3,iphoneos-arm64
 com.imkpatil.homebarsizer,HomeBarSizer,1.1.1,iphoneos-arm64
-com.immortalizer,Immortalizer真后台,2.0.1,iphoneos-arm64
+com.immortalizer,Immortalizer真后台,2.0.1,iphoneos-arm64e
 com.iwanttranslucent.wkk,3Dtouch透明,0.0.1,iphoneos-arm64
 com.jontelang.instalauncher2,InstaLauncher 2,1.11.0,iphoneos-arm64
 com.jyzpbtbschyd,禁用图标移动删除,1.0,iphoneos-arm64
@@ -179,14 +179,14 @@ com.susu.springanimation,SpringAnimation,1.0.4,iphoneos-arm64
 com.susu.suawemehook,SuAwemeHook,1.2-4,iphoneos-arm64
 com.susu.suxhshook,SuXHSHook,1.0,iphoneos-arm64
 com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.4,iphoneos-arm64
-com.swing.padswitcher,PadSwitcher - iPad多任务,1.1.0,iphoneos-arm64
+com.swing.padswitcher,PadSwitcher - iPad多任务,1.1.0,iphoneos-arm64e
 com.swipedownscreenshot,双指下滑截图,1.0,iphoneos-arm64
 com.tencent.themebox,ThemeBox,1.1.8-1,iphoneos-arm64
 com.teslaman3092.popoutbuttons,PopOutButtons,1.0.1,iphoneos-arm64
 com.tomaszpoliszuk.applibrarydisabler,App Library Disabler,1.1.1,iphoneos-arm64
 com.tomaszpoliszuk.dockcontroller,优雅dock,2.0,iphoneos-arm64
 com.tzfzdd,通知分组展开,1.1,iphoneos-arm64
-com.udevs.dockx,DockX,2.6.2,iphoneos-arm64
+com.udevs.dockx,DockX,2.6.2,iphoneos-arm64e
 com.udevs.vpnindicator,VPNIndicator,1.2.0,iphoneos-arm64e
 com.wechat.xuanzhuan,微信头像旋转,0.0.1,iphoneos-arm64
 com.Wes.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64e
@@ -270,7 +270,7 @@ org.haxi0.derootifiers,Derootifier转无根,1.3,iphoneos-arm64
 preferenceloader,PreferenceLoader,2.2.7,iphoneos-arm64
 preferenceloader.rootless.top,PreferenceLoader - rootless (top),2.2.6.6,iphoneos-arm64
 recordpauses,录像暂停 RecordPause,2.0.4,iphoneos-arm64
-ru.domo.cocoatop64,CocoaTop64,2.2.4,iphoneos-arm64
+ru.domo.cocoatop64,CocoaTop64,2.2.4,iphoneos-arm64e
 sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64
 twitter.nowesr1.photosplus,PhotosPlus,0.0.1,iphoneos-arm64e
 wiki.qaq.chromatic.rootless,Saily,3.0-rootless-release-1724937362.2952e67,iphoneos-arm64
