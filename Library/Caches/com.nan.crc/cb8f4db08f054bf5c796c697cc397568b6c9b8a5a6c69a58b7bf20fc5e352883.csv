@@ -122,7 +122,7 @@ com.lecard.wuyu,Applecard,0.1,iphoneos-arm64e
 com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
 com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64
-com.lly.shortvideodl,短视频助手,1.8.3,iphoneos-arm64
+com.lly.shortvideodl,短视频助手,1.8.5,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
 com.lxcloud.WCEhance,WCEhance,1.0-2,iphoneos-arm64
@@ -273,8 +273,7 @@ me.lau.atria,Atria,1.4.1,iphoneos-arm64e
 me.luki.arizona,Arizona,0.9.2,iphoneos-arm64
 me.luki.canna,Canna,0.9.0,iphoneos-arm64e
 me.nebula.ding,Ding,1.1.0,iphoneos-arm64
-MikotoHelper,MikotoHelper,1.3.6,iphoneos-arm64
-MisakaHelper,MisakaHelper,2.1-0,iphoneos-arm64
+MisakaHelper,MisakaHelper,2.1-1-end,iphoneos-arm64
 net.joebruce.uninstallguard,卸载守护者,1.5.6,iphoneos-arm64
 netskao.wechatpurification,微信净化END,4.2-6-END,iphoneos-arm64
 newterm3theos,newterm3中文版(带theos包),3.0,iphoneos-arm64
