@@ -208,7 +208,9 @@ com.Wes.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64
+com.wkk.car,Car解压终端(自用),1.0,iphoneos-arm64
 com.wkk.center,wkkCenter,1.0,iphoneos-arm64
+com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64
 com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64
 com.wkk.dzdphook,大众点评NoAds,1.0,iphoneos-arm64
@@ -223,8 +225,10 @@ com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64
 com.wkk.peizhisew,SquidExtender配置(五份配置直装),1.0,iphoneos-arm64
 com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64
+com.wkk.qipao,红包气泡制作终端(自用),1.0,iphoneos-arm64
 com.wkk.qmxshook,七猫小说,1.0,iphoneos-arm64
 com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64
+com.wkk.roothidezd,清理终端(自用),1.0,iphoneos-arm64
 com.wkk.shunfenghook,顺丰速运NoAds,1.0,iphoneos-arm64
 com.wkk.singlevpnandmute,ShadowrocketMute,1.0,iphoneos-arm64
 com.wkk.smartnetwork,SmartNetwork,1.0,iphoneos-arm64
