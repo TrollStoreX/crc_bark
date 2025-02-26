@@ -190,10 +190,8 @@ com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
 com.dao.bhinsta,BHInsta(rootless),0.0.1,iphoneos-arm64
 com.dao.bhtiktok++,BHTikTok++中文版(RootHide),1.7.1,iphoneos-arm64e
-com.dao.bhtiktok.cn,BHTikTok 简体中文包(RootHide),0.2,iphoneos-arm64e
 com.dao.bhtiktokmod,BHTikTok Plus(rootless),2.3,iphoneos-arm64
 com.dao.bhtkplus,BHTikTok++ 原版(rootless),1.9.3,iphoneos-arm64
-com.dao.bhtkplus.cn,BHTikTok++ 简体中文包(rootless),1.8,iphoneos-arm64
 com.dao.bhtwitter,BHTwitter 中文版(RootHide),4.3-6,iphoneos-arm64e
 com.dao.bigshotsnapper3plugin,BigShot 长截图(rootless),1.1,iphoneos-arm64
 com.dao.blurrybadges,BlurryBadges 中文版(RootHide),1.5.2.1,iphoneos-arm64e
@@ -244,6 +242,7 @@ com.dao.pf2.cn,PrimalFolder2 简体中文包(RootHide),0.1.2,iphoneos-arm64e
 com.dao.photosplus,PhotosPlus(RootHide),0.0.1,iphoneos-arm64e
 com.dao.plamyuipro,PlampyUIPro(rootless),1.0,iphoneos-arm64
 com.dao.pogr,PodsGrant(rootless),0.4.0~prerelease3,iphoneos-arm64
+com.dao.pokeboxreborn.cn,Pokébox Reborn 简体中文包(rootless),2.0.2,iphoneos-arm64
 com.dao.popbuttons.cn,PopOutButtons 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.powercuff,Powercuff(RootHide),1.0.1,iphoneos-arm64e
 com.dao.primalfolder2,PrimalFolder2(rootless),0.1.2,iphoneos-arm64
