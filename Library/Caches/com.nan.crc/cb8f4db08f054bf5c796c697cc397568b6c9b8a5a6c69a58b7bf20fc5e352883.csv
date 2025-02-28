@@ -12,6 +12,7 @@ cn.fuckwechatadblocker,FuckWeChatAdBlocker,0.0.1-2+debug,iphoneos-arm64
 cn.llld.flexlist,Flexlist/Flexing汉化,0.0.4,iphoneos-arm64e
 cn.llld.swipeextenderx,SwipeExtenderX汉化-rootless,0.0.2,iphoneos-arm64
 cn.zqbb.appdata,Hello AppData,1.3.6-9,iphoneos-arm64
+cn.zqbb.fix120hz,Hello 120Hz,3.2.0-1,iphoneos-arm64
 cn.zqbb.musicrotation,音乐旋转,0.0.3,iphoneos-arm64
 codes.aurora.kayoko,Kayoko,2.7,iphoneos-arm64
 com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
@@ -124,7 +125,7 @@ com.lecard.wuyu,Applecard,0.1,iphoneos-arm64
 com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
 com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64
-com.lly.shortvideodl,短视频助手,1.8.7,iphoneos-arm64
+com.lly.shortvideodl,短视频助手,1.8.8,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
 com.lxcloud.WCEhance,WCEhance,1.0-3,iphoneos-arm64
