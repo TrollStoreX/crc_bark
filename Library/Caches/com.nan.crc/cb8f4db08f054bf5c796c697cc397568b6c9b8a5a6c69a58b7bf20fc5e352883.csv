@@ -103,7 +103,7 @@ com.huami.dyyy,DYYY,1.9,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
-com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,1.0-8,iphoneos-arm64
+com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,2.0-1,iphoneos-arm64
 com.ichitaso.hidekbsettings,HideKBSettings,1.0.6,iphoneos-arm64
 com.ichitaso.iconorder,IconOrder,1.0.3,iphoneos-arm64
 com.ichitaso.ringertoggle,RingerToggle,0.3,iphoneos-arm64
@@ -228,6 +228,7 @@ com.wkk.jptext,修改原生键盘上文字,1.0,iphoneos-arm64
 com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
+com.wkk.lineguazai,线条旋转注销动画,1.0,iphoneos-arm64
 com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
 com.wkk.nndxguazai,妮妮打熊注销动画,2.0,iphoneos-arm64
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64
