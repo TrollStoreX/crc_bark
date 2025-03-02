@@ -221,6 +221,7 @@ com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64
 com.wkk.dyhook,抖音去+号,1.0,iphoneos-arm64
 com.wkk.dzdphook,大众点评NoAds,1.0,iphoneos-arm64
 com.wkk.ersatz,Ersatz,1.0.1,iphoneos-arm64
+com.wkk.faceguazai,笑脸注销动画,1.0,iphoneos-arm64
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64
 com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64
 com.wkk.jptext,修改原生键盘上文字,1.0,iphoneos-arm64
@@ -228,12 +229,14 @@ com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
 com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
+com.wkk.nndxguazai,妮妮打熊注销动画,2.0,iphoneos-arm64
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64
 com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64
 com.wkk.qipao,红包气泡制作终端(自用),1.0,iphoneos-arm64
 com.wkk.qmxshook,七猫小说,1.0,iphoneos-arm64
 com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64
 com.wkk.roothidezd,清理终端(自用),1.0,iphoneos-arm64
+com.wkk.shouzhiguazai,手指打桌注销动画,1.0,iphoneos-arm64
 com.wkk.shunfenghook,顺丰速运NoAds,1.0,iphoneos-arm64
 com.wkk.singlevpnandmute,ShadowrocketMute,1.0,iphoneos-arm64
 com.wkk.smartnetwork,SmartNetwork,1.0,iphoneos-arm64
@@ -248,6 +251,7 @@ com.wkk.tixingsheng,百款精选提醒声,1.0,iphoneos-arm64
 com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64
 com.wkk.WeChatmiaobian,WeChatStroke,1.0,iphoneos-arm64
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64
+com.wkk.windowsguazai,Windows注销动画,2.0,iphoneos-arm64
 com.wkk.wyyxhook,网易邮箱NoAds,1.0,iphoneos-arm64
 com.wkk.xianyuhook,闲鱼NoAds,1.0,iphoneos-arm64
 com.wkk.xielunyanguazai,灵动岛录屏写轮眼,2.0,iphoneos-arm64
