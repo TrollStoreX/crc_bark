@@ -212,7 +212,7 @@ com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
 com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
 com.dao.designer,Designer(rootless),1.4.5,iphoneos-arm64
 com.dao.dumpdecrypter,DumpDecrypter(rootless),1.5-1,iphoneos-arm64
-com.dao.filzacrack,Filza Crack(rootless),1.1-8,iphoneos-arm64
+com.dao.filzacrack,Filza Crack(RootHide),1.1-8,iphoneos-arm64e
 com.dao.fivecolumnscc,CC5(rootless),1.0.b4,iphoneos-arm64
 com.dao.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.dao.fuckthermal,去你X的温控iOS15(rootless),1.2-38,iphoneos-arm64
@@ -263,6 +263,7 @@ com.dao.senri.cn,Senri 简体中文包(RootHide),1.1,iphoneos-arm64e
 com.dao.settingsrevamp,SettingsRevamp(RootHide),3.0.1,iphoneos-arm64e
 com.dao.showmytouches,ShowMyTouches(rootless),1.1.2,iphoneos-arm64
 com.dao.showtouch,ShowTouch(rootless),1.0.4-3,iphoneos-arm64
+com.dao.sileo.cn,Sileo 中文增补包(RootHide),2.5,iphoneos-arm64e
 com.dao.sleeperx.cn,SleeperX 简体中文包(rootless),3.0.0,iphoneos-arm64
 com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
 com.dao.souvenir,Souvenir(rootless),1.25,iphoneos-arm64
@@ -934,6 +935,7 @@ com.ikilledappl3.malipo.cn,Malipo 简体中文包,1.0.2-1,iphoneos-arm
 com.imkpatil.colormybattery.cn,ColorMyBattery 简体中文包,1.2.2,iphoneos-arm
 com.jrttnoads.rootless,头条NoAds(rootless),1.0,iphoneos-arm64
 com.MenuSupport.zh-hans,MenuSupport 简体中文包(rootless),0.0.1,iphoneos-arm64
+com.mrgcgamer.libgcuniversal,LibGcUniversal(RootHide),1.7.0,iphoneos-arm64e
 com.PassText.zh-hans,PassText 简体中文包(rootless),0.0.1,iphoneos-arm64
 com.qms.cpudasher,CPUDasher 破解VIP(RootHide),1.1,iphoneos-arm64e
 com.sandy0.bazzi.cn,Bazzi 简体中文包,2.0.5,iphoneos-arm
