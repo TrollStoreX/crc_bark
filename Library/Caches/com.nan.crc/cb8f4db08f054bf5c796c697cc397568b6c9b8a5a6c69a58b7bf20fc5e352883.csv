@@ -99,7 +99,7 @@ com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64
 com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64
 com.hikari,Hikari,1.0.8,iphoneos-arm64
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64
-com.huami.dyyy,DYYY,2.0-1,iphoneos-arm64
+com.huami.dyyy,DYYY,2.0-2,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
@@ -125,7 +125,7 @@ com.lecard.wuyu,Applecard,0.1,iphoneos-arm64e
 com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
 com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64
-com.lly.shortvideodl,短视频助手,1.8.8,iphoneos-arm64
+com.lly.shortvideodl,短视频助手,1.8.9,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
 com.lxcloud.WCEhance,WCEhance,1.0-4,iphoneos-arm64
@@ -198,7 +198,7 @@ com.susu.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64
 com.susu.powermenu,PowerMenu,1.0.5,iphoneos-arm64
 com.susu.reachplayer,ReachPlayer音乐专辑,3.1,iphoneos-arm64e
 com.susu.springanimation,SpringAnimation,1.0.4,iphoneos-arm64
-com.susu.suawemehook,SuAwemeHook,1.3-end,iphoneos-arm64
+com.susu.suawemehook,SuAwemeHook,1.3.2,iphoneos-arm64
 com.susu.suxhshook,SuXHSHook,1.0,iphoneos-arm64
 com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.4,iphoneos-arm64
 com.swing.padswitcher,PadSwitcher - iPad多任务,1.1.0,iphoneos-arm64
