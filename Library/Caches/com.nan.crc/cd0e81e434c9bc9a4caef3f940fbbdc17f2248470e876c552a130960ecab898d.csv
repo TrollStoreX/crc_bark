@@ -12,7 +12,7 @@ com.ps.apppad,AppPad,1.1.2,iphoneos-arm64
 com.ps.assistivetouchflipswitch,Assistive Touch Flipswitch,1.0.0,iphoneos-arm
 com.ps.backgroundapprefreshflipswitch,Background App Refresh Flipswitch,1.0.0,iphoneos-arm
 com.ps.backupdfix,backupd_fix,1.0.0,iphoneos-arm
-com.ps.backupdfix10,backupd_fix Legacy,1.0.0,iphoneos-arm
+com.ps.backupdfix10,backupd_fix Legacy,1.0.1,iphoneos-arm
 com.ps.batteryhealthenabler,Battery Health Enabler,1.0.0,iphoneos-arm64
 com.ps.batterypercentageenabler,Battery Percentage Enabler,1.0.0,iphoneos-arm
 com.ps.bigmoji,Bigmoji,1.0.0,iphoneos-arm
