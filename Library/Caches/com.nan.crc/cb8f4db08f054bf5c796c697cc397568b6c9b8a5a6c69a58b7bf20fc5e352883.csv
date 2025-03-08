@@ -48,8 +48,8 @@ com.awemevideotime,AwemeVideoTime,1.1-2,iphoneos-arm64
 com.axon,Axon汉化版,1.5.5,iphoneos-arm64
 com.badgebreathing,Badge,0.0.1,iphoneos-arm64
 com.baiy.qqroundedcorners,qq输入框圆角,1.3,iphoneos-arm64
-com.BeanbunsHelpers.DB,抖音豆包助手,1.0-3,iphoneos-arm64
-com.be-huge.floating-view,floatingView,1.4.9,iphoneos-arm64
+com.BeanbunsHelpers.DB,抖音豆包助手,1.0-4,iphoneos-arm64
+com.be-huge.floating-view,floatingView,1.5.0,iphoneos-arm64
 com.betterccbrightness,BetterCCBrightness,1.0.3,iphoneos-arm64
 com.bhtwitter,BHTwitter中文版,4.3-6,iphoneos-arm64
 com.brend0n.nopassafterrespringsafe,NoPassAfterRespring,0.0.3,iphoneos-arm64
@@ -86,6 +86,8 @@ com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
+com.forSnapper3three.wkk,Snapper3 美化（3）,1.0,iphoneos-arm64e
+com.forSnapper3two.wkk,Snapper3 美化（2）,1.0,iphoneos-arm64e
 com.forSnapper3.wkk,Snapper3 自用美化,1.0,iphoneos-arm64e
 com.gamegod.igg.rootless,iGameGod,0.4.5,iphoneos-arm64
 com.gesturesxv,GesturesXV,1.6.1,iphoneos-arm64
@@ -99,7 +101,7 @@ com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64
 com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64
 com.hikari,Hikari,1.0.8,iphoneos-arm64
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64
-com.huami.dyyy,DYYY,2.0-6,iphoneos-arm64
+com.huami.dyyy,DYYY,2.0-8,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
@@ -126,7 +128,7 @@ com.lecard.wuyu,Applecard,0.1,iphoneos-arm64e
 com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
 com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64
-com.lly.shortvideodl,短视频助手,1.8.9,iphoneos-arm64
+com.lly.shortvideodl,短视频助手,1.9.0,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
 com.lxcloud.WCEhance,WCEhance,1.0-5,iphoneos-arm64
