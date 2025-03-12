@@ -57,6 +57,7 @@ com.brend0n.nopassafterrespringsafe,NoPassAfterRespring,0.0.3,iphoneos-arm64
 com.cameronkatri.quickactions,QuickActions,1.0.0-2,iphoneos-arm64
 com.ccborder,CCBorder16,1.1.9,iphoneos-arm64
 com.cconandoff,RealCC,1.1.0,iphoneos-arm64
+com.ccsim,CCSIM,1.1-9,iphoneos-arm64
 com.ccswitchdata-rootless,控制中心切换双卡流量,1.1-4,iphoneos-arm64
 com.christopher.everest,Everest,1.0.1,iphoneos-arm64
 com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64
@@ -183,7 +184,7 @@ com.sini.pancake,PanCake,2.2,iphoneos-arm64
 com.snail.easynotify,3DEasynotify,1.0.0,iphoneos-arm64
 com.snail.photoskipdelandinfinitezoom.rootless,PhotoSkipDelAndInfiniteZoom,0.0.1,iphoneos-arm64
 com.sop.killapps,killapps,1.7.8,iphoneos-arm64
-com.spark.snowboard,SnowBoard,1.5.37-Beta4-rootless,iphoneos-arm64
+com.spark.snowboard,SnowBoard,1.5.9-Beta3-rootless,iphoneos-arm64
 com.spark.snowboardapplication,SnowBoard,1.1.0~Beta4-rootless,iphoneos-arm64
 com.spark.snowboard.dock,SnowBoard Dock Extension,1.1.3~Beta4-rootless,iphoneos-arm64
 com.spark.snowboard.effects,SnowBoard Icon Effects Extension,1.2.2-Beta2-rootless,iphoneos-arm64
