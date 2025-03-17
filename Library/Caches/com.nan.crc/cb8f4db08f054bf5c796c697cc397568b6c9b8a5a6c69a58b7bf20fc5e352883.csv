@@ -86,6 +86,7 @@ com.dumpapp.wechat,锤子助手,2.0.4,iphoneos-arm64
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
 com.dyzs,抖音助手,1.1-2,iphoneos-arm64
 com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
+com.enhance,WeChatEnhance,1.0.0-2+debug,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
@@ -105,7 +106,7 @@ com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64
 com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64
 com.hikari,Hikari,1.0.8,iphoneos-arm64
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64
-com.huami.dyyy,DYYY,2.1-4,iphoneos-arm64
+com.huami.dyyy,DYYY,2.1-5,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
@@ -209,7 +210,7 @@ com.susu.hidekbsettings,HideKBSettings,1.0.7,iphoneos-arm64
 com.susu.ios18batteryestimate,iOS18BatteryEstimate,1.0.1,iphoneos-arm64
 com.susu.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.susu.powermenu,PowerMenu,1.0.5,iphoneos-arm64
-com.susu.reachplayer,ReachPlayer音乐专辑,3.6,iphoneos-arm64
+com.susu.reachplayer,ReachPlayer音乐专辑,3.7.5,iphoneos-arm64
 com.susu.springanimation,SpringAnimation,1.0.4,iphoneos-arm64
 com.susu.suawemehook,SuAwemeHook,1.3.8,iphoneos-arm64
 com.susu.suxhshook,SuXHSHook,1.0,iphoneos-arm64
