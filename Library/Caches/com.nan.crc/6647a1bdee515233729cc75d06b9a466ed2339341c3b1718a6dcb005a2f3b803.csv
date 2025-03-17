@@ -2,6 +2,7 @@ Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.llld.zfbbs,支付宝步数 XD,1.3,iphoneos-arm64e
+cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,2.8,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.7,iphoneos-arm64e
 com.0xkuj.safarixs,Safari X,1.9.8,iphoneos-arm64e
