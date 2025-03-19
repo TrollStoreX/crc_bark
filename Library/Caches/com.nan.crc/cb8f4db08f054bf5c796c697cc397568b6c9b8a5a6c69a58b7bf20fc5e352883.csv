@@ -14,6 +14,7 @@ cn.upsidedowned,Upsidedowned,1.1-4+debug,iphoneos-arm64
 cn.zqbb.appdata,Hello AppData,1.3.6-9,iphoneos-arm64
 cn.zqbb.fix120hz,Hello 120Hz,3.2.0-1,iphoneos-arm64e
 cn.zqbb.musicrotation,音乐旋转,0.0.3,iphoneos-arm64
+cn.zqbb.orzfolder,Hello Folder,1.3.3-2,iphoneos-arm64
 cn.zqbb.phonekey.reset,PhoneKeyReset拨号键复位,1.0.0-1,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.7,iphoneos-arm64
 com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
@@ -87,7 +88,7 @@ com.dumpapp.wechat,锤子助手,2.0.4,iphoneos-arm64
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
 com.dyzs,抖音助手,1.1-3,iphoneos-arm64
 com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
-com.enhance,WeChatEnhance,1.0.8,iphoneos-arm64
+com.enhance,WeChatEnhance,1.0.9,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
@@ -137,7 +138,7 @@ com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iph
 com.liuf.ceshi,sileo头像旋转,0.0.1,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64e
 com.lly.ghallownetwork,Allow Network,0.0.1,iphoneos-arm64e
-com.lly.shortvideodl,短视频助手,1.9.6,iphoneos-arm64
+com.lly.shortvideodl,短视频助手,1.9.7,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
 com.lxcloud.WCEhance,WCEhance,1.0-6,iphoneos-arm64
@@ -211,8 +212,8 @@ com.sunshinesong.split-view-pro,split-view-pro,1.4.0,iphoneos-arm64e
 com.susu.hidekbsettings,HideKBSettings,1.0.7,iphoneos-arm64
 com.susu.ios18batteryestimate,iOS18BatteryEstimate,1.0.1,iphoneos-arm64
 com.susu.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
-com.susu.powermenu,PowerMenu,1.0.5,iphoneos-arm64
-com.susu.reachplayer,ReachPlayer音乐专辑,3.7.5,iphoneos-arm64
+com.susu.powermenu,PowerMenu,1.0.6,iphoneos-arm64
+com.susu.reachplayer,ReachPlayer音乐专辑,3.7.9,iphoneos-arm64
 com.susu.springanimation,SpringAnimation,1.0.4,iphoneos-arm64
 com.susu.suawemehook,SuAwemeHook,1.3.8,iphoneos-arm64
 com.susu.suxhshook,SuXHSHook,1.0,iphoneos-arm64
