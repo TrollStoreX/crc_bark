@@ -188,7 +188,7 @@ com.dao.axon,Axon 中文版(RootHide),1.5.5,iphoneos-arm64e
 com.dao.azule,Azule(rootless),0.8.2,iphoneos-arm64
 com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
-com.dao.bhinsta,BHInsta(rootless),0.0.1,iphoneos-arm64
+com.dao.bhinsta,BHInsta 中文版(RootHide),1.1,iphoneos-arm64e
 com.dao.bhtiktok++,BHTikTok++中文版(RootHide),1.7.1,iphoneos-arm64e
 com.dao.bhtiktokmod,BHTikTok Plus(rootless),2.3,iphoneos-arm64
 com.dao.bhtkplus,BHTikTok++ 原版(rootless),1.9.3,iphoneos-arm64
@@ -252,7 +252,7 @@ com.dao.qqnotiavatar,QQ 通知头像(rootless),1.2-2,iphoneos-arm64
 com.dao.replaced,replaced(RootHide),1.0,iphoneos-arm64e
 com.dao.retrovol.cn,RetroVol 简体中文包(rootless),1.2.1,iphoneos-arm64
 com.dao.reverie,Reverie 中文版(RootHide),0.7,iphoneos-arm64e
-com.dao.rocket.cn,Rocket 简体中文包(rootless),1.1,iphoneos-arm64
+com.dao.rocket.cn,Rocket 简体中文包(rootless),1.1.1,iphoneos-arm64
 com.dao.safarix,SafariX(rootless),1.3.0,iphoneos-arm64
 com.dao.safarix.cn,SafariX 简体中文包(RootHide),1.9.8,iphoneos-arm64e
 com.dao.satella,Satella 中文版(rootless),1.9.0-1,iphoneos-arm64
@@ -413,9 +413,6 @@ com.hk.betterccxi.cn,BetterCCXI 简体中文包,1.5.0,iphoneos-arm
 com.hk.betterccxnew,BetterCCXI 整合版(CN),1.6.0-1,iphoneos-arm
 com.hk.betterpowerdown2.cn,BetterPowerDown 2 简体中文包,2.0.0-1,iphoneos-arm
 com.hk.bezon.cn,Bezon 简体中文包,1.0,iphoneos-arm
-com.hk.bhinsta,BHInsta,0.0.1,iphoneos-arm
-com.hk.bhinsta.cn,BHInsta 简体中文包,0.0.1-1,iphoneos-arm
-com.hk.bhinsta.cn.rl,BHInsta 简体中文包(RootHide),0.0.1,iphoneos-arm64e
 com.hk.bhtiktokmod,BHTikTok Plus,2.3,iphoneos-arm
 com.hk.bigbangev,BigBangEv 大爆炸,5.3.2,iphoneos-arm
 com.hk.bigshotsnapper3plugin,BigShot 长截图,1.1,iphoneos-arm
