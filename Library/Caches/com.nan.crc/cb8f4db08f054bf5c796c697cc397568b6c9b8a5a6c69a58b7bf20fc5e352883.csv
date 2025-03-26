@@ -176,6 +176,7 @@ com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
 com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
 com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64
 com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64
+com.opa334.trollstorelite,TrollStore Lite,2.1,iphoneos-arm64
 com.p2kdev.quitall,QuitAll,1.0,iphoneos-arm64
 com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64
 com.p2kdev.twitternoads,TwitterNoAds,1.2.5,iphoneos-arm64
