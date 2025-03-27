@@ -90,9 +90,9 @@ com.doki.wxkeyboarduihook,微信输入法自定义,1.8,iphoneos-arm64
 com.douyinnoads,抖音NoAds,1.0,iphoneos-arm64
 com.dumpapp.wechat,锤子助手,2.0.6,iphoneos-arm64
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
-com.dyzs,抖音助手,1.1-5,iphoneos-arm64
+com.dyzs,抖音助手,1.1-6,iphoneos-arm64
 com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
-com.enhance,WeChatEnhance,1.1.7,iphoneos-arm64
+com.enhance,WeChatEnhance,1.1.9,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
@@ -117,7 +117,7 @@ com.huami.dyyy,DYYY,2.1-7,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyymoshushi,抖音魔术师,2.1-8,iphoneos-arm64
 com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
-com.huami.dyyy.vt,DYYY vita改版,2.2-1,iphoneos-arm64
+com.huami.dyyy.vt,DYYY vita改版,2.2-2,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
 com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,2.0-1,iphoneos-arm64
 com.ichitaso.hidekbsettings,HideKBSettings,1.0.6,iphoneos-arm64
@@ -149,7 +149,7 @@ com.lly.ghallownetwork,Allow Network,0.0.1,iphoneos-arm64e
 com.lly.shortvideodl,短视频助手,2.0.5,iphoneos-arm64
 com.lowpowerbannertips,低电量通知横幅,1.1-3,iphoneos-arm64
 com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64
-com.lxcloud.WCEhance,WCEhance,1.0-8,iphoneos-arm64
+com.lxcloud.WCEhance,WCEhance,1.0-9,iphoneos-arm64
 com.marie,Marie,1.0.6,iphoneos-arm64
 com.mikotohelper.wechat,Mikoto 助手,1.3.6-V1,iphoneos-arm64
 com.movenotification16,MoveNotification16,1.0,iphoneos-arm64
@@ -243,6 +243,7 @@ com.udevs.vpnindicator,VPNIndicator,1.2.0,iphoneos-arm64
 com.vita.awemespeedx,AwemeSpeedX,0.1-1-3,iphoneos-arm64
 com.waqt,Waqt,1.4,iphoneos-arm64e
 com.wctextcolor,WCTextColor,1.5,iphoneos-arm64
+com.wechat.enhance1,WeChatEnhance,1.1.10,iphoneos-arm64
 com.wechat-push-msg-page,微信消息直达,0.0.1,iphoneos-arm64e
 com.wechat.xuanzhuan,微信头像旋转,0.0.1,iphoneos-arm64
 com.Wes.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64
