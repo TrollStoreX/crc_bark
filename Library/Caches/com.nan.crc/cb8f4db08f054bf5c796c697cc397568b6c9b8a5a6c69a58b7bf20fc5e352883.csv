@@ -21,6 +21,7 @@ cn.zqbb.phonekey.reset,PhoneKeyReset拨号键复位,1.0.0-1,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.8,iphoneos-arm64
 com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
 com.0xkuj.ccdnd,CCDND,1.0.0,iphoneos-arm64
+com.0xkuj.filzadirprobe,FilzaDirProbe,1.6.2,iphoneos-arm64
 com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount,1.0.8,iphoneos-arm64
 com.25mao.leftpan.rootless,左滑返回,1.0-6,iphoneos-arm64
