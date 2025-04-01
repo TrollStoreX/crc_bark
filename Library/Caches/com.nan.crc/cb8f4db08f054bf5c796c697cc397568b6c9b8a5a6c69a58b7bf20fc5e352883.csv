@@ -9,6 +9,7 @@ CC+,CC+,1.0,iphoneos-arm64
 cn.Bswbw.fixsets,FixSet,1.1,iphoneos-arm64e
 cn.fuckwechatadblocker,FuckWeChatAdBlocker,0.0.1-2+debug,iphoneos-arm64
 cn.llld.flexlist,Flexlist/Flexing汉化,0.0.4,iphoneos-arm64e
+cn.llld.qsyy,FT悬浮文本增强替换翻译汉化,2.3.1-2,iphoneos-arm64e
 cn.llld.swipeextenderx,SwipeExtenderX汉化,0.0.2,iphoneos-arm64
 cn.upsidedowned,Upsidedowned,1.1-4+debug,iphoneos-arm64
 cn.wkk.cocoatop,CocoaTop汉化,0.1,iphoneos-arm64e
@@ -274,6 +275,7 @@ com.wkk.fuckicon,HiceIconName,1.0,iphoneos-arm64e
 com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64
 com.wkk.hideandfuck,HideSometings,1.0,iphoneos-arm64
 com.wkk.HideEdit,HideEdit,1.0,iphoneos-arm64e
+com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
 com.wkk.iconx,Hideiconx,1.0,iphoneos-arm64e
 com.wkk.jptext,修改原生键盘上文字,1.0,iphoneos-arm64
 com.wkk.jydeb,一键解压deb(自用),1.1,iphoneos-arm64
