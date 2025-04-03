@@ -20,7 +20,7 @@ cn.zqbb.phonekey.reset,PhoneKeyReset拨号键复位,1.0.0-1,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.8,iphoneos-arm64e
 com.0xkuj.ccadsbegone.rootless,CCAdsBeGone (rootless),1.5,iphoneos-arm64
 com.0xkuj.ccdnd,CCDND,1.0.0,iphoneos-arm64e
-com.0xkuj.filzadirprobe,FilzaDirProbe,1.6.2,iphoneos-arm64
+com.0xkuj.filzadirprobe,FilzaDirProbe,1.6.2,iphoneos-arm64e
 com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount,1.0.8,iphoneos-arm64e
 com.25mao.leftpan.rootless,左滑返回,1.0-6,iphoneos-arm64
@@ -368,6 +368,8 @@ preferenceloader.rootless.top,PreferenceLoader - rootless (top),2.2.6.6,iphoneos
 recordpauses,录像暂停 RecordPause,2.0.4,iphoneos-arm64e
 ru.domo.cocoatop64,CocoaTop64,2.2.4,iphoneos-arm64e
 sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64
+se.geometric.graphite,Graphite Library,2.0,iphoneos-arm64e
+se.geometric.intelligentpass5,IntelligentPass 5,1.0.1,iphoneos-arm64e
 uncar,uncar,0.0.1-6,iphoneos-arm64e
 wiki.qaq.chromatic.rootless,Saily,3.0-rootless-release-1724937362.2952e67,iphoneos-arm64
 wkk.skitty.lightsout,LightsOut,1.2,iphoneos-arm64
