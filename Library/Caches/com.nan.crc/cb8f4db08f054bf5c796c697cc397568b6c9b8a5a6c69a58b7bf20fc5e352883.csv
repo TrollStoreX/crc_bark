@@ -92,7 +92,6 @@ com.doki.wxkeyboarduihook,微信输入法自定义,1.8,iphoneos-arm64e
 com.douyinnoads,抖音NoAds,1.0,iphoneos-arm64
 com.dumpapp.wechat,锤子助手,2.0.6,iphoneos-arm64
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
-com.dyzs,抖音助手,1.1-7,iphoneos-arm64
 com.edge.siri,EdgeSiri,3.1.2,iphoneos-arm64
 com.enhance,WeChatEnhance,1.1.9,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64
@@ -117,10 +116,6 @@ com.hikari,Hikari,1.0.8,iphoneos-arm64e
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64
 com.huami.dyyy,DYYY,2.2-2,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
-com.huami.dyyy.dao,抖音魔术师,2.2-3,iphoneos-arm64
-com.huami.dyyymoshushi,抖音魔术师,2.1-8,iphoneos-arm64
-com.huami.dyyy.rootless,DYYY,1.7,iphoneos-arm64
-com.huami.dyyy.vt,DYYY vita改版,2.2-2,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
 com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,2.0-1,iphoneos-arm64
 com.iamdega.mginspector,MGInspector,1.0.0,iphoneos-arm64e
@@ -184,7 +179,7 @@ com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
 com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
 com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
 com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64
-com.opa334.trollstorelite,TrollStore Lite,2.1,iphoneos-arm64
+com.opa334.trollstorelite,TrollStore Lite,2.1,iphoneos-arm64e
 com.p2kdev.quitall,QuitAll,1.0,iphoneos-arm64e
 com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.p2kdev.twitternoads,TwitterNoAds,1.2.5,iphoneos-arm64
