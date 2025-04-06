@@ -71,7 +71,7 @@ com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64e
 com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64
 com.cozybadges,CozyBadges,2.1,iphoneos-arm64
 com.creaturecoding.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64e
-com.curtin.pkc,PKC,0.7-1,iphoneos-arm64
+com.curtin.pkc,PKC,0.7-2,iphoneos-arm64
 com.cutestatusbar,猫,1.0.0,iphoneos-arm64
 com.cydiageek.gyration,Gyration,1.1.5,iphoneos-arm64
 com.cydiageek.hidesearchbutton,HideSearchButton,1.0.0,iphoneos-arm64
@@ -277,7 +277,6 @@ com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
 com.wkk.iconx,Hideiconx,1.2,iphoneos-arm64e
 com.wkk.jptext,修改原生键盘上文字,1.0,iphoneos-arm64
 com.wkk.jydeb,一键解压deb(自用),1.1,iphoneos-arm64
-com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
 com.wkk.lineguazai,线条旋转注销动画,1.0,iphoneos-arm64
@@ -322,7 +321,6 @@ com.yan.anitime,AniTime,1.0,iphoneos-arm64e
 com.yan.stella,Stella,1.1,iphoneos-arm64
 com.ydw.BypassWechatMSG,BypassWechatMSG,0.0.2,iphoneos-arm64
 com.yourepo.arm64-debs.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64e
-com.yourepo.arm64-debs.uiextensionswitches,UI Extension Switches,2.3,iphoneos-arm64
 com.yourepo.cydiageek.nochargingsound,禁用充电声音,0.0.1,iphoneos-arm64
 com.yourepo.huayuarc.-rootless16,【键盘】隐藏键盘地球-Rootless,0.0.1,iphoneos-arm64
 com.yourepo.huayuarc.-rootless17,【键盘】隐藏语音图标-Rootless,0.0.1,iphoneos-arm64
