@@ -35,7 +35,6 @@ com.82flex.noredirect,No Redirect,1.3,iphoneos-arm64e
 com.82flex.removewidgetbgs,移除小部件背景,1.7,iphoneos-arm64
 com.82flex.singlemute,Single Mute,1.5,iphoneos-arm64
 com.82flex.singlevpn,Single VPN,1.5,iphoneos-arm64
-com.82flex.touchvis,Touch-Viz,3.12,iphoneos-arm64e
 com.82flex.wtvrbglauncher,语音转文字免跳转,1.1,iphoneos-arm64
 com.actionbarreborn,ActionBar Reborn,1.1-2,iphoneos-arm64
 com.adspeed,VideoAdsSpeed,1.1.1,iphoneos-arm64
@@ -119,6 +118,7 @@ com.hikari,Hikari,1.0.8,iphoneos-arm64e
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64e
 com.huami.dyyy,DYYY,2.2-4,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
+com.huami.kbstyle,KBStyle,1.0,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
 com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,2.1,iphoneos-arm64
 com.iamdega.mginspector,MGInspector,1.0.0,iphoneos-arm64e
@@ -129,7 +129,6 @@ com.imkpatil.homebarsizer,HomeBarSizer,1.1.1,iphoneos-arm64
 com.immortalizer,Immortalizer真后台,2.0.1,iphoneos-arm64e
 com.iwanttranslucent.wkk,3Dtouch透明,0.0.1,iphoneos-arm64e
 com.jontelang.instalauncher2,InstaLauncher 2,1.11.0,iphoneos-arm64e
-com.jontelang.snapper3,Snapper 3,1.2.1,iphoneos-arm64e
 com.jyzpbtbschyd,禁用图标移动删除,1.0,iphoneos-arm64
 com.k.alpine,Alpine,1.4,iphoneos-arm64e
 com.k.bettercc,BetterCC,0.0.6,iphoneos-arm64
@@ -164,7 +163,6 @@ com.muirey03.cr4shed,Cr4shed,4.3.1-1+debug,iphoneos-arm64e
 com.muteplay,MutePlay,1.0,iphoneos-arm64e
 com.nahtedetihw.doodle,Doodle,1.2,iphoneos-arm64e
 com.nahtedetihw.floatingdockxvi,ipad dock,2.4,iphoneos-arm64e
-com.nahtedetihw.n95,N95,4.4,iphoneos-arm64e
 com.nahtedetihw.nowidgetlabels,NoWidgetLabels,1.0,iphoneos-arm64e
 com.nahtedetihw.stepup,StepUp,1.2,iphoneos-arm64e
 com.netskao.appdata,AppData,1.4.4,iphoneos-arm64e
@@ -213,7 +211,6 @@ com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
 com.sini.centra,Centra,1.0,iphoneos-arm64e
 com.sini.lazycursor,LazyCursor,1.0.3,iphoneos-arm64e
 com.sini.onesettings,OneSettings插件归类,2.2,iphoneos-arm64e
-com.snail.always120.global,Always120,1.1.7,iphoneos-arm64e
 com.snail.easynotify,3DEasynotify,1.0.0,iphoneos-arm64
 com.snail.photoskipdelandinfinitezoom.rootless,PhotoSkipDelAndInfiniteZoom,0.0.1,iphoneos-arm64
 com.sop.killapps,killapps,1.7.8,iphoneos-arm64
@@ -278,6 +275,7 @@ com.wkk.ersatz,Ersatz,1.0.1,iphoneos-arm64e
 com.wkk.faceguazai,笑脸注销动画,1.0,iphoneos-arm64
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64
 com.wkk.Filzamh,Filza美化,1.1-end,iphoneos-arm64
+com.wkk.floatingView,floatingView配置(自用),1.0,iphoneos-arm64
 com.wkk.ftpz,FT Tool（配置文件）,1.0,iphoneos-arm64e
 com.wkk.fuckicon,HiceIconName,1.0,iphoneos-arm64e
 com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64
@@ -377,7 +375,6 @@ se.geometric.intelligentpass5,IntelligentPass 5,1.0.1,iphoneos-arm64e
 uncar,uncar,0.0.1-6,iphoneos-arm64e
 Wen.cpu.RlPNDlP,虚拟内存优化,2.0,iphoneos-arm64e
 wiki.qaq.chromatic.rootless,Saily,3.0-rootless-release-1724937362.2952e67,iphoneos-arm64
-wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,4.9,iphoneos-arm64e
 wkk.skitty.lightsout,LightsOut,1.2,iphoneos-arm64e
 wkk.zeppelinreborn,Zeppelin Reborn,1.4.2,iphoneos-arm64
 ws.hbang.common,Cephei Tweak Support,2.0,iphoneos-arm64e
