@@ -22,6 +22,10 @@
     },
     {
       "enable": 1,
+      "url": "https://be-huge.github.io/repo/"
+    },
+    {
+      "enable": 1,
       "url": "https://apt.alfhaily.me/"
     },
     {
@@ -30,11 +34,19 @@
     },
     {
       "enable": 1,
+      "url": "https://lenglengyu.com/"
+    },
+    {
+      "enable": 1,
       "url": "https://wkkyy00.github.io/"
     },
     {
       "enable": 1,
       "url": "https://poomsmart.github.io/repo/"
+    },
+    {
+      "enable": 1,
+      "url": "https://nathan4s.lol/repo/"
     },
     {
       "enable": 1,
