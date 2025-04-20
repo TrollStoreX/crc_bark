@@ -146,6 +146,7 @@ com.kk.crane,Crane,1.3.14-6,iphoneos-arm64
 com.k.nahtedetihw.iconrotation,IconRotation,1.1,iphoneos-arm64e
 com.k.p2kdev.underdock,UnderDock,1.3,iphoneos-arm64
 com.krashkop,KrashKop,1.0.2,iphoneos-arm64
+com.lazycursor,LazyCursor,1.0.3,iphoneos-arm64e
 com.lclrc.hammerit,Hammer It,1.7.1,iphoneos-arm64e
 com.lclrc.hidepullover,PullOver Pro Hide,0.0.1,iphoneos-arm64
 com.lclrc.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
@@ -189,6 +190,7 @@ com.nightwind.matchingiconlabelss,MatchingIconLabels,0.0.1,iphoneos-arm64e
 com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
 com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
 com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
+com.onesettings,OneSettings插件归类,2.2,iphoneos-arm64e
 com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64e
 com.opa334.trollstorelite,TrollStore Lite,2.1,iphoneos-arm64e
 com.p2kdev.quitall,QuitAll,1.0,iphoneos-arm64e
@@ -217,8 +219,6 @@ com.shuffle,Shuffle,1.6.2,iphoneos-arm64
 com.simplycode.PostBox,PostBox,0.8.1-4,iphoneos-arm64e
 com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
 com.sini.centra,Centra,1.0,iphoneos-arm64e
-com.sini.lazycursor,LazyCursor,1.0.3,iphoneos-arm64e
-com.sini.onesettings,OneSettings插件归类,2.2,iphoneos-arm64e
 com.snail.easynotify,3DEasynotify,1.0.0,iphoneos-arm64
 com.snail.photoskipdelandinfinitezoom.rootless,PhotoSkipDelAndInfiniteZoom,0.0.1,iphoneos-arm64
 com.sop.killapps,killapps,1.7.8,iphoneos-arm64
