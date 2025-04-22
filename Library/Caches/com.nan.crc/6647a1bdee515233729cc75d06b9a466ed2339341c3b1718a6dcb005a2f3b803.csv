@@ -29,7 +29,7 @@ com.choco.tgextras,Telegram TGExtra,1.2-9+debug,iphoneos-arm64e
 com.curtin.pkc.rootlesss,PKC 助手,0.7-3,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
-com.den.twigalaxys,TWIGalaxy,1.2-36+debug,iphoneos-arm64e
+com.den.twigalaxys,TWIGalaxy,1.4-5+debug,iphoneos-arm64e
 com.dumpapp.wechat-rootlesss,锤子助手,2.0.6,iphoneos-arm64e
 com.dvntm.cc18s,CC18 iOS18 圆角控制中心,0.0.2,iphoneos-arm64e
 com.dvntm.infusepluss,Infuse Plus,2.0,iphoneos-arm64e
@@ -117,6 +117,7 @@ com.screenshot.telegram,Telegram 去除截图限制,1.0,iphoneos-arm64e
 com.sergy.immortalizers,Immortalizer 真后台,2.0.0-1,iphoneos-arm64e
 com.settingswidgets.zh-Hans,SettingsWidgets 简体中文,1.0,iphoneos-arm64e
 com.shepgoba.settingswidgetss,SettingsWidgets 设置小部件,1.2.3,iphoneos-arm64e
+com.shiftcmdk.bookmarkicons,Safari 自定义书签图标 BookmarkIcons,1.0-1+debug,iphoneos-arm64
 com.sileo.zh-hans,Sileo 简体中文,2.7,iphoneos-arm64e
 com.skypain.teleportcns,Teleport 简体中文,1.0.0-2,iphoneos-arm64e
 com.squidforce.hidenotificationbadges,隐藏通知图标右下角标,0.0.1,iphoneos-arm64e
@@ -129,7 +130,7 @@ com.sutuplus.releasefugu15s,酸果主题,5.9.7-9-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.tencent.themeboxs,主题盒子,2.0.2-1,iphoneos-arm64e
+com.tencent.themeboxs,主题盒子,2.0.3-1,iphoneos-arm64e
 com.tiaotiao.betteruiswitchs,JB 按钮 BetterUISwitch,1.1,iphoneos-arm64e
 com.vita.awemespeedxs,抖音倍数播放 AwemeSpeedX,0.1-1,iphoneos-arm64e
 com.wechat.ColorfulCubes,灵动方盒,1.0.5,iphoneos-arm64e
@@ -137,7 +138,7 @@ com.wechat.enhances,微信增强 WeChatEnhance,1.1.9-End,iphoneos-arm64e
 com.wechat.themepro,ThemePro,3.8.3,iphoneos-arm64e
 com.weifeng.noad,威锋去广告,1.2,iphoneos-arm64e
 com.wrp1002.cornbars,CornBar 玉米手势横杠,1.1.0,iphoneos-arm64e
-com.xuuz.douyinhelpers,抖音助手,1.1-8,iphoneos-arm64e
+com.xuuz.douyinhelpers,抖音助手,1.1-9,iphoneos-arm64e
 com.xx.dyhooks,抖音图层,2.0.8,iphoneos-arm64e
 com.xx.dyhooks.old,抖音图层旧版,1.0.3,iphoneos-arm64e
 com.xx.kshooks,快手图层,1.0.6-3,iphoneos-arm64e
