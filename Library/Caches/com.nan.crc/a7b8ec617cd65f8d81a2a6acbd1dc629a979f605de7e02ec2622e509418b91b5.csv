@@ -182,7 +182,7 @@ com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
 com.dao.appprotect,AppProtect 隐私保护(RootHide),2.0.2,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.0.9,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),112.0,iphoneos-arm64
-com.dao.apptools15,AppTools15-16(RootHide),1.3.7,iphoneos-arm64e
+com.dao.apptools15,AppTools15-16(RootHide),1.3.8,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
 com.dao.axon,Axon 中文版(RootHide),1.5.5,iphoneos-arm64e
@@ -245,7 +245,7 @@ com.dao.plamyuipro,PlampyUIPro(rootless),1.0,iphoneos-arm64
 com.dao.pogr,PodsGrant(rootless),0.4.0~prerelease3,iphoneos-arm64
 com.dao.pokeboxreborn.cn,Pokébox Reborn 简体中文包(rootless),2.0.2,iphoneos-arm64
 com.dao.popbuttons.cn,PopOutButtons 简体中文包(rootless),1.0,iphoneos-arm64
-com.dao.powercuff,Powercuff(RootHide),1.0.1,iphoneos-arm64e
+com.dao.powercuff,Powercuff(RootHide),1.1,iphoneos-arm64e
 com.dao.powersettings,PowerSettings 简体中文版(rootless),0.0.1,iphoneos-arm64
 com.dao.primalfolder2,PrimalFolder2(rootless),0.1.2,iphoneos-arm64
 com.dao.pulloverpro,PullOver Pro(rootless),2.1.6,iphoneos-arm64
@@ -762,7 +762,6 @@ com.hk.rootless.colorbadges,ColorBadges(rootless),1.5.0,iphoneos-arm64
 com.hk.rootless.crane,Crane(rootless),1.3.14-6,iphoneos-arm64
 com.hk.rootless.liddell,Liddell小横幅(rootless),1.4.3,iphoneos-arm64
 com.hk.rootless.minilsp,MiniLsp(rootless),1.1.2,iphoneos-arm64
-com.hk.rootless.velvet2,Velvet 2(rootless),2.1.2,iphoneos-arm64
 com.hk.rune.cn,Rune 简体中文包,1.3,iphoneos-arm
 com.hk.rune.cn.rl,Rune 简体中文包(RootHide),1.3,iphoneos-arm64e
 com.hk.s8edge.cn,S8Edge 简体中文包,1.2,iphoneos-arm
@@ -880,7 +879,6 @@ com.hk.vcallerscreen.cn,VCaller Screen 简体中文包,3.2,iphoneos-arm
 com.hk.velaris.cn,Velaris 简体中文包,1.1-1,iphoneos-arm
 com.hk.veloxreloadeb2.cn,Velox Reloadeb 2 简体中文包,1.0,iphoneos-arm
 com.hk.veloxreloaded.cn,Velox Reloaded 简体中文包,1.1.1,iphoneos-arm
-com.hk.velvet2.cn,Velvet 2 简体中文包,2.1.2,iphoneos-arm
 com.hk.velvet2.cn.rl,Velvet 2 简体中文包(rootless),2.1.1,iphoneos-arm64
 com.hk.velvet.cn,Velvet 简体中文包,1.5,iphoneos-arm
 com.hk.ventana.cn,Ventana 简体中文包,1.4,iphoneos-arm

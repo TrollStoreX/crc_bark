@@ -195,7 +195,6 @@ com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.2-5,iphoneos-arm64e
 com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
 com.networkmanager,NetworkManagerReborn,1.4.3,iphoneos-arm64e
 com.nightwind.matchingiconlabelss,MatchingIconLabels,0.0.1,iphoneos-arm64e
-com.noisyflake.albummanager,AlbumManager,1.0.2,iphoneos-arm64e
 com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
 com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
 com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
@@ -278,8 +277,10 @@ com.wechat-push-msg-page,微信消息直达,0.0.3,iphoneos-arm64e
 com.wechat.xuanzhuan,微信头像旋转,0.0.1,iphoneos-arm64
 com.Wes.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64
+com.wkk.albummanager,AlbumManager,1.0.2,iphoneos-arm64e
 com.wkk.AppStoremh,App Store美化,1.0,iphoneos-arm64e
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64
+com.wkk.betteralarm,betterAlarm,1.4.1,iphoneos-arm64e
 com.wkk.bhmh,拨号键盘美化,1.0,iphoneos-arm64
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64
 com.wkk.camerapreview,HideCameraPreview,1.0,iphoneos-arm64e
@@ -376,6 +377,7 @@ me.aleksilassila.redditundoscrollup,RedditUndoScrollUp,0.0.2,iphoneos-arm64
 me.ikghd.ikset,iKSettings,3.4,iphoneos-arm64
 me.ikghd.pmp,PMP,2.0,iphoneos-arm64e
 me.lau.atria,Atria,1.4.1,iphoneos-arm64e
+me.lightmann.iamlazy.k,IAmLazy,2.6.2,iphoneos-arm64
 me.luki.arizona,Arizona,0.9.2,iphoneos-arm64
 me.luki.canna,Canna,0.9.0,iphoneos-arm64e
 me.nebula.ding,Ding,1.1.0,iphoneos-arm64e
