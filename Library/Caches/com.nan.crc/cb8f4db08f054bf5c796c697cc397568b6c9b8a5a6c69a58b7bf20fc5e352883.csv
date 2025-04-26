@@ -4,6 +4,7 @@ apt.april,April,3.1,iphoneos-arm64e
 apt.griddy,Griddy,1.0.5,iphoneos-arm64e
 apt.perfectxtime,PerfectXTime,1.1-3,iphoneos-arm64e
 apt.wkk.xtyh,系统优化合集,2.0,iphoneos-arm64
+caom.griddy,Griddy,1.0.3-3,iphoneos-arm64
 CC+,CC+,1.0,iphoneos-arm64
 ch.xxtou.xxtouch,XXTouch Elite,5.1,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet,1.1,iphoneos-arm64e
@@ -118,6 +119,7 @@ com.gesturesxv,GesturesXV,1.6.1,iphoneos-arm64
 com.gilshahar7.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
 com.ginsu.dualclock2,DualClock2,2.0.3,iphoneos-arm64
 com.gravitation,Gravitation,0.0.1,iphoneos-arm64e
+com.griddy,Griddy,1.0.3-3,iphoneos-arm64e
 com.h7ang0.xhsnowatermark,XHSHelper,1.0.0-2+debug,iphoneos-arm64
 com.hapticsleep,HapticSleep,1.0.1,iphoneos-arm64e
 com.hauncundaochu,百度网盘缓存导出,1.0,iphoneos-arm64
@@ -226,6 +228,7 @@ com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
 com.recordntorch,Record,1.8.4,iphoneos-arm64e
 com.recordpause,RecordPause,2.0.6,iphoneos-arm64e
 com.rexinxuegao.WCElite,WCElite,1.2-6b2,iphoneos-arm64e
+com.roothide.manager,RootHide Manager,1.3.1,iphoneos-arm64e
 com.rpetrich.powercuff,Powercuff,1.4,iphoneos-arm64e
 com.satella,Satella中文版,1.9.0-1,iphoneos-arm64
 com.serena.AppIndex,AppIndex,1.0,iphoneos-arm64e
