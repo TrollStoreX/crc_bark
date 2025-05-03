@@ -20,7 +20,7 @@ com.ps.blobmojiefm,Blobmoji Unicode 15.1 (EFM),15.1.0,iphoneos-arm64e
 com.ps.blockemall,BlockEmAll,1.0.0,iphoneos-arm
 com.ps.blurrybadges,BlurryBadges (iOS 13+),1.5.3,iphoneos-arm64e
 com.ps.boldtextflipswitch,Bold Text Flipswitch,1.0.0,iphoneos-arm
-com.ps.cahighfps,CAHighFPS,1.3.2,iphoneos-arm64
+com.ps.cahighfps,CAHighFPS,1.3.3,iphoneos-arm64
 com.ps.calleridfs,Caller ID Flipswitch,0.0.2,iphoneos-arm
 com.ps.camelapsedplus,CamElapsed+,1.0.1,iphoneos-arm64
 com.ps.cameragridflipswitch,Camera Grid Flipswitch,1.0.0,iphoneos-arm
@@ -140,7 +140,7 @@ com.ps.ytautofullscreen,YTAutoFullScreen,1.0.4,iphoneos-arm64e
 com.ps.ytclassicvideoquality,YTClassicVideoQuality,1.5.1,iphoneos-arm64
 com.ps.ytdarker,YTDarker,1.0.3,iphoneos-arm64
 com.ps.ytdarkeruyoupatch,YTDarker for uYou Patch,1.0.0,iphoneos-arm
-com.ps.ytlegacy,YouTube Legacy,1.5.8,iphoneos-arm64
+com.ps.ytlegacy,YouTube Legacy,1.5.9,iphoneos-arm64
 com.ps.ytmabconfig,YTMABConfig,1.0.3,iphoneos-arm64
 com.ps.ytnochecklocalnetwork,YTNoCheckLocalNetwork,1.0.0,iphoneos-arm
 com.ps.ytnopaidpromo,YTNoPaidPromo,1.0.0,iphoneos-arm64
