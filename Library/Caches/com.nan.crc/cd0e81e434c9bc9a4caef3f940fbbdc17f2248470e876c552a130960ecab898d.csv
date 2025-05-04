@@ -34,7 +34,7 @@ com.ps.cyarchfix,cyarchfix,1.1.0,iphoneos-arm
 com.ps.efmfontdl,EFM Font Downloader,1.0.5,iphoneos-arm64
 com.ps.efmfontdl-insecure,EFM Font Downloader (Insecure),1.0.5,iphoneos-arm
 com.ps.efmfontsetter,EFM Font Setter,99.3,iphoneos-arm64
-com.ps.emodeji,EModeji,1.0,iphoneos-arm
+com.ps.emodeji,EModeji,1.0.3,iphoneos-arm64
 com.ps.emojiattributes,EmojiAttributes,1.9.0~b3,iphoneos-arm64
 com.ps.emojidarkstyle,EmojiDarkStyle,1.0.7,iphoneos-arm
 com.ps.emojifontefm,AppleColorEmoji Unicode 16.0 (EFM),16.0.0,iphoneos-arm64
