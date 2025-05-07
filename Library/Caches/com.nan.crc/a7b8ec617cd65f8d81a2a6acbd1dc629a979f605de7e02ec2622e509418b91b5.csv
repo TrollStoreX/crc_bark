@@ -179,10 +179,10 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.0.3,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.0.4,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.0.9,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),112.0,iphoneos-arm64
-com.dao.apptools15,AppTools15-16(RootHide),1.3.9,iphoneos-arm64e
+com.dao.apptools15,AppTools15-16(RootHide),1.4.0,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
 com.dao.axon,Axon 中文版(RootHide),1.5.5,iphoneos-arm64e
@@ -269,7 +269,7 @@ com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
 com.dao.souvenir,Souvenir(rootless),1.25,iphoneos-arm64
 com.dao.souvenir.cn,Souvenir 简体中文包,1.25,iphoneos-arm
 com.dao.souvenir.cn.tl,Souvenir 简体中文包(rootless),1.25,iphoneos-arm64
-com.dao.spotify,EeveeSpotify(rootless),5.9.5,iphoneos-arm64
+com.dao.spotify,EeveeSpotify(rootless),5.9.6,iphoneos-arm64
 com.dao.stella,Stella 中文版(rootless),1.1.5,iphoneos-arm64
 com.dao.storeswitchaccounts,StoreSwitchAccounts(rootless),1.1-4,iphoneos-arm64
 com.dao.storeswitcher2,StoreSwitcher2(RootHide),1.0.5,iphoneos-arm64e
