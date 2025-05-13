@@ -56,6 +56,7 @@ com.huami.kugouNoAD,酷狗 NoAd,0.1-1,iphoneos-arm64e
 com.huami.wbnoadss,微博 WBNoAds,1.0.1,iphoneos-arm64e
 com.huami.wcnicknameavatarstyles,微信顶栏元素 WCNicknameAvatarStyle,2.2,iphoneos-arm64e
 com.huami.wcpluginsorders,微信插件管理排序 WCPluginsOrder,1.0-2,iphoneos-arm64e
+com.huami.wcpulses,WCPulse,1.0-3,iphoneos-arm64e
 com.hw.imepremium,🅷🆆 iMe,0.0.1,iphoneos-arm64e
 com.ichitaso.hideserialnumbers,HideSerialNumber 修改系统版本,0.0.4,iphoneos-arm64e
 com.icraze.smallboards,SmallBoard 键盘下沉,1.1,iphoneos-arm64e
@@ -134,7 +135,7 @@ com.sutuplus.releasefugu15s,酸果,5.9.8-1-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.tencent.themeboxs,主题盒子,2.0.5-1,iphoneos-arm64e
+com.tencent.themeboxs,主题盒子,2.0.6-1,iphoneos-arm64e
 com.tiaotiao.betteruiswitchs,JB 按钮 BetterUISwitch,1.1,iphoneos-arm64e
 com.vita.awemespeedxs,抖音倍数播放 AwemeSpeedX,0.1-1,iphoneos-arm64e
 com.wechat.ColorfulCubes,灵动方盒,1.0.5,iphoneos-arm64e
@@ -142,7 +143,7 @@ com.wechat.enhances,WeChatEnhance,1.3-9,iphoneos-arm64e
 com.wechat.themepro,ThemePro,3.8.3,iphoneos-arm64e
 com.weifeng.noad,威锋去广告,1.2,iphoneos-arm64e
 com.wrp1002.cornbars,CornBar 玉米手势横杠,1.1.0,iphoneos-arm64e
-com.xuuz.douyinhelpers,抖音助手,1.2-3,iphoneos-arm64e
+com.xuuz.douyinhelpers,抖音助手,1.2-4,iphoneos-arm64e
 com.xx.dyhooks,抖音图层,2.0.8,iphoneos-arm64e
 com.xx.dyhooks.old,抖音图层旧版,1.0.3,iphoneos-arm64e
 com.xx.kshooks,快手图层,1.0.6-3,iphoneos-arm64e
