@@ -57,7 +57,7 @@ com.awemedownloadmedia,AwemeDownloadMedia,1.1-8,iphoneos-arm64
 com.awemefullscreen,抖音全屏,1.2-6,iphoneos-arm64
 com.axon,Axon汉化版,1.5.5,iphoneos-arm64e
 com.badgebreathing,Badge,0.0.1,iphoneos-arm64e
-com.baiy.qqroundedcorners,qq输入框圆角,1.3,iphoneos-arm64
+com.baiy.qqroundedcorners,qq输入框圆角,1.3,iphoneos-arm64e
 com.be-huge.floating-view,floatingView,1.5.5,iphoneos-arm64e
 com.be-huge.wechat-pop-vc,WeChatPopVC,0.0.3,iphoneos-arm64e
 com.betterccbrightness,BetterCCBrightness,1.0.3,iphoneos-arm64e
@@ -100,8 +100,6 @@ com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64e
 com.FakeFollow,WeChat强制关注,2.0,iphoneos-arm64e
 com.filzacrack,Filza Crack,1.1-8,iphoneos-arm64e
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
-com.flex2areo.apptools15roothide,AppTools15-16(Roothide),1.4.0,iphoneos-arm64e
-com.flex2areo.apptools15rootless,AppTools15-16(Rootless),1.4.0,iphoneos-arm64
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.forSnapper3four.wkk,Snapper3 自用美化（4）,1.0,iphoneos-arm64e
 com.forSnapper3three.wkk,Snapper3 美化（3）,1.0,iphoneos-arm64e
@@ -189,7 +187,6 @@ com.netskao.dumpdecrypter,DumpDecrypter,1.5-1,iphoneos-arm64e
 com.netskao.storeswitchaccounts,StoreSwitchAccounts,1.1-4,iphoneos-arm64
 com.netskao.wcdisablehotupdatess,WCDisableHotUpdates,1.1-1,iphoneos-arm64
 com.netskao.wcmypageinfocenter,WCMyPageInfoCenter,1.2-2,iphoneos-arm64
-com.netskao.wctimelinemessagetails,WCTimeLineMessageTail,1.1-1,iphoneos-arm64
 com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.2-5,iphoneos-arm64e
 com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
 com.networkmanager,NetworkManagerReborn,1.4.3,iphoneos-arm64e
@@ -221,7 +218,6 @@ com.qiop1379.swipeextenderx.k,SwipeExtenderX（自用改版）,1.6.2,iphoneos-ar
 com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
 com.recordntorch,Record,1.8.4,iphoneos-arm64e
 com.recordpause,RecordPause,2.0.6,iphoneos-arm64e
-com.rexinxuegao.WCElite,WCElite,1.2-6b2,iphoneos-arm64e
 com.roothide.manager,RootHide Manager,1.3.1,iphoneos-arm64e
 com.rpetrich.powercuff,Powercuff,1.4,iphoneos-arm64e
 com.satella,Satella中文版,1.9.0-1,iphoneos-arm64
@@ -340,7 +336,6 @@ com.wkk.tiktokhook,TikTokHook,1.0.0,iphoneos-arm64
 com.wkk.timexz,控制中心计时器,1.0,iphoneos-arm64
 com.wkk.tixingsheng,百款精选提醒声,1.0,iphoneos-arm64
 com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64
-com.wkk.WeChatmiaobian,WeChatStroke,1.0,iphoneos-arm64
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64
 com.wkk.windowsguazai,Windows注销动画,2.0,iphoneos-arm64
 com.wkk.wxsrfpf,微信输入法皮肤（自用备份）,1.0,iphoneos-arm64
