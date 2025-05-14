@@ -73,6 +73,7 @@ com.christopher.everest,Everest,1.0.1,iphoneos-arm64e
 com.classicfolders3,ClassicFolders3,3.0.6,iphoneos-arm64e
 com.classickeyboardxs,ClassicKeyboardXS,1.1-8,iphoneos-arm64
 com.cozybadges,CozyBadges,2.1,iphoneos-arm64e
+com.creaturecoding.libcspreferences,libCSPreferences,1.5.8,iphoneos-arm64e
 com.creaturecoding.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64e
 com.curtin.pkc,PKC,0.7-4,iphoneos-arm64e
 com.cydiageek.gyration,Gyration,1.1.5,iphoneos-arm64
@@ -224,7 +225,7 @@ com.satella,Satella中文版,1.9.0-1,iphoneos-arm64
 com.serena.AppIndex,AppIndex,1.0,iphoneos-arm64e
 com.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64e
 com.sgwc.events,Events,1.0,iphoneos-arm64
-com.shuffle,Shuffle,1.6.2,iphoneos-arm64
+com.shuffle,Shuffle,1.6.2,iphoneos-arm64e
 com.simplycode.PostBox,PostBox,0.8.1-4,iphoneos-arm64e
 com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
 com.skypain.flexloader,FlexLoader,5.25.19-1,iphoneos-arm64e
