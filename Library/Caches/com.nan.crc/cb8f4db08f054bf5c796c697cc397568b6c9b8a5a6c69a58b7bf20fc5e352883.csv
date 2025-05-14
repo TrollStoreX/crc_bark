@@ -53,20 +53,15 @@ com.apple.wechat.noads,微信广告净化助手,1.2.0,iphoneos-arm64
 com.aria,Aria,0.9.8.1,iphoneos-arm64e
 com.autoscroll,AutoScroll,1.0,iphoneos-arm64e
 com.awemeclearlikes,抖音清除点赞,1.1-2,iphoneos-arm64
-com.awemedisablebar,AwemeDisableBar,1.1-6,iphoneos-arm64
 com.awemedownloadmedia,AwemeDownloadMedia,1.1-8,iphoneos-arm64
 com.awemefullscreen,抖音全屏,1.2-6,iphoneos-arm64
-com.awemevideotime,AwemeVideoTime,1.1-2,iphoneos-arm64
 com.axon,Axon汉化版,1.5.5,iphoneos-arm64e
 com.badgebreathing,Badge,0.0.1,iphoneos-arm64e
 com.baiy.qqroundedcorners,qq输入框圆角,1.3,iphoneos-arm64
-com.BeanbunsHelpers.DB,抖音豆包助手,1.0-4,iphoneos-arm64
 com.be-huge.floating-view,floatingView,1.5.5,iphoneos-arm64e
 com.be-huge.wechat-pop-vc,WeChatPopVC,0.0.3,iphoneos-arm64e
 com.betterccbrightness,BetterCCBrightness,1.0.3,iphoneos-arm64e
-com.bhtwitter,BHTwitter中文版,4.4-1,iphoneos-arm64e
 com.brend0n.nopassafterrespringsafe,NoPassAfterRespring,0.0.3,iphoneos-arm64e
-com.c00kiec00k.fuckgif,FuckGif,1.0.0-2+debug,iphoneos-arm64
 com.cameronkatri.quickactions,QuickActions,1.0.0-2,iphoneos-arm64e
 com.ccborder,CCBorder16,1.2,iphoneos-arm64e
 com.cccellularrate,CCCellularRate,1.1-1,iphoneos-arm64e
@@ -128,7 +123,6 @@ com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64e
 com.hikari,Hikari,1.0.8,iphoneos-arm64e
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64e
 com.huadong,Globaltouchvibration,1.0,iphoneos-arm64e
-com.huami.dyenablepanelmodernstyle,DYEnablePanelModernStyle,1.1,iphoneos-arm64
 com.huami.dyyy,DYYY,2.2-5,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy.dao,抖音魔术师,2.2-7-0514,iphoneos-arm64e
@@ -190,7 +184,6 @@ com.nahtedetihw.stepup,StepUp,1.2,iphoneos-arm64e
 com.nan.debd2,debd（自用）,0.1,iphoneos-arm64e
 com.netskao.appdata,AppData,1.4.4,iphoneos-arm64e
 com.netskao.autofaceunlock-rootless,AutoFaceUnlock,1.1-7,iphoneos-arm64e
-com.netskao.awemefullscreen,AwemeFullScreen,1.2-5,iphoneos-arm64
 com.netskao.awemenoads,AwemeNoAds,1.1-3,iphoneos-arm64
 com.netskao.dumpdecrypter,DumpDecrypter,1.5-1,iphoneos-arm64e
 com.netskao.storeswitchaccounts,StoreSwitchAccounts,1.1-4,iphoneos-arm64
