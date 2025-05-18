@@ -1,3 +1,4 @@
 Package,Name,Version,Architecture
+com.be-huge.tie-gesture,TieGesture,1.0.0,iphoneos-arm64
 com.be-huge.wechat-pop-vc,WeChatPopVC-rootless,0.0.3,iphoneos-arm64
 com.be-huge.wechat-push-msg-page,WechatPushMsgPage-rootless,0.0.4,iphoneos-arm64
