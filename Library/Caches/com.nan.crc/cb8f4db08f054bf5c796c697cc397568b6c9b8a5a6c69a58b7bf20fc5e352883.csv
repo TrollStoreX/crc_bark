@@ -235,6 +235,7 @@ com.snail.easynotify,3DEasynotify,1.0.0,iphoneos-arm64
 com.snail.photoskipdelandinfinitezoom.rootless,PhotoSkipDelAndInfiniteZoom,0.0.1,iphoneos-arm64
 com.sop.killapps,killapps,1.7.8,iphoneos-arm64
 com.spark.libsparkapplist,libSparkAppList,1.1.0~rootless,iphoneos-arm64e
+com.spark.libsparkcolourpicker,libsparkcolourpicker,1.0.3-rootless,iphoneos-arm64e
 com.spark.snowboard,SnowBoard,1.5.9-Beta3-rootless,iphoneos-arm64
 com.spark.snowboardapplication,SnowBoard,1.1.0~Beta4-rootless,iphoneos-arm64
 com.spark.snowboard.dock,SnowBoard Dock Extension,1.1.3~Beta4-rootless,iphoneos-arm64
@@ -368,7 +369,7 @@ denyphotoalbumsllld.rootless,Photo pro,9.9.9,iphoneos-arm64
 dev.mineek.appstoretroller,appstoretroller,0.1,iphoneos-arm64
 dev.traurige.eneko,Eneko,1.4.2,iphoneos-arm64e
 info.adolfoi.simplehome,SimpleHome,1.1.0,iphoneos-arm64
-jp.akusio.milkyway2,MilkyWay2,1.0,iphoneos-arm64
+jp.akusio.milkyway2,MilkyWay2,1.0,iphoneos-arm64e
 jp.r-plus.anykeytrackpad,AnyKeyTrackpad,1.1.1,iphoneos-arm64e
 jp.soh.freepip,FreePIP,0.0.4,iphoneos-arm64
 jp.uzra.getdown,GetDown,1.0,iphoneos-arm64
