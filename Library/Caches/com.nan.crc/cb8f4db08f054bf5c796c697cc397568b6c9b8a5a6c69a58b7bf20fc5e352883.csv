@@ -8,6 +8,7 @@ ch.xxtou.xxtouch,XXTouch Elite,5.2,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet,1.1,iphoneos-arm64e
 cn.fuckwechatadblocker,FuckWeChatAdBlocker,0.0.1-2+debug,iphoneos-arm64e
 cn.llld.flexlist,Flexlist/Flexing汉化,0.0.4,iphoneos-arm64e
+cn.llld.ftt,ftt中文版,0.1,iphoneos-arm64e
 cn.llld.qsyy,FT悬浮文本增强替换翻译汉化,2.3.1-2,iphoneos-arm64e
 cn.llld.shelly,shelly汉化,0.0.2,iphoneos-arm64e
 cn.llld.swipeextenderx,SwipeExtenderX汉化,0.0.2,iphoneos-arm64e
@@ -219,6 +220,7 @@ com.Purifyads,Purifyads,1.0,iphoneos-arm64e
 com.qiop1379.swipeextenderx,SwipeExtenderX,1.6.1~2,iphoneos-arm64e
 com.qiop1379.swipeextenderx.k,SwipeExtenderX（自用改版）,1.6.2,iphoneos-arm64e
 com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
+com.randy420.tools,420 Tools,2.3.9,iphoneos-arm64e
 com.recordntorch,Record,1.8.4,iphoneos-arm64e
 com.recordpause,RecordPause,2.0.6,iphoneos-arm64e
 com.roothide.manager,RootHide Manager,1.3.1,iphoneos-arm64e
@@ -398,7 +400,7 @@ preferenceloader,PreferenceLoader,2.2.7,iphoneos-arm64
 preferenceloader.rootless.top,PreferenceLoader - rootless (top),2.2.6.6,iphoneos-arm64e
 recordpauses,录像暂停 RecordPause,2.0.4,iphoneos-arm64e
 ru.domo.cocoatop64,CocoaTop64,2.2.4,iphoneos-arm64e
-ru.rj.ftt,Flex To Theos,1.4,iphoneos-arm64
+ru.rj.ftt,Flex To Theos,1.4,iphoneos-arm64e
 sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64
 se.geometric.graphite,Graphite Library,2.0,iphoneos-arm64e
 se.geometric.intelligentpass5,IntelligentPass 5,1.0.1,iphoneos-arm64e
