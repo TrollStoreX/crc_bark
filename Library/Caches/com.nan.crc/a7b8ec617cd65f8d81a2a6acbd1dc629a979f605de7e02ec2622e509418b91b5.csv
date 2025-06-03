@@ -193,7 +193,7 @@ com.dao.bhinsta,BHInsta 中文版(RootHide),1.2,iphoneos-arm64e
 com.dao.bhtiktok++,BHTikTok++中文版(RootHide),1.7.1,iphoneos-arm64e
 com.dao.bhtiktokmod,BHTikTok Plus(rootless),2.3,iphoneos-arm64
 com.dao.bhtkplus,BHTikTok++ 原版(rootless),1.9.3,iphoneos-arm64
-com.dao.bhtwitter,BHTwitter 中文版(RootHide),4.4-2,iphoneos-arm64e
+com.dao.bhtwitter,BHTwitter 中文版(RootHide),4.4-3,iphoneos-arm64e
 com.dao.bigshotsnapper3plugin,BigShot 长截图(rootless),1.1,iphoneos-arm64
 com.dao.blurrybadges,BlurryBadges 中文版(RootHide),1.5.2.1,iphoneos-arm64e
 com.dao.carbridge13,CarBridge(rootless),2.0.14,iphoneos-arm64
@@ -227,12 +227,13 @@ com.dao.injectipa,injectipa(rootless),1.4-4,iphoneos-arm64
 com.dao.iridium,Iridium 中文版,1.2.15-REL-1713319636,iphoneos-arm
 com.dao.jade,Jade(rootless),1.0.3,iphoneos-arm64
 com.dao.kanoads,清爽酷安(rootless),0.1,iphoneos-arm64
-com.dao.kayoko,Kayoko(RootHide),2.8,iphoneos-arm64e
+com.dao.kayoko,Kayoko(RootHide),2.9,iphoneos-arm64e
 com.dao.lockbuttonx,LockButtonX(RootHide),0.0.1,iphoneos-arm64e
 com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
 com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.mk.cn,Misaki 中文补充包(rootless),2.1.3,iphoneos-arm64
 com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
+com.dao.neofreebird.bht,NeoFreeBird-BHT 中文版(RootHide),5.0-1,iphoneos-arm64e
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.1,iphoneos-arm64e
