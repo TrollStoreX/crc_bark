@@ -28,25 +28,26 @@ com.BeanbunsHelpers.DBs,抖音 豆包助手,1.0-4,iphoneos-arm64e
 com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-arm64e
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
 com.choco.tgextras,Telegram TGExtra,1.3,iphoneos-arm64
-com.curtin.pkc.rootlesss,PKC 助手,0.7-6,iphoneos-arm64e
+com.curtin.pkc.rootlesss,PKC 助手,0.7-8,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
 com.den.twigalaxys,TWIGalaxy,1.6,iphoneos-arm64e
 com.dumpapp.wechat-rootlesss,锤子助手,2.0.6,iphoneos-arm64e
 com.dvntm.cc18s,CC18 iOS18 圆角控制中心,0.0.2,iphoneos-arm64e
 com.dvntm.fbos,FilesBrowsingOnly 精简文件 App,0.0.1,iphoneos-arm64e
+com.dvntm.glows,Glow for Facebook,1.3,iphoneos-arm64e
 com.dvntm.infusepluss,Infuse Plus,2.1,iphoneos-arm64e
 com.dvntm.lsnoswipes,禁止锁屏右滑相机 LSNoSwipe,0.0.1,iphoneos-arm64e
 com.dvntm.oledkeyboards,OledKeyboard 深色纯黑键盘,0.0.3,iphoneos-arm64e
 com.dvntm.safariiis,Safariii,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifss,SilentNotifs,0.0.2,iphoneos-arm64e
 com.dvntm.ytlites,YTLite,5.2b1,iphoneos-arm64e
-com.eevee.spotifys,EeveeSpotify,5.9,iphoneos-arm64e
+com.eevee.spotifys,EeveeSpotify (Lessica Fork),6.0,iphoneos-arm64e
 com.exile90.icleanerpros,iCleaner Pro,7.10.0,iphoneos-arm64e
 com.ginsu.ytmusicultimates,YTMusicUltimate,2.3,iphoneos-arm64e
 com.github.wxsmalltabs,微信小底栏,0.0.1-5,iphoneos-arm64e
 com.guozi.kuannoads,酷安FuckAds,5.2.0,iphoneos-arm64e
-com.hbwechathelper.ailuns,黄白助手,1.8-7,iphoneos-arm64e
+com.hbwechathelper.ailuns,黄白助手,1.8-8,iphoneos-arm64e
 com.HBWechatHelper.ailuns,黄白助手,1.8,iphoneos-arm64e
 com.huami.bilinoads,哔哩哔哩 BiliNoAd,1.0.1,iphoneos-arm64e
 com.huami.dyenablepanelmodernstyles,强制启用新版抖音长按 UI（现代风）,1.1,iphoneos-arm64e
@@ -79,7 +80,7 @@ com.level3tjg.twitchadblocks,TwitchAdBlock,0.1.5,iphoneos-arm64e
 com.liuf.jpyj,修改系统键盘圆角,0.0.1,iphoneos-arm64e
 com.lns.pogrs,AirPods PodsGrant,0.4.0~prerelease3,iphoneos-arm64e
 com.lns.whereplays,WherePlay,0.0.2,iphoneos-arm64e
-com.lxcloud.wcehances,微信增强 WCEhance,1.1-7,iphoneos-arm64e
+com.lxcloud.wcehances,微信增强 WCEhance,1.1-8,iphoneos-arm64e
 com.lxcloud.WCEhances,微信增强 WCEhance,1.0-4,iphoneos-arm64e
 com.mikifp.griddys,Griddy 图标随意摆,1.0.5,iphoneos-arm64e
 com.mikotohelper.wechat,Mikoto 助手,1.3.6-V1,iphoneos-arm64e
@@ -99,6 +100,7 @@ com.netskao.dumpdecrypters,DumpDecrypter 砸壳,1.5-1,iphoneos-arm64e
 com.netskao.qqipadmodelogins,QQ iPad 模式,1.1-1,iphoneos-arm64e
 com.netskao.qqnotiavatars,QQNotiAvatar QQ头像,1.2-2,iphoneos-arm64e
 com.netskao.twitternoadss,Twitter NoAds,1.1-2,iphoneos-arm64e
+com.netskao.wcabtestlocalbackups,微信开启聊天记录本地备份,1.1-1,iphoneos-arm64e
 com.netskao.wcabtestvoicerecordviews,微信开启新语音按钮,1.1-1,iphoneos-arm64e
 com.netskao.wcdisablehotupdatess,禁止微信热更新 WCDisableHotUpdates,1.1-1,iphoneos-arm64e
 com.netskao.wcisoverseausers,微信通行密钥 WCIsOverSeaUser,1.1-1,iphoneos-arm64e
@@ -140,16 +142,16 @@ com.sutuplus.releasefugu15s,酸果,5.9.8-1-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.tencent.themeboxs,主题盒子,2.0.6-1,iphoneos-arm64e
+com.tencent.themeboxs,主题盒子,2.0.7-1,iphoneos-arm64e
 com.tiaotiao.betteruiswitchs,JB 按钮 BetterUISwitch,1.1,iphoneos-arm64e
 com.vita.awemespeedxs,抖音倍数播放 AwemeSpeedX,0.1-1,iphoneos-arm64e
 com.vita.yukis,抖音防撤回 Yuki,0.0-7,iphoneos-arm64e
 com.wechat.ColorfulCubes,灵动方盒,1.0.5,iphoneos-arm64e
-com.wechat.enhances,WeChatEnhance,1.4-4,iphoneos-arm64e
+com.wechat.enhances,WeChatEnhance,1.4-8,iphoneos-arm64e
 com.wechat.themepro,ThemePro,3.9.1,iphoneos-arm64e
 com.weifeng.noad,威锋去广告,1.2,iphoneos-arm64e
 com.wrp1002.cornbars,CornBar 玉米手势横杠,1.1.0,iphoneos-arm64e
-com.xuuz.douyinhelpers,抖音助手,1.3-6,iphoneos-arm64e
+com.xuuz.douyinhelpers,抖音助手,1.4-7,iphoneos-arm64e
 com.xx.dyhooks,抖音图层,2.0.8,iphoneos-arm64e
 com.xx.dyhooks.old,抖音图层旧版,1.0.3,iphoneos-arm64e
 com.xx.kshooks,快手图层,1.0.6-3,iphoneos-arm64e
@@ -166,7 +168,7 @@ com.ydw.BypassWechatMSG,微信内容娱乐 BypassWechatMSG,0.0.2,iphoneos-arm64e
 com.yi.wcenablemomentslivephotos,WCEnableMomentsLivePhoto,1.1-2,iphoneos-arm64e
 com.yourdismissedty.abc,取消农业银行越狱检测弹窗,1.0,iphoneos-arm64
 com.yourepo.lly.adsspee-rootlesss,快速跳过广告 VideoAdsSpeed,1.1.3,iphoneos-arm64e
-de.finngaida.daynightswitchs,DayNightSwitch 日月开关,1.1,iphoneos-arm64e
+de.finngaida.daynightswitchs,DayNightSwitch 日月开关,1.2,iphoneos-arm64e
 dev.mineek.appstoretrollers,AppStoreTroller,0.0.9,iphoneos-arm64e
 it.ned.noappthinnings,NoAppThinning 全量包下载,1.4,iphoneos-arm64e
 jp.akusio.backgrounderaction15s,真后台 BackgrounderAction15 CCSupport,0.1.0,iphoneos-arm64e
