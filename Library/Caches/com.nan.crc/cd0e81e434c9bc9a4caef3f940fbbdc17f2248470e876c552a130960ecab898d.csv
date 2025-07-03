@@ -120,6 +120,7 @@ com.ps.smoothkb,SmoothKB,1.0.3,iphoneos-arm64
 com.ps.smsgroupname,SMSGroupName,0.0.1-1,iphoneos-arm
 com.ps.ssgesturesios12fix,SSGestures iOS 12 Fix,0.0.1.1,iphoneos-arm
 com.ps.staticzoom,StaticZoom,0.0.2,iphoneos-arm
+com.ps.steamweblegacycompat,SteamWebLegacyCompat,1.0.0,iphoneos-arm64
 com.ps.stillcaptureenabler,Still Capture Enabler (iPadOS 15+),1.0.0,iphoneos-arm64
 com.ps.tapformore,TapForMore,1.0.3,iphoneos-arm
 com.ps.tapvideoconfig,TapVideoConfig,1.0.3,iphoneos-arm64
