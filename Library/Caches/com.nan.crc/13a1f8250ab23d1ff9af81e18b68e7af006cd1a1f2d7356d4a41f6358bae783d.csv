@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 com.be-huge.custom-notification-sound,CustomWeChatNotificationSound,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture,TieGesture,1.0.0,iphoneos-arm64
-com.be-huge.tie-gesture-advance,TieGesture-rootless(收费版),1.0.9,iphoneos-arm64
+com.be-huge.tie-gesture-advance,TieGesture-rootless(收费版),1.1.0,iphoneos-arm64
 com.be-huge.wechat-pop-vc,WeChatPopVC-rootless,0.0.4,iphoneos-arm64
 com.be-huge.wechat-push-msg-page,WechatPushMsgPage-rootless,0.0.5,iphoneos-arm64
