@@ -105,8 +105,8 @@ com.ethanrdoesmc.dawn,Dawn,1.1,iphoneos-arm64e
 com.FakeFollow,WeChat强制关注,2.0,iphoneos-arm64e
 com.filzacrack,Filza Crack,1.1-8,iphoneos-arm64e
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
-com.flex2areo.apptools15roothide,AppTools15-16(Roothide),2.1.9,iphoneos-arm64e
-com.flex2areo.apptools15rootless,AppTools15-16(Rootless),2.1.9,iphoneos-arm64
+com.flex2areo.apptools15roothide,AppTools15-16(Roothide),2.2.0,iphoneos-arm64e
+com.flex2areo.apptools15rootless,AppTools15-16(Rootless),2.2.0,iphoneos-arm64
 com.flex.lib,FLEX 调试工具,1.0,iphoneos-arm64e
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.forSnapper3four.wkk,Snapper3 自用美化（4）,1.0,iphoneos-arm64e
@@ -242,6 +242,7 @@ com.shiftcmdk.bookmarkicons,SafariBookmarkIcons,1.0-1+debug,iphoneos-arm64e
 com.shtm.flexibleexpression,FlexibleExpression,1.2.0,iphoneos-arm64e
 com.shuffle,Shuffle,1.6.2,iphoneos-arm64e
 com.simplycode.PostBox,PostBox,0.8.1-4,iphoneos-arm64e
+com.sini921.cylinderreborn,CylinderReborn(roothide),1.1.2-2,iphoneos-arm64e
 com.sini921.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64
 com.skypain.flexloader,FlexLoader,5.25.19-1,iphoneos-arm64e
 com.skypain.lookinloader,LookinLoader,1.2.8-2,iphoneos-arm64e
