@@ -133,7 +133,7 @@ com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64e
 com.hikari,Hikari,1.0.8,iphoneos-arm64e
 com.hitori.passtext,PassText,1.0.1,iphoneos-arm64e
 com.huadong,Globaltouchvibration,1.0,iphoneos-arm64e
-com.huami.dyyy,DYYY,2.2-5,iphoneos-arm64
+com.huami.dyyy,抖音魔术师,2.2-8,iphoneos-arm64e
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.kbstyle,KBStyle,1.0,iphoneos-arm64
 com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
@@ -195,6 +195,7 @@ com.netskao.autofaceunlock-rootless,AutoFaceUnlock,1.1-7,iphoneos-arm64e
 com.netskao.dumpdecrypter,DumpDecrypter,1.5-1,iphoneos-arm64e
 com.netskao.storeswitchaccounts,StoreSwitchAccounts,1.1-4,iphoneos-arm64
 com.netskao.wcabtestlocalbackup,WCABTestLocalBackup,1.1-1,iphoneos-arm64e
+com.netskao.wcdisablehotupdates,WCDisableHotUpdates,1.1-2,iphoneos-arm64e
 com.netskao.wcdisablehotupdatess,WCDisableHotUpdates,1.1-1,iphoneos-arm64
 com.netskao.wcmypageinfocenter,WCMyPageInfoCenter,1.2-2,iphoneos-arm64
 com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.2-5,iphoneos-arm64e
