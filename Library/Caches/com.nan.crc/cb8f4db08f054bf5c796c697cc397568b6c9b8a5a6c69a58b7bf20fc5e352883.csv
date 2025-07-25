@@ -107,8 +107,8 @@ com.filzacrack,Filza Crack,1.1-8,iphoneos-arm64e
 com.FirstAppicon,FirstAppicon,0.3,iphoneos-arm64e
 com.flex2areo.appprotectroothide,AppProtect(Roothide),2.0.7,iphoneos-arm64e
 com.flex2areo.appprotectrootless,AppProtect(Rootless),2.0.7,iphoneos-arm64
-com.flex2areo.apptools15roothide,AppTools15-16(Roothide),2.2.1,iphoneos-arm64e
-com.flex2areo.apptools15rootless,AppTools15-16(Rootless),2.2.1,iphoneos-arm64
+com.flex2areo.apptools15roothide,AppTools15-16(Roothide),2.2.2,iphoneos-arm64e
+com.flex2areo.apptools15rootless,AppTools15-16(Rootless),2.2.2,iphoneos-arm64
 com.flex.lib,FLEX 调试工具,1.0,iphoneos-arm64e
 com.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.forSnapper3four.wkk,Snapper3 自用美化（4）,1.0,iphoneos-arm64e
@@ -323,6 +323,7 @@ com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64
 com.wkk.Desa,Desa,1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64
 com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64e
+com.wkk.dy,dyyy个人配置(自用),1.0,iphoneos-arm64e
 com.wkk.dyhook,抖音去+号,1.0,iphoneos-arm64
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
 com.wkk.ersatz,Ersatz,1.0.1,iphoneos-arm64e
