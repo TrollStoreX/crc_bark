@@ -156,7 +156,7 @@ com.k.bettercc,BetterCC,0.0.6,iphoneos-arm64
 com.k.blurryalerts,BlurryAlerts,1.2.2-3,iphoneos-arm64e
 com.keyswipe-rootless,KeySwipe-Rootless,1.0.2,iphoneos-arm64e
 com.kitten.tweaktool,一键备份和恢复工具,2.0.0-beta,iphoneos-arm64
-com.kk.crane,Crane,1.3.14-6,iphoneos-arm64
+com.kk.crane,Crane,1.3.14-6,iphoneos-arm64e
 com.k.nahtedetihw.iconrotation,IconRotation,1.1,iphoneos-arm64e
 com.k.p2kdev.underdock,UnderDock,1.3,iphoneos-arm64
 com.krashkop,KrashKop,1.0.2,iphoneos-arm64
@@ -208,6 +208,7 @@ com.oleddarkmode,OLED Dark Mode,0.5.3,iphoneos-arm64
 com.oledkeyboard,OledKeyboard,0.0.2,iphoneos-arm64
 com.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
 com.onesettings,OneSettings插件归类,2.2,iphoneos-arm64e
+com.opa334.crane,Crane,1.3.16-4,iphoneos-arm64e
 com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64e
 com.opa334.trollstorelite,TrollStore Lite,2.1,iphoneos-arm64e
 com.p2kdev.facebooknoads,FacebookNoAds,1.3,iphoneos-arm64
