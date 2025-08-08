@@ -179,7 +179,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.0.7,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.1.0,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.1.1,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.1,iphoneos-arm64e
@@ -222,7 +222,7 @@ com.dao.hidenumber.cn,HideSerialNumber 简体中文包(RootHide),0.0.4,iphoneos-
 com.dao.hideserialnumber,HideSerialNumber(rootless),0.0.4,iphoneos-arm64
 com.dao.icleanerpro,iCleaner Pro(rootless),7.10.0,iphoneos-arm64
 com.dao.immortalizer,Immortalizer(RootHide),2.0.1,iphoneos-arm64e
-com.dao.infuseplus,Infuse Plus(RootHide),2.2,iphoneos-arm64e
+com.dao.infuseplus,Infuse Plus(RootHide),2.3,iphoneos-arm64e
 com.dao.injectipa,injectipa(rootless),1.4-4,iphoneos-arm64
 com.dao.iridium,Iridium 中文版,1.2.15-REL-1713319636,iphoneos-arm
 com.dao.jade,Jade(rootless),1.0.3,iphoneos-arm64
