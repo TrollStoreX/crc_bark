@@ -28,7 +28,7 @@ com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount,1.0.8,iphoneos-arm64e
 com.0xkuj.safarix,SafariX,1.9.9,iphoneos-arm64e
 com.25mao.doutu.rootless,斗图助手,3.1-6,iphoneos-arm64
-com.25mao.leftpan.rootless,左滑返回,1.0-6,iphoneos-arm64
+com.25mao.leftpan.rootless,左滑返回,1.0-6,iphoneos-arm64e
 com.25mao.miyou.rootless,微信助手,3.8-7,iphoneos-arm64e
 com.25mao.msgfilt,消息屏蔽助手,1.0-5.1,iphoneos-arm64e
 com.25mao.wcpluginss,微信插件管理,0.1-3,iphoneos-arm64e
@@ -127,7 +127,7 @@ com.hapticsleep,HapticSleep,1.0.1,iphoneos-arm64e
 com.hauncundaochu,百度网盘缓存导出,1.0,iphoneos-arm64
 com.hbb,HBB多开无后台推送详情,7.0,iphoneos-arm64e
 com.hbb.ck,HBB多开无后台Callkit,7.0,iphoneos-arm64e
-com.HBWechatHelper.ailun,黄白助手,1.8.9,iphoneos-arm64
+com.HBWechatHelper.ailun,黄白助手,1.9.0,iphoneos-arm64
 com.hg13.reboothelper,Reboot Helper (Beta),2.0.0,iphoneos-arm64e
 com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64e
 com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64e
@@ -141,7 +141,7 @@ com.huami.kugouNoAD,kugouNoAD,0.1-1,iphoneos-arm64
 com.huami.WCFullSwipe,WCFullSwipe,1.3,iphoneos-arm64
 com.huami.wcnicknameavatarstyle,WCNicknameAvatarStyle,2.2,iphoneos-arm64e
 com.huami.WCPluginsOrder,WCPluginsOrder,1.0.2,iphoneos-arm64e
-com.huami.WCPulse,WCPulse,1.2-2,iphoneos-arm64e
+com.huami.WCPulse,WCPulse,1.2-3,iphoneos-arm64e
 com.huami.WCPulse2,WCPulse（低版本特供包）,1.1-5+fix2,iphoneos-arm64e
 com.iamdega.mginspector,MGInspector,1.0.0,iphoneos-arm64e
 com.iamdega.uiscroller,UIScroller,1.0.5,iphoneos-arm64e
@@ -276,10 +276,11 @@ com.storeswitcher2,StoreSwitcher 2,1.0.5,iphoneos-arm64
 com.sttt.easybikenoads,EasyBikeNoAds,1.0.5,iphoneos-arm64
 com.sudo.debra,Debra,2.9.9,iphoneos-arm64
 com.sunshinesong.split-view-pro,split-view-pro,1.4.0,iphoneos-arm64e
+com.susu.fuckwechatads,FuckWeChatAds,1.0.2,iphoneos-arm64e
 com.susu.hidekbsettings,HideKBSettings,1.0.7,iphoneos-arm64e
 com.susu.ios18batteryestimate,iOS18BatteryEstimate,1.0.1,iphoneos-arm64
 com.susu.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
-com.susu.photos,SuPhotos,1.0.0,iphoneos-arm64e
+com.susu.photos,SuPhotos,1.0.1,iphoneos-arm64e
 com.susu.powermenu,PowerMenu,1.0.6,iphoneos-arm64
 com.susu.reachplayer,ReachPlayer音乐专辑,4.1.3,iphoneos-arm64e
 com.susu.springanimation,SpringAnimation,1.0.1,iphoneos-arm64e
@@ -332,7 +333,6 @@ com.wkk.dy,dyyy个人配置(自用),1.0,iphoneos-arm64e
 com.wkk.dyhook,抖音去+号,1.0,iphoneos-arm64
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
 com.wkk.ersatz,Ersatz,1.0.1,iphoneos-arm64e
-com.wkk.faceguazai,笑脸注销动画,1.0,iphoneos-arm64
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64
 com.wkk.ftpz,FT Tool（配置文件）,1.0,iphoneos-arm64e
 com.wkk.fuckicon,HiceIconName,1.0,iphoneos-arm64e
@@ -350,7 +350,6 @@ com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64e
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kkkk,SnowBoard开关-闪电,1.0,iphoneos-arm64e
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
-com.wkk.lineguazai,线条旋转注销动画,1.0,iphoneos-arm64
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
 com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
 com.wkk.luping,灵动岛录屏写轮眼,1.1,iphoneos-arm64e
@@ -366,7 +365,6 @@ com.wkk.qsyyhook,汽水音乐NoBottombar,1.0,iphoneos-arm64e
 com.wkk.roothide,关于RootHide残留（空包）,1.0,iphoneos-arm64
 com.wkk.roothidezd,清理终端(自用),1.1,iphoneos-arm64
 com.wkk.sdk16.5,iPhoneOS16.5.sdk,1.0,iphoneos-arm64
-com.wkk.shouzhiguazai,手指打桌注销动画,1.0,iphoneos-arm64
 com.wkk.shunfenghook,顺丰速运NoAds,1.0,iphoneos-arm64
 com.wkk.sileomh,Sileo美化,1.0,iphoneos-arm64e
 com.wkk.singlevpnandmute,ShadowrocketMute,1.0,iphoneos-arm64
