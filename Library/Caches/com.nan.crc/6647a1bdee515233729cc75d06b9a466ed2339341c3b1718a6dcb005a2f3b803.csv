@@ -1,7 +1,6 @@
 Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
-cn.llld.zfbbs,支付宝步数 XD,1.3,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,2.9,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.7,iphoneos-arm64e
@@ -159,7 +158,6 @@ com.xx.dyhooks.old,抖音图层旧版,1.0.3,iphoneos-arm64e
 com.xx.kshooks,快手图层,1.0.6-3,iphoneos-arm64e
 com.xx.qmxshooks,七猫小说 Hook,1.0.3,iphoneos-arm64e
 com.xx.qqhooks,QQ 图层｜防撤回,1.1.5,iphoneos-arm64e
-com.xx.surgepros,Surge Pro,1.0.0,iphoneos-arm64e
 com.xx.wccallkits,微信 CallKit,1.0.0,iphoneos-arm64e
 com.xx.xhshooks,小红书 小红薯,1.1.5,iphoneos-arm64e
 com.xx.ysbrowserhooks,亚瑟浏览器 Pro,1.0.2,iphoneos-arm64e
