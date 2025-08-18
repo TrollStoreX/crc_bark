@@ -330,6 +330,7 @@ com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64
 com.wkk.center,wkkCenter,4.3,iphoneos-arm64e
 com.wkk.commandmodule,CommandModule,1.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64
+com.wkk.debbatch,一键解压/打包deb(自用),1.2,iphoneos-arm64e
 com.wkk.Desa,Desa,1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64
 com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64e
@@ -349,7 +350,6 @@ com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
 com.wkk.hookcc,控制中心音量亮度增加百分比,1.0,iphoneos-arm64e
 com.wkk.iconx,Hideiconx,1.2,iphoneos-arm64e
 com.wkk.jptext,修改原生键盘上文字,1.0,iphoneos-arm64
-com.wkk.jydeb,一键解压deb(自用),1.1,iphoneos-arm64
 com.wkk.kaiguan,snowboard开关集合,1.0,iphoneos-arm64e
 com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kkkk,SnowBoard开关-闪电,1.0,iphoneos-arm64e
