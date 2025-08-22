@@ -194,6 +194,7 @@ com.nahtedetihw.floatingdockxvi,ipad dock,2.4,iphoneos-arm64e
 com.nahtedetihw.nowidgetlabels,NoWidgetLabels,1.0,iphoneos-arm64e
 com.nahtedetihw.stepup,StepUp,1.2,iphoneos-arm64e
 com.nan.debd2,debd（自用）,0.1,iphoneos-arm64e
+com.nan.disablesblockaftercrash,Disable SB Lock After Crash,0.1.0,iphoneos-arm64e
 com.nathan.gridswitcher,gridswitcher,1.0.3,iphoneos-arm64
 com.netskao.appdata,AppData,1.4.4,iphoneos-arm64e
 com.netskao.autofaceunlock-rootless,AutoFaceUnlock,1.1-7,iphoneos-arm64e
@@ -337,7 +338,7 @@ com.wkk.debbatch,一键解压/打包deb(自用),1.2,iphoneos-arm64e
 com.wkk.Desa,Desa,1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64e
 com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64e
-com.wkk.dy,dyyy个人配置(自用),1.0,iphoneos-arm64e
+com.wkk.dy,dyyy个人配置(自用),1.1,iphoneos-arm64e
 com.wkk.dyhook,抖音去+号,1.0,iphoneos-arm64
 com.wkk.dylibbatch,一键提取dylib(自用),1.0,iphoneos-arm64e
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
@@ -426,6 +427,7 @@ de.finngaida.daynightswitchs,DayNightSwitch,1.2,iphoneos-arm64e
 denyphotoalbumsllld.rootless,Photo pro,9.9.9,iphoneos-arm64e
 dev.mineek.appstoretroller,appstoretroller,0.1,iphoneos-arm64
 dev.traurige.eneko,Eneko,1.4.2,iphoneos-arm64e
+Flex3beta,Flex 3 Beta,1:3~Beta92,iphoneos-arm64e
 info.adolfoi.simplehome,SimpleHome,1.1.0,iphoneos-arm64
 jp.akusio.milkyway2,MilkyWay2,1.0,iphoneos-arm64e
 jp.r-plus.anykeytrackpad,AnyKeyTrackpad,1.1.1,iphoneos-arm64e
