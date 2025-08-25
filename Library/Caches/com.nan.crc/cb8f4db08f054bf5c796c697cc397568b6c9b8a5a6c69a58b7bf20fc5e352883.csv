@@ -367,7 +367,6 @@ com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
 com.wkk.luping,灵动岛录屏写轮眼,1.1,iphoneos-arm64e
 com.wkk.mtwmhook,美团外卖NoAds,1.0,iphoneos-arm64e
 com.wkk.nndxguazai,妮妮打熊注销动画,2.0,iphoneos-arm64
-com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.photosplus,PhotosPlus,0.0.1,iphoneos-arm64e
 com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64e
 com.wkk.qipao,红包气泡制作终端(自用),4.0,iphoneos-arm64
@@ -414,6 +413,7 @@ com.yan.anitime,AniTime,1.0,iphoneos-arm64e
 com.yan.stella,Stella,1.1,iphoneos-arm64
 com.ydw.BypassWechatMSG,BypassWechatMSG,0.0.2,iphoneos-arm64
 com.yourepo.arm64-debs.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64e
+com.yourepo.b4db1r3r3p0.ocd,OCD,5.4.1.1,iphoneos-arm64e
 com.yourepo.cydiageek.nochargingsound,禁用充电声音,0.0.1,iphoneos-arm64
 com.yourepo.huayuarc.-rootless16,【键盘】隐藏键盘地球-Rootless,0.0.1,iphoneos-arm64
 com.yourepo.huayuarc.-rootless17,【键盘】隐藏语音图标-Rootless,0.0.1,iphoneos-arm64
