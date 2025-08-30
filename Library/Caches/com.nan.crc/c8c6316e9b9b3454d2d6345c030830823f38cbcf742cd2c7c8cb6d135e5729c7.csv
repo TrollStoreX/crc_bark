@@ -1,4 +1,5 @@
 Package,Name,Version,Architecture
+bindfs-tools,bindfs-tools,1.0,iphoneos-arm64
 com.lns.pogr,PodsGrant,0.4,iphoneos-arm64
 com.nathan.360spammer,360Spammer,1.0.3,iphoneos-arm64
 com.nathan.batterycli,BatteryCLI,1.0,iphoneos-arm64
