@@ -186,7 +186,7 @@ com.dao.apptools15,AppTools15-16(RootHide),2.3.5,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
 com.dao.axon,Axon 中文版(RootHide),1.5.5,iphoneos-arm64e
-com.dao.azule,Azule(rootless),0.8.3,iphoneos-arm64
+com.dao.azule,Azule(RootHide),0.8.3,iphoneos-arm64e
 com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
 com.dao.bhinsta,BHInsta 中文版(RootHide),1.2,iphoneos-arm64e
@@ -207,7 +207,7 @@ com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
 com.dao.ct5,CrackTool5(rootless),5.1,iphoneos-arm64
 com.daodao.goodwifi,GoodWiFi 中文版(RootHide),1.1,iphoneos-arm64e
 com.daodao.goodwifi16,GoodWiFi16 中文版(RootHide),1.0.2,iphoneos-arm64e
-com.daodao.nocshare,NoCShare(rootless),1.1.3,iphoneos-arm64
+com.daodao.nocshare,NoCShare(RootHide),1.1.3,iphoneos-arm64e
 com.daodao.snapper2,Snapper 2(rootless),2.7.0,iphoneos-arm64
 com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
 com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
@@ -241,7 +241,7 @@ com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.1,iphoneos-arm64e
 com.dao.ocd,OCD Lite(rootless),4.0-3,iphoneos-arm64
 com.dao.ocd5,OCD5(rootless),5.4.1.1,iphoneos-arm64
-com.dao.ocd5lite,OCD5 Lite(rootless),5.4.1.2,iphoneos-arm64
+com.dao.ocd5lite,OCD5 Lite(RootHide),5.4.1.2,iphoneos-arm64e
 com.dao.ocd.cn,OCD 简体中文包(RootHide),5.0,iphoneos-arm64e
 com.dao.onesettings,OneSettings(rootless),2.0.3,iphoneos-arm64
 com.dao.pf2.cn,PrimalFolder2 简体中文包(RootHide),0.1.2,iphoneos-arm64e
@@ -274,7 +274,7 @@ com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
 com.dao.souvenir,Souvenir(rootless),1.25,iphoneos-arm64
 com.dao.souvenir.cn,Souvenir 简体中文包,1.25,iphoneos-arm
 com.dao.souvenir.cn.tl,Souvenir 简体中文包(rootless),1.25,iphoneos-arm64
-com.dao.spotify,EeveeSpotify(rootless),6.1.2,iphoneos-arm64
+com.dao.spotify,EeveeSpotify(rootless),6.1.3,iphoneos-arm64
 com.dao.stella,Stella 中文版(rootless),1.1.5,iphoneos-arm64
 com.dao.storeswitchaccounts,StoreSwitchAccounts(rootless),1.1-4,iphoneos-arm64
 com.dao.storeswitcher2,StoreSwitcher2(RootHide),1.0.5,iphoneos-arm64e
