@@ -179,7 +179,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(rootless),2.1.4,iphoneos-arm64
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.1,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.1.2,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.5,iphoneos-arm64e
@@ -763,7 +763,7 @@ com.hk.roothide.cc,CCHide++(RootHide),1.0.2,iphoneos-arm64e
 com.hk.rootless.barmoji,Barmoji(rootless),2023.3.3,iphoneos-arm64
 com.hk.rootless.bfdecrypt,bfdecryptor脱壳工具(rootless),1.3.6,iphoneos-arm64
 com.hk.rootless.blurrybadges,BlurryBadges(rootless),1.4.3-2,iphoneos-arm64
-com.hk.rootless.cc,CCLess++(rootless),2.0.6,iphoneos-arm64
+com.hk.rootless.cc,CCLess++(RootHide),2.1,iphoneos-arm64e
 com.hk.rootless.colorbadges,ColorBadges(rootless),1.5.0,iphoneos-arm64
 com.hk.rootless.crane,Crane(rootless),1.3.14-6,iphoneos-arm64
 com.hk.rootless.liddell,Liddell小横幅(rootless),1.4.3,iphoneos-arm64
