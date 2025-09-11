@@ -179,7 +179,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.1,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.2,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.1.2,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.5,iphoneos-arm64e
@@ -201,7 +201,7 @@ com.dao.catvnc,CatVNC(rootless),1.2.0-1,iphoneos-arm64
 com.dao.ccborder,CCBorder16(RootHide),1.2,iphoneos-arm64e
 com.dao.choicy.cn,Choicy 自用中文包(rootless),1.5,iphoneos-arm64
 com.dao.classicfolders3,ClassicFolders 3(RootHide),3.0.6,iphoneos-arm64e
-com.dao.classickeyboardxs,ClassicKeyboardXS(rootless),1.1-8,iphoneos-arm64
+com.dao.classickeyboardxs,ClassicKeyboardXS(RootHide),1.1-9,iphoneos-arm64e
 com.dao.coolcc,CoolCC Reborn(RootHide),2.1,iphoneos-arm64e
 com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
 com.dao.ct5,CrackTool5(rootless),5.1,iphoneos-arm64
@@ -223,7 +223,7 @@ com.dao.hideserialnumber,HideSerialNumber(rootless),0.0.4,iphoneos-arm64
 com.dao.icleanerpro,iCleaner Pro(rootless),7.10.0,iphoneos-arm64
 com.dao.immortalizer,Immortalizer(RootHide),2.0.1,iphoneos-arm64e
 com.dao.infuseplus,Infuse Plus(RootHide),2.4.1,iphoneos-arm64e
-com.dao.injectipa,InjectIPA(rootless),1.5-5,iphoneos-arm64
+com.dao.injectipa,InjectIPA(RootHide),1.5-5,iphoneos-arm64
 com.dao.iridium,Iridium 中文版,1.2.15-REL-1713319636,iphoneos-arm
 com.dao.jade,Jade(rootless),1.0.3,iphoneos-arm64
 com.dao.kanoads,清爽酷安(rootless),0.1,iphoneos-arm64
