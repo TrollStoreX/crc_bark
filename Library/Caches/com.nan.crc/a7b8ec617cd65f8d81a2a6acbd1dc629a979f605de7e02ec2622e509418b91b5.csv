@@ -3,9 +3,8 @@ app.crack.daniutweak,Daniu大牛 (只支持10.x),1.5.3.6,iphoneos-arm
 cn.hk.opennotifier12.cn,OpenNotifier9/10/11/12 简体中文包,2.6.0,iphoneos-arm
 cn.octoforce.copyvault,CopyVault(激活码版),1.9.0,iphoneos-arm64e
 com.0xkuj.safarix,SafariX-New(rootless),1.9.9,iphoneos-arm64
-com.82flex.noredirect,禁字诀(rootless),1.3,iphoneos-arm64
-com.82flex.removewidgetbg,移除小组件背景(rootless),1.6,iphoneos-arm64
-com.82flex.wtvrbglauncher,语音转文字免跳转(rootless),1.1,iphoneos-arm64
+com.82flex.noredirect,禁字诀,1.3,iphoneos-arm
+com.82flex.wtvrbglauncher,语音转文字免跳转,1.0,iphoneos-arm
 com.alucard.alderis.cn,AlderisColorPicker 简体中文包,1.1.2-1,iphoneos-arm
 com.alucard.delta.cn,Delta 简体中文包,1.3-2,iphoneos-arm
 com.alucard.loupe.cn,Loupe 简体中文包,1.1.0-1,iphoneos-arm
@@ -179,7 +178,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.2,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(rootless),2.2.2,iphoneos-arm64
 com.dao.appstoretroller,AppStoreTroller(rootless),0.1.2,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.5,iphoneos-arm64e
@@ -205,7 +204,7 @@ com.dao.classickeyboardxs,ClassicKeyboardXS(RootHide),1.1-9,iphoneos-arm64e
 com.dao.coolcc,CoolCC Reborn(RootHide),2.1,iphoneos-arm64e
 com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
 com.dao.ct5,CrackTool5(rootless),5.1,iphoneos-arm64
-com.daodao.goodwifi,GoodWiFi 中文版(RootHide),1.1,iphoneos-arm64e
+com.daodao.goodwifi,GoodWiFi 中文版,1.1,iphoneos-arm
 com.daodao.goodwifi16,GoodWiFi16 中文版(RootHide),1.0.2,iphoneos-arm64e
 com.daodao.nocshare,NoCShare(RootHide),1.1.3,iphoneos-arm64e
 com.daodao.snapper2,Snapper 2(rootless),2.7.0,iphoneos-arm64
@@ -214,7 +213,6 @@ com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
 com.dao.designer,Designer(rootless),1.4.5,iphoneos-arm64
 com.dao.dumpdecrypter,DumpDecrypter(rootless),1.5-1,iphoneos-arm64
 com.dao.filzacrack,Filza Crack(RootHide),1.1-8,iphoneos-arm64e
-com.dao.fivecolumnscc,CC5(rootless),1.0.b4,iphoneos-arm64
 com.dao.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.dao.fuckthermal,去你X的温控iOS15(rootless),1.2-38,iphoneos-arm64
 com.dao.griddy,Griddy 随意摆(RootHide),1.0.5,iphoneos-arm64e
@@ -235,7 +233,7 @@ com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
 com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.mk.cn,Misaki 中文补充包(rootless),2.1.3,iphoneos-arm64
 com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
-com.dao.neofreebird.bht,NeoFreeBird-BHT 中文版(RootHide),5.1,iphoneos-arm64e
+com.dao.neofreebird.bht,NeoFreeBird-BHT 中文版,5.1,iphoneos-arm
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.1,iphoneos-arm64e
@@ -254,7 +252,6 @@ com.dao.powercuff,Powercuff(RootHide),1.1,iphoneos-arm64e
 com.dao.powersettings,PowerSettings 简体中文版(rootless),0.0.1,iphoneos-arm64
 com.dao.primalfolder2,PrimalFolder2(rootless),0.1.2,iphoneos-arm64
 com.dao.pulloverpro,PullOver Pro(rootless),2.1.6,iphoneos-arm64
-com.dao.qqnotiavatar,QQ 通知头像(rootless),1.2-2,iphoneos-arm64
 com.dao.replaced,replaced(RootHide),1.0,iphoneos-arm64e
 com.dao.retrovol.cn,RetroVol 简体中文包(rootless),1.2.1,iphoneos-arm64
 com.dao.reverie,Reverie 中文版(RootHide),0.7,iphoneos-arm64e
@@ -296,7 +293,6 @@ com.dao.underdock.cn,UnderDock 简体中文包(RootHide),1.3,iphoneos-arm64e
 com.dao.ve,Vē 通知记录(RootHide),2.0.beta1,iphoneos-arm64e
 com.dao.velvet2,Velvet 2 中文版(RootHide),2.2,iphoneos-arm64e
 com.dao.watched,watched(RootHide),1.2-1,iphoneos-arm64e
-com.dao.wechatnotiavatar,WeChat 通知头像(rootless),1.2-5,iphoneos-arm64
 com.dao.xina.afc2,AFC2(Xina1越狱专版),1.1.7,iphoneos-arm
 com.dao.youtubereborn,YTR 中文版(RootHide),4.2.6-2,iphoneos-arm64e
 com.dao.ytlite,YTLite(RootHide),5.2b3,iphoneos-arm64e
