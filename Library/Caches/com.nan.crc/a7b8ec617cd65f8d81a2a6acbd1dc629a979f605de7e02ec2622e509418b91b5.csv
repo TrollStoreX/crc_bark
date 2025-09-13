@@ -178,7 +178,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(rootless),2.2.2,iphoneos-arm64
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.3,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(rootless),0.1.2,iphoneos-arm64
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.5,iphoneos-arm64e
@@ -282,7 +282,7 @@ com.dao.storeswitchaccounts,StoreSwitchAccounts(rootless),1.1-4,iphoneos-arm64
 com.dao.storeswitcher2,StoreSwitcher2(RootHide),1.0.5,iphoneos-arm64e
 com.dao.sugarcane,SugarCane 16(RootHide),1.3,iphoneos-arm64e
 com.dao.tako,Tako(rootless),3.5.2,iphoneos-arm64
-com.dao.tgextra,TGExtraFE(RootHide),1.3-2,iphoneos-arm64e
+com.dao.tgextra,TGExtraFE(RootHide),1.3-3,iphoneos-arm64e
 com.dao.trollpad.cn,TrollPad 简体中文包(rootless),1.2.3,iphoneos-arm64
 com.dao.trollstore.cn,TrollStore 简体中文包(RootHide),2.1,iphoneos-arm64e
 com.dao.ttnoads,TalkatoneNoAds(rootless),0.1,iphoneos-arm64
