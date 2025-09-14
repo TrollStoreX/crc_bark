@@ -170,7 +170,7 @@ com.crack.yaodao.icon,嗨客源图标,1.5.1,iphoneos-arm
 com.crack.yaodao.smartlpm.cn,SmartLPM 简体中文包,1.3.0-1,iphoneos-arm
 com.crak.callbarx.cn,CallBar X 简体中文包,0.3-68,iphoneos-arm
 com.crak.stylish11.cn,Stylish11 简体中文包,1.0.6-1,iphoneos-arm
-com.dao.3dappversionspoofer,3DAppVersionSpoofer(RootHide),2.0.3,iphoneos-arm64e
+com.dao.3dappversionspoofer,3DSpoofer(RootHide),2.0.4,iphoneos-arm64e
 com.dao.3dbadgeclear,3DBadgeClear(RootHide),1.6.9,iphoneos-arm64e
 com.dao.actk.cn,ACTikTok 简体中文包(RootHide),2.1,iphoneos-arm64e
 com.dao.afc2,AFC2(rootless),1.1.7-1,iphoneos-arm64
@@ -194,7 +194,7 @@ com.dao.bhtiktokmod,BHTikTok Plus(rootless),2.3,iphoneos-arm64
 com.dao.bhtkplus,BHTikTok++ 原版(rootless),1.9.3,iphoneos-arm64
 com.dao.bhtwitter,BHTwitter 中文版(RootHide),4.4-5,iphoneos-arm64e
 com.dao.bigshotsnapper3plugin,BigShot 长截图(rootless),1.1,iphoneos-arm64
-com.dao.blurrybadges,BlurryBadges 中文版(RootHide),1.5.2.1,iphoneos-arm64e
+com.dao.blurrybadges,BlurryBadges 中文版(RootHide),1.5.3,iphoneos-arm64e
 com.dao.carbridge13,CarBridge(rootless),2.0.14,iphoneos-arm64
 com.dao.catvnc,CatVNC(rootless),1.2.0-1,iphoneos-arm64
 com.dao.ccborder,CCBorder16(RootHide),1.2,iphoneos-arm64e
@@ -283,6 +283,8 @@ com.dao.storeswitcher2,StoreSwitcher2(RootHide),1.0.5,iphoneos-arm64e
 com.dao.sugarcane,SugarCane 16(RootHide),1.3,iphoneos-arm64e
 com.dao.tako,Tako(rootless),3.5.2,iphoneos-arm64
 com.dao.tgextra,TGExtraFE(RootHide),1.3-3,iphoneos-arm64e
+com.dao.tinge,Tinge(rootless),1.2.2,iphoneos-arm64
+com.dao.tinge.cn,Tinge 简体中文包(rootless),1.2.2,iphoneos-arm64
 com.dao.trollpad.cn,TrollPad 简体中文包(rootless),1.2.3,iphoneos-arm64
 com.dao.trollstore.cn,TrollStore 简体中文包(RootHide),2.1,iphoneos-arm64e
 com.dao.ttnoads,TalkatoneNoAds(rootless),0.1,iphoneos-arm64
@@ -762,7 +764,6 @@ com.hk.riveria.cn,Riveria 简体中文包,1.0-3,iphoneos-arm
 com.hk.roothide.cc,CCHide++(RootHide),1.0.2,iphoneos-arm64e
 com.hk.rootless.barmoji,Barmoji(rootless),2023.3.3,iphoneos-arm64
 com.hk.rootless.bfdecrypt,bfdecryptor脱壳工具(rootless),1.3.6,iphoneos-arm64
-com.hk.rootless.blurrybadges,BlurryBadges(rootless),1.4.3-2,iphoneos-arm64
 com.hk.rootless.cc,CCLess++(RootHide),2.1,iphoneos-arm64e
 com.hk.rootless.colorbadges,ColorBadges(rootless),1.5.0,iphoneos-arm64
 com.hk.rootless.crane,Crane(rootless),1.3.14-6,iphoneos-arm64
@@ -953,8 +954,6 @@ com.xina.blacklist,Xina1BlackList(注入黑名单),0.0.1-61+debug,iphoneos-arm
 com.yaodao.bar.mg,状态栏-玫瑰信号(10&11),1.1.3,iphoneos-arm
 com.yaodao.bar.wifi,状态栏-数字WiFi(11),1.0.0,iphoneos-arm
 com.yaodao.bar.yugu,状态栏-鱼骨信号(11),1.0.0,iphoneos-arm
-cpm.dao.tinge,Tinge(rootless),1.2.2,iphoneos-arm64
-cpm.dao.tinge.cn,Tinge 简体中文包(rootless),1.2.2,iphoneos-arm64
 dev.traurige.libkitten,libKitten(rootless),1.4.1,iphoneos-arm64
 hk.zsign.com,zsign 终端签名,1.1-8.3,iphoneos-arm
 moe.hk.surge4-advanced,Surge  Advanced,0.0.3,iphoneos-arm
