@@ -178,7 +178,7 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.4,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.2.8,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.3.0,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
 com.dao.apptools15,AppTools15-16(RootHide),2.3.7,iphoneos-arm64e
@@ -278,7 +278,7 @@ com.dao.souvenir.cn,Souvenir 简体中文包,1.25,iphoneos-arm
 com.dao.souvenir.cn.tl,Souvenir 简体中文包(rootless),1.25,iphoneos-arm64
 com.dao.speedster,Speedster(RootHide),2.2,iphoneos-arm64e
 com.dao.speedy,Speedy(RootHide),0.3,iphoneos-arm64e
-com.dao.spotify,EeveeSpotify(rootless),6.1.4,iphoneos-arm64
+com.dao.spotify,EeveeSpotify(RootHide),6.1.5,iphoneos-arm64e
 com.dao.stella,Stella 中文版(rootless),1.1.5,iphoneos-arm64
 com.dao.storeswitchaccounts,StoreSwitchAccounts(rootless),1.1-4,iphoneos-arm64
 com.dao.storeswitcher2,StoreSwitcher2(RootHide),1.0.5,iphoneos-arm64e
@@ -289,7 +289,7 @@ com.dao.tinge,Tinge(rootless),1.2.2,iphoneos-arm64
 com.dao.tinge.cn,Tinge 简体中文包(rootless),1.2.2,iphoneos-arm64
 com.dao.trollpad.cn,TrollPad 简体中文包(rootless),1.2.3,iphoneos-arm64
 com.dao.trollstore.cn,TrollStore 简体中文包(RootHide),2.1,iphoneos-arm64e
-com.dao.ttnoads,TalkatoneNoAds(rootless),0.1,iphoneos-arm64
+com.dao.ttnoads,TalkatoneNoAds(RootHide),0.1,iphoneos-arm64e
 com.dao.tvlock,TVLock(RootHide),1.2.3,iphoneos-arm64e
 com.dao.tvlock.cn,TVLock 简体中文包(RootHide),1.2.3,iphoneos-arm64e
 com.dao.uiscroller,UIScroller 中文版(RootHide),1.0.5,iphoneos-arm64e
@@ -333,12 +333,9 @@ com.hk.appaze.cn,Appaze 简体中文包,2.0,iphoneos-arm
 com.hk.appdata.old,AppData(老版本样式),1.2.6,iphoneos-arm
 com.hk.appellancy11.cn,Appellancy (iOS 11) 简体中文包,1.1-20a,iphoneos-arm
 com.hk.appleturboboost,Apple Turbo Boost 禁止降频,0.6.7,iphoneos-arm
-com.hk.appprotect,AppProtect 隐私保护,1.8.4,iphoneos-arm
 com.hk.appshortcut2.cn,AppShortcut 2 简体中文包,1.0,iphoneos-arm
 com.hk.appshortcut.cn,AppShortcut 简体中文包,1.0.2,iphoneos-arm
 com.hk.appstore++.cn,AppStore++ 简体中文包,1.2-2,iphoneos-arm
-com.hk.apptools14,AppTools14,2.0.6,iphoneos-arm
-com.hk.apptools15,AppTools15,1.2.3,iphoneos-arm
 com.hk.arc.cn,Arc 简体中文包,1.0.2,iphoneos-arm
 com.hk.arch,Arch程序锁(CN),1.5,iphoneos-arm
 com.hk.ares.cn,Ares 简体中文包,1.0,iphoneos-arm
