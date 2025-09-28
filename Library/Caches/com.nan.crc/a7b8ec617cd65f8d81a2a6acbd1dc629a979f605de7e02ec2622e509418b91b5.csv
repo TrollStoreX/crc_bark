@@ -1,175 +1,12 @@
 Package,Name,Version,Architecture
-app.crack.daniutweak,Daniu大牛 (只支持10.x),1.5.3.6,iphoneos-arm
-cn.hk.opennotifier12.cn,OpenNotifier9/10/11/12 简体中文包,2.6.0,iphoneos-arm
 cn.octoforce.copyvault,CopyVault(激活码版),1.9.0,iphoneos-arm64e
 com.0xkuj.safarix,SafariX-New(rootless),1.9.9,iphoneos-arm64
-com.82flex.noredirect,禁字诀,1.3,iphoneos-arm
-com.82flex.wtvrbglauncher,语音转文字免跳转,1.0,iphoneos-arm
-com.alucard.alderis.cn,AlderisColorPicker 简体中文包,1.1.2-1,iphoneos-arm
-com.alucard.delta.cn,Delta 简体中文包,1.3-2,iphoneos-arm
-com.alucard.loupe.cn,Loupe 简体中文包,1.1.0-1,iphoneos-arm
-com.alucard.newterm.cn,NewTerm 2 简体中文包,1.0-2,iphoneos-arm
 com.alucard.wifiqr.cn,WiFiQR & HotspotQR 简体中文包(rootless),1.1-1,iphoneos-arm64
-com.anvem.top.nappytime14.cn,NappyTime14 简体中文包,1.1.2,iphoneos-arm
-com.anvem.top.prokeys.cn,ProKeys 简体中文包,1.0,iphoneos-arm
-com.apper.wf,威锋去广告,1.0.0,iphoneos-arm
 com.apper.wf.roothide,威锋去广告(RootHide),1.0.0,iphoneos-arm64e
 com.apper.wf.rootless,威锋去广告(rootless),1.0.0,iphoneos-arm64
 com.AudioMix.zh-hans,AudioMix 简体中文包(rootless),0.0.1,iphoneos-arm64
-com.ball.airmessage.cn,AirMessage Beta 简体中文包,2.0.1b1,iphoneos-arm
-com.ball.airplaneenhancerplus.ch.ch,AE+ 简体中文包,2.0.1b2-1,iphoneos-arm
-com.ball.anisette.cn,Anisette 简体中文包,1.2,iphoneos-arm
-com.ball.ants.cn,Ants 简体中文包,1.0.0-1,iphoneos-arm
-com.ball.askbeforecallingtoo11.cn.zh,AskBeforeCalling Too 11 简体中文包,1.0.0~beta18-6,iphoneos-arm
-com.ball.autoblue.cn,AutoBlue 简体中文包,2.1.1,iphoneos-arm
-com.ball.badgecustomizer.zh.cn,Badge Customizer 简体中文包,1.4.3-2,iphoneos-arm
-com.ball.bannersouns11.ch.cn,Banner Sounds 11 简体中文包,1.0.0~beta2-1,iphoneos-arm
-com.ball.basebadges.cn,BaseBadges 简体中文包,1.0.0,iphoneos-arm
-com.ball.batterypercent12.cn,BatteryPercent12 简体中文包,1.0.1,iphoneos-arm
-com.ball.better3dmenus.ch.ch,better3DMenus 简体中文包,2.0-85,iphoneos-arm
-com.ball.bettertelegram.ch.cn,BetterTelegram 简体中文包,1.0.0,iphoneos-arm
-com.ball.biolocker.ch.cn,Bio Locker 简体中文包,1.0.4-beba-1,iphoneos-arm
-com.ball.coalesce.cn,Coalesce 简体中文包,0.2.6,iphoneos-arm
-com.ball.copylog.cn,CopyLog 简体中文包,1.7,iphoneos-arm
-com.ball.cornuicopia.ch.ch,Cornuicopia 简体中文包,1.0.3-1,iphoneos-arm
-com.ball.crack.strongerfi.cn,StrongerFi 简体中文包,1.0.0~beta5,iphoneos-arm
-com.ball.customcccolor.cn,CustomCCColor 简体中文包,0.0.1,iphoneos-arm
-com.ball.customcc.zh.cn,CustomCC 简体中文包,0.2.4beta2,iphoneos-arm
-com.ball.customlock.cn,CustomLock 简体中文包,1.0.0,iphoneos-arm
-com.ball.darksounds.ch.ch,DarkSounds 简体中文包,1.0.0,iphoneos-arm
-com.ball.deluminator.cn,Deluminator 简体中文包(新),2.1.2,iphoneos-arm
-com.ball.deluminator.zh.cn,Deluminator 简体中文包,1.0.1,iphoneos-arm
-com.ball.easyaccess.cn,EasyAccess 简体中文包,0.1.0,iphoneos-arm
-com.ball.easydialer.cn,EasyDialer 简体中文包,0.0.1-6+debug,iphoneos-arm
-com.ball.easydock.cn,EasyDock 简体中文包,0.0.1-1+debug,iphoneos-arm
-com.ball.edge.cn,Edge 简体中文包,1.0b2,iphoneos-arm
-com.ball.epicentreios11.cn,Epicentre (iOS 11)简体中文包,2.0-2a,iphoneos-arm
-com.ball.ermete.ch.cn,Ermete 简体中文包,1.0.0,iphoneos-arm
-com.ball.essentials.cn,Essentials 简体中文包,1.2.1,iphoneos-arm
-com.ball.exsto.cn,Exsto 简体中文包,0.0.1.2-1,iphoneos-arm
-com.ball.fasterscroll.ch.ch,FasterScroll 简体中文包,1.0.0,iphoneos-arm
-com.ball.flashyhud.cn,FlashyHUD 简体中文包,0.2.2,iphoneos-arm
-com.ball.fullfolder11.ch.cn,FullFolder11 简体中文包,1.1-3,iphoneos-arm
-com.ball.fullfolderx.ch.ch,FullFolder X 简体中文包,2.0-1,iphoneos-arm
-com.ball.gif2ani.ch.cn,Gif2Ani 简体中文包,2.1,iphoneos-arm
-com.ball.goodges.zh.cn,Goodges 2 简体中文包,2.1.2,iphoneos-arm
-com.ball.haystack.cn,Haystack 简体中文包,1.6.1,iphoneos-arm
-com.ball.homebuttonplus.ch.cn,HomeButtonPlus 简体中文包,1.2-3,iphoneos-arm
-com.ball.huephonedialer.ch.cn,huePhoneDialer 简体中文包,1.0.2,iphoneos-arm
-com.ball.iconcert.cn,IconCert 简体中文包,1.4-1,iphoneos-arm
-com.ball.inosleep.ch.cn,iNoSleep 简体中文包,1.2.3,iphoneos-arm
-com.ball.lace2.cn,Lace 2 简体中文包,1.0-1,iphoneos-arm
-com.ball.Lifeguard.ch.cn,Lifeguard 简体中文包,1.0,iphoneos-arm
-com.ball.magma.cn,Magma 简体中文包,1.0.4,iphoneos-arm
-com.ball.messagebubbles.cn,MessageBubbles 简体中文包,0.2.2-1,iphoneos-arm
-com.ball.miscsttings.zh.cn,MiscSettings 简体中文包,2.4.0,iphoneos-arm
-com.ball.nextalarm12.cn,NextAlarm12 简体中文包,1.0.0~beta4,iphoneos-arm
-com.ball.nightshade.ch.cn,Nightshade 简体中文包,0.0.1-93+debug,iphoneos-arm
-com.ball.Notifications.zh.cn,Adjust Notifications 简体中文包,1.4.2,iphoneos-arm
-com.ball.palert.ch.cn,Palert 简体中文包,1.1.0-2,iphoneos-arm
-com.ball.pencilchargingIndicator.ch.cn,PencilChargingIndicator 简体中文包,1.2~b7,iphoneos-arm
-com.ball.photomanager12.cn,PhotoManager(iOS12/13) 简体中文包,1.1.1-1+debug,iphoneos-arm
-com.ball.roxanne.cn,Roxanne 简体中文包,1.0.1-1,iphoneos-arm
-com.ball.settingscillapse.cn,SettingsCollapse 简体中文包,1.1,iphoneos-arm
-com.ball.simplepowerdown.ch.cn,Simple Power Down 简体中文包,1.0.0,iphoneos-arm
-com.ball.skinnysettings.cn,SkinnySettings 简体中文包,1.2.7,iphoneos-arm
-com.ball.smarttapx.ch.cn,SmartTap X 简体中文包,0.1.2-234,iphoneos-arm
-com.ball.smartvolumemixer.ch.ch,SmartVolumeMixer 简体中文包,2.3,iphoneos-arm
-com.ball.smoothbattery.cn,SmoothBattery 简体中文包,1.0.2,iphoneos-arm
-com.ball.sneakycam.ch.cn,SneakyCam 简体中文包,2.0.4,iphoneos-arm
-com.ball.socialdownloader.cn,Social Downloader 简体中文包,3.1,iphoneos-arm
-com.ball.sonus.cn,Sonus 简体中文包,3.0.2-3,iphoneos-arm
-com.ball.switchus.ch.cn,Switchus 简体中文包,1.2,iphoneos-arm
-com.ball.taptickeys.cn.zh,TapticKeys 简体中文包,3.0.6-1,iphoneos-arm
-com.ball.tinyplayer.cn,TinyPlayer 简体中文包,1.3.1,iphoneos-arm
-com.ball.tinysiri.ch.cn,TinySiri 简体中文包,1.2.1-1,iphoneos-arm
-com.ball.twittertweak.ch.cn,TwitterTweak 简体中文包,1.0,iphoneos-arm
-com.ball.ultrasound.ch.cn,Ultrasound 简体中文包,1.2.13-1,iphoneos-arm
 com.ball.ultrasound.cn.rl,Ultrasound 简体中文包(rootless),1.2.12,iphoneos-arm64
-com.ball.usagebarx.ch.ch,UsageBarX 简体中文包,1.0,iphoneos-arm
-com.ball.vesta.cn,Vesta 简体中文包,1.0.3,iphoneos-arm
-com.ball.vibrato.cn,Vibrato 简体中文包,1.1,iphoneos-arm
-com.ball.waves.cn,Waves 简体中文包,1.0.0,iphoneos-arm
-com.ball.weatheranimations.cn,Weather Animations 简体中文包,0.7,iphoneos-arm
-com.ball.xenhtml.zh.cn,XenHTML 简体中文包,1.0,iphoneos-arm
-com.ball.xeninfo.cn,XenInfo 简体中文包,2.2.1,iphoneos-arm
-com.ball.yourespring.ch.cn,YouRespring 简体中文包,1.7.4,iphoneos-arm
-com.ball.zenith.cn,Zenith 简体中文包,1.1.0-2,iphoneos-arm
 com.Bloom.zh-hans,Bloom 简体中文包(rootless),0.0.2,iphoneos-arm64
-com.carck.alkaline,Alkaline 汉化版,1.3-1,iphoneos-arm
-com.carck.cabello.cn,Cabello 简体中文包,1.0,iphoneos-arm
-com.carck.classiclockscreen.cn,ClassicLockScreen 简体中文包,4.0,iphoneos-arm
-com.carck.colorflow4.cn,ColorFlow 4 简体中文包,1.0.1,iphoneos-arm
-com.carck.copic2.cn,Copic 2 简体中文包,1.0.11-beta-11,iphoneos-arm
-com.carck.cracktool3.cn,CrackTool3 简体中文包,3.0~up,iphoneos-arm
-com.carck.flame.cn,Flame 简体中文包,1.3,iphoneos-arm
-com.carck.hidestatusbaritems.cn,Hide Statusbar Items 简体中文包,0.3.6,iphoneos-arm
-com.carck.illlooklater.cn,IllLookLater(iOS11) 简体中文包,2.0-2,iphoneos-arm
-com.carck.iosblocks.cn,iOS Blocks 简体中文包,0.2.5-1-7+debug,iphoneos-arm
-com.carck.jitter.cn,Jitter 简体中文包,1.0-17+debug,iphoneos-arm
-com.carck.killbackground10.cn,KillBackground10 简体中文包,1.1.2,iphoneos-arm
-com.carck.killbackground11.cn,KillBackground11 简体中文包,0.0.1-2-beta,iphoneos-arm
-com.carck.modernxi.cn,ModernXI 简体中文包,0.1.2,iphoneos-arm
-com.carck.nosubstitute.cn,NoSubstitute (Electra) 简体中文包,1.0-1,iphoneos-arm
-com.carck.nox.cn,Nox 简体中文包,1.1,iphoneos-arm
-com.carck.passby.cn,PassBy 简体中文包,1.8.3,iphoneos-arm
-com.carck.powertap2.cn,Power Tap 2 简体中文包,1.0.1,iphoneos-arm
-com.carck.quickswitcherxi.cn,Adagio 简体中文包,1.1.0,iphoneos-arm
-com.carck.silentrecorder.cn,SilentRecorder 简体中文包,1.4.0,iphoneos-arm
-com.carck.simplepowerdownmenu.cn,Simple Power Down Menu 简体中文包,0.0.1,iphoneos-arm
-com.carck.spotifynewuienabler.cn,Spotify New UI Enabler 简体中文包,2.0,iphoneos-arm
-com.carck.stackxi.cn,StackXI 简体中文包,0.3.1,iphoneos-arm
-com.carck.yaodao.shieldxi.cn,ShieldXI 简体中文包,1.0.1,iphoneos-arm
-com.crack.animationbefast.cn,AnimationsBeFast 简体中文包,1.4.7,iphoneos-arm
-com.crack.audiorecorder.cn,AudioRecorder 2 简体中文包,1.9-2,iphoneos-arm
-com.crack.audiorecorder.old.cn,AudioRecorder 2 简体中文包(1.7-18),1.7-18,iphoneos-arm
-com.crack.bottomcontrolx.cn,BottomControlX 简体中文包,1.3.0,iphoneos-arm
-com.crack.boxy3.cn,Boxy 3 简体中文包,3.3.3-1+debug,iphoneos-arm
-com.crack.callbar.cn,CallBar 简体中文包,1.3-169,iphoneos-arm
-com.crack.callbarx,CallBar X Crack,0.3-68k,iphoneos-arm
-com.crack.cocoatop64,CocoaTop64,2.2.3,iphoneos-arm
-com.crack.colorbanners2.cn,ColorBanners 2 简体中文包,1.2.4,iphoneos-arm
-com.crack.conditionalwifi3,WiFi3联网控制,1.0.1,iphoneos-arm
-com.crack.customcallbackground.cn,CustomCallBackground 简体中文包,1.0.0,iphoneos-arm
-com.crack.cydown.cn,CyDown 中文修复包,7.1.2,iphoneos-arm
-com.crack.dimid.cn,Dimid 简体中文包,1.0.0,iphoneos-arm
-com.crack.dodtweaks.2x2folder,2x2文件夹预览,0.0.1-4,iphoneos-arm
-com.crack.duplexclockxpro.cn,DuplexClockX Pro 简体中文包,1.3-1+debug,iphoneos-arm
-com.crack.elite.cn,ColorCodedLogs 简体中文包,1.4,iphoneos-arm
-com.crack.exacttime.cn,ExactTime 简体中文包,2.0.1,iphoneos-arm
-com.crack.gramplus.cn,Instagram ++ 简体中文包,1.8r-64,iphoneos-arm
-com.crack.justinpetkovic.youtubetools.cn,YouTube Tools 简体中文包,1.9,iphoneos-arm
-com.crack.kietha.sleepanywhere,SleepAnywhere 双击锁屏,1.0.1-1,iphoneos-arm
-com.crack.liberty.cn,Liberty 简体中文包,0.2.12,iphoneos-arm
-com.crack.makecydiabuyagain,MakeCydiaBuyAgain,1.0-1+debug,iphoneos-arm
-com.crack.mikoto.cn,Mikoto 简体中文包,4.0.2-1,iphoneos-arm
-com.crack.morepoweroptions.cn,MorePowerOptions 简体中文包,1.3,iphoneos-arm
-com.crack.nine.cn,Nine 简体中文包,0.2.3,iphoneos-arm
-com.crack.notchification.cn,Notchification 简体中文包,2.0.1,iphoneos-arm
-com.crack.pwn20wnd.semirestore11,SemiRestore11 越狱平刷,1.1.2-1,iphoneos-arm
-com.crack.safariplus.cn,Safari Plus 中文修复包,1.7.22,iphoneos-arm
-com.crack.safariupro.cn,SafariUnleashed PRO 简体中文包,1.1,iphoneos-arm
-com.crack.simplelsios10.cn,SimpleLSiOS 简体中文包,1.5.3,iphoneos-arm
-com.crack.slices2.cn,Slices 2 简体中文包,1.0b2,iphoneos-arm
-com.crack.smartvolumecontrol2.cn,SmartVolumeControl2 简体中文包,3.1.5.1,iphoneos-arm
-com.crack.spinxi,SpinXI 简体中文包,1.1-2,iphoneos-arm
-com.crack.springplus11.cn,SpringPlus11 简体中文包,1.2,iphoneos-arm
-com.crack.springplus.cn,SpringPlus 简体中文包,1.3,iphoneos-arm
-com.crack.testflight.cn,TestFlight 简体中文包,2.1.5,iphoneos-arm
-com.crack.umangis.libertas,Libertas 越狱屏蔽,1.0.0,iphoneos-arm
-com.crack.undertime.cn,UnderTime 简体中文包,1.6-21+debug,iphoneos-arm
-com.crack.uni9k.utoolspro.cn,UToolsPro 简体中文包,2.0.2-1,iphoneos-arm
-com.crack.unlimapps.uaupdatetools,App Admin 降级,1.0r-102,iphoneos-arm
-com.crack.vsz.redeb,Redeb 提取本地插件,1.0.3,iphoneos-arm
-com.crack.weatherlock.cn,WeatherLock 简体中文包,0.1.13,iphoneos-arm
-com.crack.workflow.cn,Workflow 简体中文包,1.7.8-2,iphoneos-arm
-com.crack.yaodao.aquaboardx.cn,AquaBoard X 简体中文包,0.1-2-1,iphoneos-arm
-com.crack.yaodao.badgecolors.cn,BadgeColors 简体中文包,1.0,iphoneos-arm
-com.crack.yaodao.cclinker.cn,CCLinker 简体中文包,1.2,iphoneos-arm
-com.crack.yaodao.icon,嗨客源图标,1.5.1,iphoneos-arm
-com.crack.yaodao.smartlpm.cn,SmartLPM 简体中文包,1.3.0-1,iphoneos-arm
-com.crak.callbarx.cn,CallBar X 简体中文包,0.3-68,iphoneos-arm
-com.crak.stylish11.cn,Stylish11 简体中文包,1.0.6-1,iphoneos-arm
 com.dao.3dappversionspoofer,3DSpoofer(RootHide),2.0.4,iphoneos-arm64e
 com.dao.3dbadgeclear,3DBadgeClear(RootHide),1.6.9,iphoneos-arm64e
 com.dao.actk.cn,ACTikTok 简体中文包(RootHide),2.1,iphoneos-arm64e
@@ -204,7 +41,7 @@ com.dao.classickeyboardxs,ClassicKeyboardXS(RootHide),1.1-9,iphoneos-arm64e
 com.dao.coolcc,CoolCC Reborn(RootHide),2.1,iphoneos-arm64e
 com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
 com.dao.ct5,CrackTool5(rootless),5.1,iphoneos-arm64
-com.daodao.goodwifi,GoodWiFi 中文版,1.1,iphoneos-arm
+com.daodao.goodwifi,GoodWiFi 中文版(RootHide),1.1.1,iphoneos-arm64e
 com.daodao.goodwifi16,GoodWiFi16 中文版(RootHide),1.0.2,iphoneos-arm64e
 com.daodao.nocshare,NoCShare(RootHide),1.1.3,iphoneos-arm64e
 com.daodao.snapper2,Snapper 2(rootless),2.7.0,iphoneos-arm64
@@ -224,7 +61,6 @@ com.dao.icleanerpro,iCleaner Pro(rootless),7.10.0,iphoneos-arm64
 com.dao.immortalizer,Immortalizer(RootHide),2.0.1,iphoneos-arm64e
 com.dao.infuseplus,Infuse Plus(RootHide),2.4.1,iphoneos-arm64e
 com.dao.injectipa,InjectIPA(RootHide),1.5-5,iphoneos-arm64e
-com.dao.iridium,Iridium 中文版,1.2.15-REL-1713319636,iphoneos-arm
 com.dao.jade,Jade(rootless),1.0.3,iphoneos-arm64
 com.dao.kanoads,清爽酷安(rootless),0.1,iphoneos-arm64
 com.dao.kayoko,Kayoko(RootHide),2.9,iphoneos-arm64e
@@ -234,8 +70,7 @@ com.dao.looky.cn,Looky 简体中文包(rootless),1.0.5,iphoneos-arm64
 com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
 com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.mk.cn,Misaki 中文补充包(rootless),2.1.3,iphoneos-arm64
-com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
-com.dao.neofreebird.bht,NeoFreeBird-BHT 中文版,5.1,iphoneos-arm
+com.dao.neofreebird.bht,NFB-BHTwitter 中文版(RootHide),5.1-3,iphoneos-arm64e
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.1,iphoneos-arm64e
@@ -274,7 +109,6 @@ com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
 com.dao.snowboard,SnowBoard(RootHide),1.5.37-Beta4,iphoneos-arm64e
 com.dao.snowboard.settingsicons,SnowBoard SetIcons(RootHide),1.0.26~Beta3,iphoneos-arm64e
 com.dao.souvenir,Souvenir(rootless),1.25,iphoneos-arm64
-com.dao.souvenir.cn,Souvenir 简体中文包,1.25,iphoneos-arm
 com.dao.souvenir.cn.tl,Souvenir 简体中文包(rootless),1.25,iphoneos-arm64
 com.dao.speedster,Speedster(RootHide),2.2,iphoneos-arm64e
 com.dao.speedy,Speedy(RootHide),0.3,iphoneos-arm64e
@@ -297,469 +131,56 @@ com.dao.underdock.cn,UnderDock 简体中文包(RootHide),1.3,iphoneos-arm64e
 com.dao.ve,Vē 通知记录(RootHide),2.0.beta1,iphoneos-arm64e
 com.dao.velvet2,Velvet 2 中文版(RootHide),2.2,iphoneos-arm64e
 com.dao.watched,watched(RootHide),1.2-1,iphoneos-arm64e
-com.dao.xina.afc2,AFC2(Xina1越狱专版),1.1.7,iphoneos-arm
 com.dao.youtubereborn,YTR 中文版(RootHide),4.2.6-2,iphoneos-arm64e
 com.dao.ytlite,YTLite(RootHide),5.2b3,iphoneos-arm64e
 com.dao.ytmusicultimate,YTMusicUltimate(RootHide),2.3.1,iphoneos-arm64e
-com.eclipsex.cn,Eclipse X (iOS 11) 简体中文包,5.0.9-1,iphoneos-arm
-com.hk.13hud.cn,13HUD 简体中文包,1.0.1,iphoneos-arm
-com.hk.3dtools.cn,3DTools 简体中文包,1.0.6,iphoneos-arm
-com.hk.abypass.cn,A-Bypass 简体中文包,1.5.7,iphoneos-arm
-com.hk.accent.cn,Accent 简体中文包,1.4.0,iphoneos-arm
-com.hk.actionbar.cn,ActionBar 简体中文包,1.3.3,iphoneos-arm
-com.hk.addsource.cn,addsource 简体中文包,2.3,iphoneos-arm
-com.hk.addtofolder.cn,AddToFolder 简体中文包,1.2.1-1,iphoneos-arm
-com.hk.afont.cn,A-Font 简体中文包,1.9.6,iphoneos-arm
 com.hk.afont.cn.rl,A-Font 简体中文包(rootless),1.9.3,iphoneos-arm64
-com.hk.aim.cn,AIM 简体中文包,1.2.5,iphoneos-arm
-com.hk.aion.cn,Aion 简体中文包,0.0.18~Beta1,iphoneos-arm
-com.hk.airport.cn,AirPort 简体中文包,2.0,iphoneos-arm
-com.hk.ajb.cn,AJB 简体中文包,1.0-2,iphoneos-arm
-com.hk.akara.cn,Akara 简体中文包,2.0.2,iphoneos-arm
 com.hk.akara.cn.rl,Akara 简体中文包(RootHide),2.0.2,iphoneos-arm64e
-com.hk.alertani.cn,AlertAni 简体中文包,0.3,iphoneos-arm
-com.hk.alpine.cn,Alpine 简体中文包,1.2-1,iphoneos-arm
 com.hk.alpine.cn.rl,Alpine 简体中文包(RootHide),1.2,iphoneos-arm64e
-com.hk.ampere.cn,Ampere 简体中文包,1.4,iphoneos-arm
 com.hk.ampere.cn.rl,Ampere 简体中文包(RootHide),1.4,iphoneos-arm64e
-com.hk.animationsbefastplus.cn,AnimationsBeFastPlus 简体中文包,4.5,iphoneos-arm
-com.hk.animemybadgespro.cn,AnimeMyBadges Pro 简体中文包,1.0.1-2,iphoneos-arm
-com.hk.animplus.cn,AnimPlus 简体中文包,2.2,iphoneos-arm
-com.hk.answeringmachinexs.cn,AnsweringMachine XS 简体中文包,1.2-32,iphoneos-arm
-com.hk.aod.cn,AOD 简体中文包,6.0,iphoneos-arm
-com.hk.aperturize.cn,Aperturize 简体中文包,1.0.5,iphoneos-arm
-com.hk.appaze2.cn,Appaze 2 简体中文包,1.0,iphoneos-arm
-com.hk.appaze.cn,Appaze 简体中文包,2.0,iphoneos-arm
-com.hk.appdata.old,AppData(老版本样式),1.2.6,iphoneos-arm
-com.hk.appellancy11.cn,Appellancy (iOS 11) 简体中文包,1.1-20a,iphoneos-arm
-com.hk.appleturboboost,Apple Turbo Boost 禁止降频,0.6.7,iphoneos-arm
-com.hk.appshortcut2.cn,AppShortcut 2 简体中文包,1.0,iphoneos-arm
-com.hk.appshortcut.cn,AppShortcut 简体中文包,1.0.2,iphoneos-arm
-com.hk.appstore++.cn,AppStore++ 简体中文包,1.2-2,iphoneos-arm
-com.hk.arc.cn,Arc 简体中文包,1.0.2,iphoneos-arm
-com.hk.arch,Arch程序锁(CN),1.5,iphoneos-arm
-com.hk.ares.cn,Ares 简体中文包,1.0,iphoneos-arm
-com.hk.areyousur,BigSur弹窗,1.2,iphoneos-arm
-com.hk.arkita.cn,Arkita 简体中文包,1.0.3,iphoneos-arm
-com.hk.artsy.cn,Artsy 简体中文包,2.0~Beta.3,iphoneos-arm
-com.hk.ashieldlocalizer,A-Shields 简体中文包,0.0.1,iphoneos-arm
-com.hk.assistability12.cn,Assistability12 简体中文包,0.0.1-1,iphoneos-arm
-com.hk.assistability13.cn,Assistability13 简体中文包,0.0.1-1,iphoneos-arm
-com.hk.atlas.cn,Atlas 简体中文包,1.0.4,iphoneos-arm
-com.hk.atria.cn,Atria 简体中文包,1.4.1,iphoneos-arm
 com.hk.atria.cn.rl,Atria 简体中文包(RootHide),1.4.1,iphoneos-arm64e
-com.hk.audio.6s120,提升音质(6S-12.0),1.0,iphoneos-arm
-com.hk.audio.6s1241,提升音质(6S-12.4.1),1.0,iphoneos-arm
-com.hk.audio.6sp120,提升音质(6SP-12.0),1.0,iphoneos-arm
-com.hk.audio.6sp1241,提升音质(6SP-12.4.1),1.0,iphoneos-arm
-com.hk.audio.7p8p120,提升音质(7P/8P-12.0),1.0,iphoneos-arm
-com.hk.audio.7p8p1241,提升音质(7P/8P-12.4.1),1.0,iphoneos-arm
-com.hk.audio.ip78120,提升音质(7/8-12.0),1.0,iphoneos-arm
-com.hk.audio.ip781241,提升音质(7/8-12.4.1),1.0,iphoneos-arm
-com.hk.audio.non-xsm120,提升音质(非国行XsMax-12.0),1.0,iphoneos-arm
-com.hk.audio.non-xsm1201,提升音质(非国行XsMax-12.0.1),1.0,iphoneos-arm
-com.hk.audio.non-xsm1241,提升音质(非国行XsMax-12.4.1),1.0,iphoneos-arm
-com.hk.audiorecorderxs.cn,AudioRecorder XS 简体中文包,5.0-7,iphoneos-arm64e
 com.hk.audiorecorderxs.cn.rl,AudioRecorder XS 简体中文包(RootHide),5.0-7,iphoneos-arm64e
-com.hk.audio.x120,提升音质(X-12.0),1.0,iphoneos-arm
-com.hk.audio.x1241,提升音质(X-12.4.1),1.0,iphoneos-arm
-com.hk.audio.xr120,提升音质(XR-12.0),1.0,iphoneos-arm
-com.hk.audio.xr1201,提升音质(XR-12.0.1),1.0,iphoneos-arm
-com.hk.audio.xr1241,提升音质(XR-12.4.1),1.0,iphoneos-arm
-com.hk.audio.xs1201,提升音质(XS-12.0.1),1.0,iphoneos-arm
-com.hk.audio.xs1241,提升音质(XS-12.4.1),1.0,iphoneos-arm
-com.hk.audio.xsm120,提升音质(国行XsMax-12.0),1.0,iphoneos-arm
-com.hk.audio.xsm1201,提升音质(国行XsMax-12.0.1),1.0,iphoneos-arm
-com.hk.audio.xsm1241,提升音质(国行XsMax-12.4.1),1.0,iphoneos-arm
-com.hk.autofaceunlock,AutoFaceUnlock,1.0-1,iphoneos-arm
-com.hk.autoscroll.cn,AutoScroll 简体中文包,1.0.1,iphoneos-arm
-com.hk.autounlockx.cn,AutoUnlockX 简体中文包,1.0.14,iphoneos-arm
 com.hk.autounlockx.cn.rl,AutoUnlockX 简体中文包(rootless),1.1.0,iphoneos-arm64
-com.hk.awesomepagedots,AwesomePageDots翻页点动画,1.2,iphoneos-arm
-com.hk.awesomepagedots.cn,AwesomePageDots 简体中文包,1.0-2,iphoneos-arm
-com.hk.axon.cn,Axon 简体中文包,2.0.0-3,iphoneos-arm
 com.hk.axon.cn.rl,Axon 通用中文包(rootless),2.0-2,iphoneos-arm64
-com.hk.ays.cn,Are You Sur 简体中文包,1.1,iphoneos-arm
-com.hk.aysxhack,爱阅书香Pro+,1.0-1,iphoneos-arm
-com.hk.backgrounderaction13,真后台模块2,0.1.4,iphoneos-arm
-com.hk.backrunner.cn,BackRunner 简体中文包,0.1.7,iphoneos-arm
-com.hk.backtrix.cn,Backtrix 简体中文包,1.0.0,iphoneos-arm
-com.hk.backupaz3.cn,BackupAZ 3 简体中文包,1.3,iphoneos-arm
-com.hk.badgebar.cn,BadgeBar 简体中文包,1.2.3,iphoneos-arm
-com.hk.badgomizer.cn,Badgomizer 简体中文包,1.6.11,iphoneos-arm
-com.hk.bakgrunnur.cn,Bakgrunnur 简体中文包,1.7.3-1,iphoneos-arm
-com.hk.ball.bannersouns12.cn,Banner Sounds 12 简体中文包,1.0.0~beta2-1,iphoneos-arm
-com.hk.ball.betterccIconspro.cn,BetterCCIcons Pro 简体中文包,1.6.1,iphoneos-arm
-com.hk.ball.calllogpro.cn,CallLogPro(iOS 11/10/8) 简体中文包,10.2.1-beta-5,iphoneos-arm
-com.hk.ball.crashreporter,CrashReporter [崩溃日记],1.1.6.0-1,iphoneos-arm
-com.hk.ball.discreetifyxi.cn,DiscreetifyXI 简体中文包,1.0,iphoneos-arm
-com.hk.ball.features.cn,Store Features 简体中文包,1.0,iphoneos-arm
-com.hk.ball.harbor2.cn,Harbor 2 简体中文包,1.0.1-1+debug,iphoneos-arm
-com.hk.ball.hidestatusbars.cn,Hide Statusbars 简体中文包,0.2,iphoneos-arm
-com.hk.ball.hidestusbarltemsx12.cn,Hide Statusbar ltems X(12) 简体中文包,0.3.6,iphoneos-arm
-com.hk.ball.hive.cn,Hive 简体中文包,1.0.1,iphoneos-arm
-com.hk.ball.ipadstatusbar.cn,iPadStatusBar 简体中文包,1.1.5.1,iphoneos-arm
-com.hk.ball.lockpage.cn,LockPage 简体中文包,1.0.1,iphoneos-arm
-com.hk.ball.neptune.cn,Neptune 简体中文包,1.0,iphoneos-arm
-com.hk.ball.shuffle.cn,Shuffle 简体中文包,1.5.9-1,iphoneos-arm
-com.hk.ball.slyd.cn,Slyd (SlideToUnlock)简体中文包,0.1.0,iphoneos-arm
-com.hk.ball.tabblocker.cn,TabBlocker简体中文包,1.0,iphoneos-arm
-com.hk.ball.talion.cn,Talion 简体中文包,0.0.1-357+debug,iphoneos-arm
-com.hk.ball.twae.cn,Twae 简体中文包,1.0.0,iphoneos-arm
-com.hk.barmoji,Barmoji(iOS10~15),2023.3,iphoneos-arm
-com.hk.batchomatic,Batchomatic 汉化版,4.3.1-4,iphoneos-arm
-com.hk.batterynotch.cn,BatteryNotch 简体中文包,1.6.1,iphoneos-arm
-com.hk.batterypercentx.cn,BatteryPercentX 简体中文包,1.3.5-2,iphoneos-arm
-com.hk.battsafepro.cn,BattSafePro 中文增补包,1.1.8,iphoneos-arm
-com.hk.bazzi2.cn,Bazzi 2 简体中文包,2.07.1,iphoneos-arm
-com.hk.betteralarm.cn,BetterAlarm 简体中文包,1.4.2,iphoneos-arm
 com.hk.betteralarm.cn.rl,BetterAlarm 简体中文包(rootless),1.4.1,iphoneos-arm64
-com.hk.bettercc.cn,BetterCC 简体中文包,0.0.6,iphoneos-arm
 com.hk.bettercc.cn.rl,BetterCC 简体中文包(rootless),0.0.6,iphoneos-arm64
-com.hk.betterccIcons13.cn,BetterCCIcons13 简体中文包,1.0.8,iphoneos-arm
-com.hk.bettercclite.cn,BetterCC Lite 简体中文包,1.2,iphoneos-arm
-com.hk.betterccxi.cn,BetterCCXI 简体中文包,1.5.0,iphoneos-arm
-com.hk.betterccxnew,BetterCCXI 整合版(CN),1.6.0-1,iphoneos-arm
-com.hk.betterpowerdown2.cn,BetterPowerDown 2 简体中文包,2.0.0-1,iphoneos-arm
-com.hk.bezon.cn,Bezon 简体中文包,1.0,iphoneos-arm
-com.hk.bhtiktokmod,BHTikTok Plus,2.3,iphoneos-arm
-com.hk.bigbangev,BigBangEv 大爆炸,5.3.2,iphoneos-arm
-com.hk.bigshotsnapper3plugin,BigShot 长截图,1.1,iphoneos-arm
-com.hk.bigsur.cn,BigSurCenter 简体中文包,1.4.4,iphoneos-arm
 com.hk.bigsur.cn.rl,BigSurCenter 简体中文包(RootHide),1.4.4,iphoneos-arm64e
 com.hk.bioprotect.cn.rl,BioProtect 简体中文包(RootHide),4.6-31,iphoneos-arm64e
-com.hk.bioprotectxs.new.cn,BioProtect XS 简体中文包,4.6,iphoneos-arm
-com.hk.blurryalerts,BlurryAlerts (tvOS弹窗),1.2.3-1,iphoneos-arm
-com.hk.blurryalerts.cn,BlurryAlerts 简体中文包,1.2.2,iphoneos-arm
 com.hk.blurryalerts.cn.rl,BlurryAlerts 简体中文包(rootless),1.2.2,iphoneos-arm64
-com.hk.bongwater,Bongwater,1.2.0,iphoneos-arm
-com.hk.bongwater.cn,Bongwater 简体中文包,1.0-1,iphoneos-arm
-com.hk.boxy4.cn,Boxy 3&4 简体中文包,4.3.5,iphoneos-arm
-com.hk.bubbles.cn,bubbles 简体中文包,0.5.0,iphoneos-arm
-com.hk.callbarxs12.cn,CallBar XS 简体中文包,4.0-17,iphoneos-arm
-com.hk.camera11.cn,Camera11 简体中文包,1.2.6-1,iphoneos-arm
-com.hk.camerashuttersounddisabler,禁快门音,0.1.0,iphoneos-arm
-com.hk.carbon.cn,Carbon Dark Mode 简体中文包,1.5,iphoneos-arm
-com.hk.carck.stackxi.cn,StackXI 中文增补包 [新版],0.5.3,iphoneos-arm
-com.hk.cask2.cn,Cask 2 简体中文包,1.2.0,iphoneos-arm
-com.hk.cask3.cn,Cask 3 简体中文包,1.0.2,iphoneos-arm
 com.hk.cask3.cn.rl,Cask 3 简体中文包(rootless),1.0.2,iphoneos-arm64
-com.hk.cc12.cn,Camera Crap for A12 简体中文包,1.0,iphoneos-arm
-com.hk.ccmodulespro.cn,CCModules Pro 简体中文包,1.1.0,iphoneos-arm
 com.hk.ccmusicartwork.cn.rl,CCMusicArtwork 简体中文包(rootless),2.4.0,iphoneos-arm64
-com.hk.ccplus15.cn,CC++(iOS15),1.0.7,iphoneos-arm
-com.hk.ccplus.cn,CC++(11~14),1.8.1,iphoneos-arm
-com.hk.ccsupport.cn,CCSupport 中文修复包,1.3.4,iphoneos-arm
-com.hk.centaur.cn,Centaur 简体中文包,1.1.0,iphoneos-arm
-com.hk.cercube.cn,Cercube for YouTube 简体中文包,4.2.2.10,iphoneos-arm
-com.hk.chronos.cn,Chronos 简体中文包,0.0.6~Beta1,iphoneos-arm
-com.hk.circleicons.cn,Circle Icons 简体中文包,1.2,iphoneos-arm
-com.hk.classicfolders3.cn,ClassicFolders 3 简体中文包,3.0.5,iphoneos-arm
 com.hk.classicfolders3.cn.rl,ClassicFolders 3 简体中文包(RootHide),3.0.5,iphoneos-arm64e
-com.hk.classickeyboardxs,ClassicKeyboardXS,1.1-6,iphoneos-arm
-com.hk.classickeyboardxslite,ClassicKeyboardXS Lite,1.0,iphoneos-arm
-com.hk.colorbadges,ColorBadges 彩色角标,1.5.0,iphoneos-arm
-com.hk.colorbanners3,ColorBanners 3,1.1.0,iphoneos-arm
-com.hk.colorbanners3.cn,ColorBanners 3 简体中文包,1.1.0,iphoneos-arm
-com.hk.colorflow5.cn,ColorFlow 5 简体中文包,1.0.5,iphoneos-arm
-com.hk.colormebaddge.cn,ColorMeBaddge 简体中文包,1.2.0,iphoneos-arm
-com.hk.colormenotifs.cn,ColorMeNotifs 简体中文包,1.2.1,iphoneos-arm
-com.hk.complications.cn,Complications 简体中文包,2.1.1,iphoneos-arm
-com.hk.conditionalwifi4,WiFi4 网络控制,1.0.0,iphoneos-arm
-com.hk.coolcc,CoolCC,4.0,iphoneos-arm
-com.hk.coolcc.cn,CoolCC 简体中文包,4.0,iphoneos-arm
 com.hk.coolcc.cn.rl,CoolCC Reborn 简体中文包(rootless),2.0,iphoneos-arm64
-com.hk.coolfolder.cn,CoolFolder 简体中文包,2.6,iphoneos-arm
 com.hk.copylog.cn.rl,CopyLog 简体中文包(RootHide),1.7,iphoneos-arm64e
-com.hk.copypasta.cn,Copypasta 简体中文,0.1.4,iphoneos-arm
-com.hk.cosmos.cn,Cosmos 简体中文包,1.0.4,iphoneos-arm
-com.hk.cozybadges.cn,CozyBadges 简体中文包,1.2.0,iphoneos-arm
-com.hk.cpudashercrack,CPU Dasher 全功能,1.1-1,iphoneos-arm
-com.hk.cputool.cn,CPUTool 简体中文包,1.8,iphoneos-arm
-com.hk.crackerxi+,CrackerXI+ (砸壳IPA),1.1.16,iphoneos-arm
-com.hk.cracktool4.cn,CrackTool4 简体中文包,4.0~beta,iphoneos-arm
-com.hk.crane,Crane (iOS 11+) 账号多开,1.3.8,iphoneos-arm
-com.hk.crane.cn,Crane 中文修复包,1.3.9,iphoneos-arm
 com.hk.crane.cn.rl,Crane 中文修复包(RootHide),1.3.9-1,iphoneos-arm64e
 com.hk.ct5.cn.rl,CrackTool5 中文修复包(rootless),5.0,iphoneos-arm64
-com.hk.cthulhu.cn,Cthulhu 简体中文包,1.0.5,iphoneos-arm
-com.hk.cucu.cn,Cucu 简体中文包,0.0.3,iphoneos-arm
-com.hk.current.cn,Current 简体中文包,1.0.4,iphoneos-arm
-com.hk.cydiaplus,CydiaPlus (刷源贼快),1.2,iphoneos-arm
-com.hk.cydown.new,CyDown [7.1.2汉化版],7.1.2-1,iphoneos-arm
-com.hk.cylinder.cn,Cylinder 中文修复包,1.1-1,iphoneos-arm
 com.hk.cylinder.cn.rl,CylinderReborn 中文修复包(rootless),1.1.1,iphoneos-arm64
-com.hk.cypwn.nicegram,Nicegram 高级版,0.0.2,iphoneos-arm
-com.hk.dayn.cn,Dayn 简体中文包,1.2,iphoneos-arm
-com.hk.defaultpage.cn,DefaultPage 简体中文包,0.0.19,iphoneos-arm
-com.hk.delta.cn,Delta iOS 13 简体中文包,1.2b-1,iphoneos-arm
-com.hk.designer.cn,Designer 简体中文包,1.4,iphoneos-arm
 com.hk.designer.cn.rl,Designer 简体中文包(RootHide),1.4,iphoneos-arm64e
-com.hk.Diary.cn,Diary 简体中文包,1.1-209,iphoneos-arm
-com.hk.digitalbattery13.cn,DigitalBattery13 简体中文包,1.1.0,iphoneos-arm
-com.hk.disablepastetips,DisablePasteTips(禁粘贴提示),1.1-5,iphoneos-arm
-com.hk.disableswipex.cn,DisableSwipeX 简体中文包,1.0-2,iphoneos-arm
-com.hk.dismissprogress,DismissProgress 关闭按钮,1.1.1,iphoneos-arm
 com.hk.dleasy.cn.rl,DLEasy 简体中文包(rootless),2.13.5,iphoneos-arm64
-com.hk.dockx.cn,DockX 简体中文包,2.4.1,iphoneos-arm
-com.hk.docky.cn,Docky 简体中文包,0.2.2,iphoneos-arm
-com.hk.dodo.cn,Dodo 简体中文包,3.4.8,iphoneos-arm
-com.hk.dots2.cn,Dots 2 简体中文包,0.3.5,iphoneos-arm
-com.hk.dotto+,dotto+,1.0.6,iphoneos-arm
-com.hk.dotto+.cn,dotto+ 简体中文包,1.0.5,iphoneos-arm
-com.hk.downlocker2.cn,Downlocker2 简体中文包,2.5.0.1,iphoneos-arm
-com.hk.dra1n.cn,Dra1n 简体中文包,1.1,iphoneos-arm
-com.hk.dune.cn,Dune 简体中文包,1.1.1,iphoneos-arm
-com.hk.dvirtualhome,DVirtualHome,0.0.15,iphoneos-arm
-com.hk.dvirtualhome.cn,DVirtualHome 简体中文包,0.0.12,iphoneos-arm
-com.hk.dyadic.cn,Dyadic 简体中文包,2.1.2,iphoneos-arm
-com.hk.dynamicpeninsula.cn,DynamicPeninsula 简体中文包,0.3-2,iphoneos-arm
 com.hk.dynamicpeninsula.cn.rl,DynamicPeninsula 简体中文包(rootless),0.6,iphoneos-arm64
-com.hk.dynamicstage.cn,DynamicStage 简体中文包,1.1,iphoneos-arm
 com.hk.dynamicstage.cn.rl,DynamicStage 简体中文包(RootHide),1.1,iphoneos-arm64e
-com.hk.eclipse13.cn,Eclipse for iOS 13 简体中文包,7.1.1,iphoneos-arm
 com.hk.edge2.cn.rl,Edge2 简体中文包(rootless),1.0,iphoneos-arm64
-com.hk.elasticfolderanimations.cn,Elastic Folder Animations 简体中文包,0.0.4-2-1,iphoneos-arm
-com.hk.electrifying.cn,Electrifying 简体中文包,1.0-1,iphoneos-arm
-com.hk.electrode.cn,Electrode 简体中文包,1.0.3,iphoneos-arm
-com.hk.emojikypref.cn,EmojiKey 简体中文包,1.5.1,iphoneos-arm
-com.hk.enchant.cn,Enchant 简体中文包,1.3.1,iphoneos-arm
-com.hk.esfilepro,ES文件浏览器Crack,0.0.1,iphoneos-arm
-com.hk.esim.cn,eSim+ 简体中文包,1.14-beta-2.1,iphoneos-arm
-com.hk.exsto13.cn,Exsto13 简体中文包,0.0.8,iphoneos-arm
-com.hk.eyeplugs.cn,Eyeplugs 简体中文,1.5.1,iphoneos-arm
 com.hk.ezswipe.cn.rl,EZSwipe 简体中文包(rootless),1.1.1,iphoneos-arm64
-com.hk.fancyselection.cn,FancySelection 简体中文包,1.4,iphoneos-arm
-com.hk.fastAppls.cn,FastAppLS 简体中文包,1.0.1,iphoneos-arm
-com.hk.fastunlockx,FastUnlockX 汉化版,1.5,iphoneos-arm
-com.hk.fastx.cn,FastX 简体中文包,1.2,iphoneos-arm
-com.hk.filza.cn,Filza 中文增补包,4.0-2,iphoneos-arm
 com.hk.filza.cn.rl,Filza 中文增补包(RootHide),4.0-2,iphoneos-arm64e
-com.hk.fingerlock.cn,FingerLock 简体中文包,1.1.7-1,iphoneos-arm
-com.hk.fingertouch12.CN,FingerTouch(iOS12) 汉化版,0.0.7,iphoneos-arm
-com.hk.finical.cn,Finical 简体中文包,1.0,iphoneos-arm
-com.hk.fixclassicfolders2,FixClassicFolders2,1.0,iphoneos-arm
-com.hk.flex3beta,Flex 3 Beta50,3~Beta50,iphoneos-arm
-com.hk.flex3beta.new,Flex 3 Beta98,3~Beta98.1,iphoneos-arm
-com.hk.flex3patch.xina,Flex3 Patch For Xina1,3~Beta98-xina,iphoneos-arm
-com.hk.flex3zhcn,Flex3 简体中文包,1.2-1,iphoneos-arm
-com.hk.floatingdock16.cn,FloatingDockXVI 简体中文包,1.0,iphoneos-arm
 com.hk.floatingdock16.cn.rl,FloatingDockXVI 简体中文包(rootless),2.3,iphoneos-arm64
-com.hk.floatingdock.cn,FloatingDock 简体中文包,1.5.1,iphoneos-arm
-com.hk.floatingdockplus13.cn,FloatingDockPlus13 简体中文包,1.1.6,iphoneos-arm
-com.hk.floatingdockplus.cn,FloatingDockPlus 简体中文包,1.3.4.1,iphoneos-arm
-com.hk.flow.cn,Flow 简体中文包,1.2.2,iphoneos-arm
-com.hk.flowic.cn,Flowic 简体中文包,1.1,iphoneos-arm
-com.hk.flyjb,FlyJB (CN),0.2.5.6,iphoneos-arm
-com.hk.flyjb.cn,FlyJB 中文修复包,0.2.5.1,iphoneos-arm
-com.hk.flyjbx,FlyJB X (CN),1.2.5,iphoneos-arm
-com.hk.flyjbx.cn,FlyJB X 简体中文包,1.2.4,iphoneos-arm
-com.hk.Folded.cn,Folded 简体中文包,1.0.6,iphoneos-arm
-com.hk.foldercontrollerxii.cn,FolderControllerXII 简体中文包,1.0.9-3,iphoneos-arm
-com.hk.foldercontrollerxiii.cn,FolderControllerXIII 中文修复包,1.0.0b-15,iphoneos-arm
-com.hk.font.cn.wryh,[中文]微软雅黑(iOS11-14),1.0,iphoneos-arm
-com.hk.font.eng.cs12,[英文]Corporative Sans(iOS11~12),1.0,iphoneos-arm
-com.hk.font.eng.cs13,[英文]Corporative Sans(iOS13),1.0,iphoneos-arm
-com.hk.font.eng.ggsans12,[英文]GoogleSans(iOS11~12),1.0,iphoneos-arm
-com.hk.font.eng.ggsans13,[英文]GoogleSans(iOS13),1.0,iphoneos-arm
-com.hk.font.eng.ggsans14,[英文]GoogleSans(iOS14),1.0,iphoneos-arm
-com.hk.font.eng.sfcr12,[英文]SFCompactRounded(iOS11~12),1.0,iphoneos-arm
-com.hk.font.eng.sfcr13,[英文]SFCompactRounded(iOS13),1.0,iphoneos-arm
-com.hk.force3dappshortcuts,Force3DAppShortcuts,0.0.8,iphoneos-arm
-com.hk.force3dappshortcuts.cn,Force3DAppShortcuts 简体中文包,0.0.8,iphoneos-arm
-com.hk.frame.cn,Frame 简体中文包,2.3.1,iphoneos-arm
-com.hk.freshwall.cn,FreshWall 简体中文包,0.0.6b2,iphoneos-arm
-com.hk.frontpage.cn,FrontPage 简体中文包,1.7.1,iphoneos-arm
-com.hk.fugap.cn,FuGap 简体中文包,2.2,iphoneos-arm
-com.hk.gesto13.cn,Gesto for iOS 13 简体中文包,1.0.4,iphoneos-arm
-com.hk.gesto.cn,Gesto 汉化修正包,1.3.2,iphoneos-arm
-com.hk.gestures13,Gestures13 (iOS13手势),1.1,iphoneos-arm
-com.hk.glance.cn,Glance 简体中文包,2.2,iphoneos-arm
-com.hk.glow.cn,Glow 简体中文包,0.6,iphoneos-arm
 com.hk.glow.cn.rl,Glow 简体中文包(RootHide),0.6,iphoneos-arm64e
-com.hk.gradi.cn,Gradi 简体中文包,1.2,iphoneos-arm
-com.hk.grupi,Grupi 通知聚合,2.1,iphoneos-arm
-com.hk.grupi.cn,Grupi 简体中文包,2.0,iphoneos-arm
-com.hk.gump.cn,Gump 简体中文包,2.0.0,iphoneos-arm
-com.hk.gyration.cn,Gyration 简体中文包,1.0.7,iphoneos-arm
-com.hk.halfiPad,HalFiPad 手势(CN),3.8.3,iphoneos-arm
-com.hk.halo.cn,Halo 简体中文包,2.2,iphoneos-arm
 com.hk.halo.cn.rl,Halo 简体中文包(RootHide),2.2,iphoneos-arm64e
-com.hk.hapticKeys.cn,HapticKeys 简体中文包,1.8,iphoneos-arm
-com.hk.harbor3.cn,Harbor 3 简体中文包,1.1.1-1,iphoneos-arm
-com.hk.hidejb.cn,HideJB 简体中文包,2.1.1,iphoneos-arm
-com.hk.hidejblite,HideJB Lite (CN),1.1,iphoneos-arm
-com.hk.hidespotlight13,HideSpotlight13,1.0-1,iphoneos-arm
-com.hk.hidestatusbarltemspro.cn,HideStatusBarItemsPro 简体中文包,1.0.0,iphoneos-arm
-com.hk.homegesture.zlxdikeios11,HomeGesture(修改版-iOS11),1.77,iphoneos-arm
-com.hk.homelist.cn,HomeList 简体中文包,1.0.0,iphoneos-arm
-com.hk.homepluspro.cn,HomePlus Pro 简体中文包,1.0,iphoneos-arm
-com.hk.homerrun.cn,HomerRun 简体中文包,1.0.3,iphoneos-arm
-com.hk.HomeScreenQuickActions.cn,Home Screen Quick Actions 简体中文包,1.6.5,iphoneos-arm
-com.hk.honey.cn,Honey 简体中文包,1.0.1,iphoneos-arm
 com.hk.hsqa.cn.rl,Home Screen Quick Actions 简体中文包(rootless),1.6.5,iphoneos-arm64
-com.hk.hswidgets.cn,HSWidgets 简体中文包,1.0,iphoneos-arm
-com.hk.hyperion.cn,Hyperion 简体中文包,0.4.8-2,iphoneos-arm
-com.hk.iBlockPrefs.cn,iBlockPrefs 简体中文包,1.0,iphoneos-arm
-com.hk.icaughtuxii.cn,iCaughtU 12 简体中文包,1.2.0,iphoneos-arm
-com.hk.iconator2.cn,Iconator2 简体中文包,2.2.1,iphoneos-arm
-com.hk.iconcert,IconCert 14,1.1.0,iphoneos-arm
-com.hk.iconomatic.cn,IconOmatic 简体中文包,1.5,iphoneos-arm
-com.hk.icontweak.cn,IconTweak 简体中文包,1.0-5,iphoneos-arm
-com.hk.igamegodcn,IGameGod 简体中文,1.0.0-2,iphoneos-arm
-com.hk.imagecorrect.cn,ImageCorrect 简体中文包,0.2,iphoneos-arm
-com.hk.indy.cn,Indy 简体中文包,1.0,iphoneos-arm
-com.hk.instalauncher2.cn,InstaLauncher 2 简体中文包,1.8.2,iphoneos-arm
-com.hk.intelligentpass4.cn,IntelligentPass4 简体中文包,1.1.1-1,iphoneos-arm
-com.hk.intelligentpass5.cn,IntelligentPass5 简体中文包,1.0-1,iphoneos-arm
 com.hk.intelligentpass5.cn.rl,IntelligentPass5 简体中文包(rootless),1.0-1,iphoneos-arm64
-com.hk.ios6chargingaudio,iOS 6 充电音效,0.1,iphoneos-arm
-com.hk.ios6lockaudio,iOS 6 锁屏音效,0.1,iphoneos-arm
-com.hk.ipadstatusbar13.cn,iPadStatusBar13 简体中文包,1.1.8,iphoneos-arm
-com.hk.ithemer.cn,iThemer 简体中文包,2.0.0-2,iphoneos-arm
-com.hk.jailprotect,Jailprotect 屏蔽越狱,0.0.1-2,iphoneos-arm
-com.hk.jjolano.shadow.cn,Shadow 简体中文包,3.6.0,iphoneos-arm
 com.hk.jjolano.shadow.cn.rl,Shadow 简体中文包(rootless),3.7.1,iphoneos-arm64
-com.hk.juice.cn,Juice 简体中文包,1.0.1,iphoneos-arm
-com.hk.julioverne.cracktool4,CrackTool4 (破解神器),4.0~beta9e,iphoneos-arm
-com.hk.kaleidoscope.cn,Kaleidoscope 简体中文包,1.0.1,iphoneos-arm
-com.hk.kalm,Kalm 锁屏定制,3.0.3,iphoneos-arm
-com.hk.kalm.cn,Kalm 简体中文包,3.0.3,iphoneos-arm
 com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.5-1,iphoneos-arm64e
-com.hk.keepitsimple.cn,KeepItSimple 简体中文包,1.2.1,iphoneos-arm
-com.hk.key+,Key+,1.1.5,iphoneos-arm
-com.hk.killallapps.cn,Kill All Apps 简体中文包,3.2.0,iphoneos-arm
-com.hk.killmyapps.cn,KillMyApps 简体中文包,1.0.6,iphoneos-arm
-com.hk.killxpro,KillX Pro 一键后台(CN),2.1.2,iphoneos-arm
-com.hk.killxpro.cn,KillX Pro 中文修复包,3.0,iphoneos-arm
-com.hk.kleanhsls.cn,Klean 简体中文包,1.0,iphoneos-arm
-com.hk.konban.cn,Konban 简体中文包,0.1.1,iphoneos-arm
-com.hk.kumquat.cn,Kumquat 简体中文包,1.1,iphoneos-arm
-com.hk.laetus.cn,Laetus 简体中文包,1.1,iphoneos-arm
-com.hk.lastlook.cn,LastLook 简体中文包,4.2,iphoneos-arm
 com.hk.lastlook.cn.rl,LastLook 简体中文包(rootless),4.2,iphoneos-arm64
-com.hk.libcscolorpicker.cn,libCSColorPicker 简体中文包,1.0.4-2,iphoneos-arm
-com.hk.libertylite,Liberty Lite,0.2.10,iphoneos-arm
-com.hk.libertylite.beta,Liberty Lite (Beta),0.2.12,iphoneos-arm
-com.hk.liddell,Liddell(小横幅),1.4.3,iphoneos-arm
-com.hk.liddell.cn,Liddell 简体中文包,1.4.1,iphoneos-arm
 com.hk.liddell.cn.rl,Liddell 简体中文包(rootless),1.4.2,iphoneos-arm64
-com.hk.limneosos,Limneos Patch,2.0.2-1,iphoneos-arm
-com.hk.lintui,Xina1 长按临退,0.0.1-2+debug,iphoneos-arm
-com.hk.lisa.cn,Lisa 简体中文包,1.0.4,iphoneos-arm
-com.hk.litten.copypasta,Copypasta 剪切板管理,1.3.4,iphoneos-arm
-com.hk.litten.rose,Rose (振动配置),1.0.9,iphoneos-arm
-com.hk.little11.cn,Little11 简体中文包,1.4.0,iphoneos-arm
-com.hk.little12.cn,Little12 简体中文包,1.0.1,iphoneos-arm
-com.hk.littlexs.cn,LittleXS 简体中文包,2.4.3,iphoneos-arm
-com.hk.locinspacer.cn,IconSpacer 简体中文包,0.0.1,iphoneos-arm
-com.hk.lockapps.cn,LockApps 简体中文包,2.0,iphoneos-arm
-com.hk.lockdock.cn,LockDock 简体中文包,1.0.2,iphoneos-arm
 com.hk.lockmaster.cn,Lock Master 简体中文包(rootless),1.2,iphoneos-arm64
-com.hk.lockpluspro.cn,LockPlus Pro 简体中文包,1.6.2,iphoneos-arm
-com.hk.locktouch3.cn,LockTouch3 简体中文包,0.0.2-2,iphoneos-arm
-com.hk.lottienotifications.cn,LottieNotifications 简体中文包,1.0.3,iphoneos-arm
-com.hk.lynx-2,Lynx 2 汉化版,2.0.5,iphoneos-arm
-com.hk.lynx2.cn,Lynx 2 简体中文包,2.5-1,iphoneos-arm
 com.hk.lynx2.cn.rl,Lynx 2 简体中文包(RootHide),2.5-1,iphoneos-arm64e
-com.hk.lynx.cn,Lynx 简体中文包,1.6.1,iphoneos-arm
-com.hk.lyricify.cn,Lyricify 简体中文包,1.0,iphoneos-arm
-com.hk.magmaevo.cn,Magma Evo 简体中文包,1.2.0,iphoneos-arm
-com.hk.magmapro.cn,Magma Pro 简体中文包,1.1.0,iphoneos-arm
-com.hk.magsafe,MagSafe 汉化版,1.0.8-1,iphoneos-arm
-com.hk.magsafecontroller.cn,MagSafe Controller 简体中文包,1.0.2,iphoneos-arm
-com.hk.manta.cn,Manta 简体中文包,1.0.3,iphoneos-arm
-com.hk.maple2.cn,Maple2 简体中文包,1.0-1,iphoneos-arm
 com.hk.marker.cn.rl,Marker 简体中文包(rootless),2.0-1,iphoneos-arm64
-com.hk.mcpatch,MCPatch(描述文件补丁),0.0.1,iphoneos-arm
-com.hk.MessageHeadsXI.cn,ChatHeads 简体中文包,2.0,iphoneos-arm
-com.hk.midevice.new,MiDevice 军刀,2.0.0-2,iphoneos-arm
 com.hk.milkway4.cn.rl,MilkyWay4 简体中文包(RootHide),0.1.1,iphoneos-arm64e
-com.hk.milkyway2,MilkyWay2 分屏,0.2.0-alpha,iphoneos-arm
-com.hk.milkyway2.cn,MilkyWay2 简体中文包,0.2.0,iphoneos-arm
-com.hk.milkyway2-ios14fix,MilkyWay2-iOS15Fix,0.0.3,iphoneos-arm
-com.hk.milkyway3.cn,MilkyWay3 简体中文包,0.2.8,iphoneos-arm
-com.hk.minixs.cn,MiniXS 简体中文包,1.6,iphoneos-arm
-com.hk.minotaur.cn,Minotaur 简体中文包,1.1,iphoneos-arm
-com.hk.missioncontrol.cn,MissionControl 简体中文包,1.1,iphoneos-arm
-com.hk.mitsuhaxi.cn,MitsuhaXI 简体中文包,0.5.5,iphoneos-arm
-com.hk.mochi15.cn,Mochi15 简体中文包,1.0,iphoneos-arm
 com.hk.mochi15.cn.rl,Mochi15 简体中文包(RootHide),1.0.3,iphoneos-arm64e
-com.hk.mochi.cn,Mochi 简体中文包,0.0.3,iphoneos-arm
-com.hk.moderndepictions.cn,ModernDepictions 简体中文包,0.3-20,iphoneos-arm
-com.hk.modernize.cn,Modernize 简体中文包,1.0,iphoneos-arm
-com.hk.modernsettungs.cn,ModernSettings 简体中文,1.1,iphoneos-arm
-com.hk.modernstylesettings,摩登设置,1.1-2,iphoneos-arm
-com.hk.mterminal,MTerminal 终端,1.4-3,iphoneos-arm
-com.hk.multipla.cn,Multipla 简体中文包,2.0.0-1,iphoneos-arm
-com.hk.mybar.cn,myBar 简体中文包,1.0,iphoneos-arm
-com.hk.myriad.cn,Myriad 简体中文包,0.2.6,iphoneos-arm
-com.hk.mywall.cn,MyWall 简体中文包,1.1,iphoneos-arm
-com.hk.nanobanners.cn,Nanobanners 简体中文包,0.1.8,iphoneos-arm
-com.hk.navale.cn,Navale 简体中文包,2.0.1,iphoneos-arm
 com.hk.nebula.ding,Ding 汉化版(rootless),2.0,iphoneos-arm64
-com.hk.nereid.cn,Nereid 简体中文包,0.1.6,iphoneos-arm
-com..hk.netskao.pulloverpro,PullOver Pro(编译版),2.1.2,iphoneos-arm
-com.hk.networkspeed13,NetworkSpeed13 网速显示(CN),2.5,iphoneos-arm
-com.hk.networkspeed13.new,网速信息(CN),3.0.1,iphoneos-arm
-com.hk.new.rose.cn,Rose 简体中文包,1.0.9,iphoneos-arm
-com.hk.newterm2,NewTerm 2(终端),2.5,iphoneos-arm
-com.hk.nfcwriterxs.cn,NFCWriter XS 简体中文包,1.1,iphoneos-arm
 com.hk.nfcwriterxs.cn.rl,NFCWriter XS 简体中文包(RootHide),4.0,iphoneos-arm64e
-com.hk.noclutter.cn,NoClutter 简体中文包,1.0,iphoneos-arm
-com.hk.nocshare,NoCShare(iOS13-15),1.1.2,iphoneos-arm
-com.hk.noctisnwo.cn,Noctis Neo 简体中文包,1.0-7,iphoneos-arm
-com.hk.nosourceerrors,No SourceErrors(移除Cydia黄字),1.0,iphoneos-arm
-com.hk.notfinical.cn,NotFinical 简体中文包,1.0.1,iphoneos-arm
-com.hk.nothanks.cn,BoardBanner13(iOS12~13) 简体中文包,2.0,iphoneos-arm
-com.hk.notifierdots.cn,NotifierDots 简体中文包,0.2-1,iphoneos-arm
-com.hk.notifyheaders.cn,NotifyHeaders 简体中文包,1.0.0,iphoneos-arm
-com.hk.notix,NotiX 通知过滤/伪装,2.6.1,iphoneos-arm
-com.hk.npf.cn,NPF 简体中文包,2.2.1,iphoneos-arm
-com.hk.npurge.cn,NPurge 简体中文包,1.0.4,iphoneos-arm
-com.hk.onenotify,OneNotify 下拉清除(CN),1.3.2,iphoneos-arm
-com.hk.onesettings.cn,OneSettings 简体中文包,2.1.1,iphoneos-arm
 com.hk.onesettings.cn.rl,OneSettings 简体中文包(rootless),2.1.2,iphoneos-arm64
-com.hk.orion.cn,Orion 简体中文包,1.2-2,iphoneos-arm
-com.hk.pagebar.cn,Pagebar 简体中文包,1.1.2,iphoneos-arm
-com.hk.pancake.cn,PanCake 简体中文包,2.2,iphoneos-arm
 com.hk.pancake.cn.rl,PanCake 简体中文包(rootless),2.2,iphoneos-arm64
-com.hk.panic,Panic! 汉化版,1.1.2,iphoneos-arm
-com.hk.pastel.cn,Pastel 简体中文包,1.0,iphoneos-arm
-com.hk.pencilbnner.cn,PencilBanner 简体中文包,1.2-1,iphoneos-arm
-com.hk.pianopass.cn,PianoPass 简体中文包,0.0.3b1,iphoneos-arm
-com.hk.picturemodule.cn,PictureModule 简体中文包,1.1,iphoneos-arm
-com.hk.piecrust.cn,PieCrust 简体中文包,1.0.4-1,iphoneos-arm
-com.hk.playtopia2.cn,Playtopia 2 简体中文包,1.0,iphoneos-arm
-com.hk.pluto.cn,Pluto 简体中文包,1.0,iphoneos-arm
-com.hk.popthat.cn,PopThat 简体中文包,1.0,iphoneos-arm
-com.hk.portraitxi64.cn,PortraitXI 简体中文包,1.0.5,iphoneos-arm
-com.hk.powermenux.cn,PowerMenuX 简体中文包,1.5.1,iphoneos-arm
-com.hk.powermodule.cn,PowerModule 简体中文包,1.2.7,iphoneos-arm
-com.hk.ppyy,PPYY屏蔽越狱,1.1,iphoneos-arm
-com.hk.printemps.cn,Printemps 简体中文包,1.1.0,iphoneos-arm
-com.hk.priorityhub1.cn,Priority Hub 简体中文包,1-1+debug,iphoneos-arm
-com.hk.priorityhub.cn,Priority Hub 2 简体中文包,2.0-2+debug,iphoneos-arm
-com.hk.prowerselector.cn,PowerSelector 简体中文包,0.1.0,iphoneos-arm
-com.hk.pulandres.bettercciconspro,BetterCCIconsPro Crack,1.7.3,iphoneos-arm
-com.hk.pullclearnc,PullClearNC(下拉清通知),1.1-8,iphoneos-arm
-com.hk.pulloverpro.cn,PullOver Pro 简体中文包,2.1.1-1,iphoneos-arm
-com.hk.QQanitiRecallHook,QQanitiRecallHook (QQ防撤回),1.2,iphoneos-arm
-com.hk.qqcancelgrpat,QQ防艾特,1.0,iphoneos-arm
-com.hk.quanta.cn,Quanta 简体中文包,1.0,iphoneos-arm
 com.hk.quickactions.cn.rl,QuickActions 简体中文包(rootless),1.0.0,iphoneos-arm64
-com.hk.quitall.cn,QuitAll 简体中文包,3.0,iphoneos-arm
-com.hk.quorra.cn,Quorra 简繁中文包,1.0,iphoneos-arm
-com.hk.reachIt.cn,ReachIt 简体中文包,0.1.0,iphoneos-arm
-com.hk.recordanywhere,RecordAnywhere,1.0.1,iphoneos-arm
-com.hk.rejail.dleasy,DLEasy Crack,2.12.9k,iphoneos-arm
-com.hk.relocate.cn,Relocate 简体中文包,0.1.10,iphoneos-arm
-com.hk.relocatereborn.cn,Relocate Reborn 简体中文包,1.0.0,iphoneos-arm
-com.hk.repaircydiatransparency,修复Cydia启动透明,1.6,iphoneos-arm
-com.hk.reprovision.cn,ReProvision Reborn 简体中文包,1.2,iphoneos-arm
-com.hk.reprovisionreborn.cn,ReProvision Reborn 汉化版,0.7.0~release,iphoneos-arm
-com.hk.ringer13.cn,Ringer13 简体中文包,1.2.2,iphoneos-arm
-com.hk.riveria.cn,Riveria 简体中文包,1.0-3,iphoneos-arm
 com.hk.roothide.cc,CCHide++(RootHide),1.0.2,iphoneos-arm64e
 com.hk.rootless.barmoji,Barmoji(rootless),2023.3.3,iphoneos-arm64
 com.hk.rootless.bfdecrypt,bfdecryptor脱壳工具(rootless),1.3.6,iphoneos-arm64
@@ -768,192 +189,32 @@ com.hk.rootless.colorbadges,ColorBadges(rootless),1.5.0,iphoneos-arm64
 com.hk.rootless.crane,Crane(rootless),1.3.14-6,iphoneos-arm64
 com.hk.rootless.liddell,Liddell小横幅(rootless),1.4.3,iphoneos-arm64
 com.hk.rootless.minilsp,MiniLsp(rootless),1.1.2,iphoneos-arm64
-com.hk.rune.cn,Rune 简体中文包,1.3,iphoneos-arm
 com.hk.rune.cn.rl,Rune 简体中文包(RootHide),1.3,iphoneos-arm64e
-com.hk.s8edge.cn,S8Edge 简体中文包,1.2,iphoneos-arm
 com.hk.sa.cn,SwitchAccounts 简体中文包(rootless),1.0-1,iphoneos-arm64
-com.hk.safarielectro.cn,Safari Electro 简体中文包,1.2,iphoneos-arm
-com.hk.safarifeatures.cn,Safari Features 简体中文包,1.3.2,iphoneos-arm
-com.hk.safeshutdown.cn,SafeShutdown 简体中文包,1.54,iphoneos-arm
-com.hk.Sakura.cn,Sakura 简体中文包,1.0,iphoneos-arm
-com.hk.samgisaninja.SuccessionRestore,Succession(平刷),1.4.16~b4,iphoneos-arm
-com.hk.sareth.cn,Sareth 简体中文包,1.0.9-1,iphoneos-arm
-com.hk.saw.cn,Saw 简体中文,1.3.3,iphoneos-arm
-com.hk.scorpion.cn,Scorpion 简体中文包,1.3,iphoneos-arm
-com.hk.scribble.cn,Scribble 简体中文包,1.0.3-1,iphoneos-arm
-com.hk.scrollingscreenshots.crack,滚动截屏Crack,1.0,iphoneos-arm
-com.hk.selectionplus.cn,SelectionPlus 简体中文包,1.1,iphoneos-arm
-com.hk.selector.cn,Selector 简体中文包,0.1.3,iphoneos-arm
-com.hk.settingsrevamp,SettingsRevamp,3.0.1,iphoneos-arm
-com.hk.settingsrevamp.cn,SettingsRevamp 简体中文包,3.0.1,iphoneos-arm
 com.hk.settingsrevamp.cn.rl,SettingsRevamp 简体中文包(RootHide),3.0.1,iphoneos-arm64e
-com.hk.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm
-com.hk.settingwidgets.cn,SettingsWidgets 简体中文包,1.2.2-1,iphoneos-arm
 com.hk.sex.cn.rl,SwipeExtenderX 简体中文包(RootHide),1.6,iphoneos-arm64e
-com.hk.shadow.legacy.cn,Shadow(Legacy) 简体中文包,2.0.23,iphoneos-arm
-com.hk.shakeItOff.cn,ShakeItOff 简体中文包,1.2,iphoneos-arm
-com.hk.shortlock.cn,ShortLook 简体中文包,1.0.10,iphoneos-arm
-com.hk.shortlockp.cn,ShortLook P佬版汉化包,1.0.17,iphoneos-arm
-com.hk.shortlook.plugin.contact-photo.qq,QQ/TIM for ShortLook,1.0.2,iphoneos-arm
-com.hk.shortmoji2.cn,Shortmoji 2 汉化补丁,1.0.8,iphoneos-arm
-com.hk.shuffle,shuffle 旧版,1.3.4,iphoneos-arm
 com.hk.shuffle.cn.rl,Shuffle 简体中文包(RootHide),1.6.2,iphoneos-arm64e
-com.hk.shuffle.xina134,Shuffle(XinaA15专版)-临时版,1.0,iphoneos-arm
-com.hk.signe.cn,Signe 简体中文包,0.3.2,iphoneos-arm
 com.hk.sileo.cn.rl,Sileo 中文增补包(rootless),2.5,iphoneos-arm64
-com.hk.siliqua.cn,Siliqua Pro/2  通用汉化包,1.0,iphoneos-arm
-com.hk.simplels2.cn,SimpleLS2 简体中文包,0.0.1-596+debug,iphoneos-arm
-com.hk.sixls.cn,Six (LS) 简体中文包,1.0.4-1,iphoneos-arm
-com.hk.sixteenmusic.cn,SixteenMusic 简体中文包,1.4,iphoneos-arm
 com.hk.sixteenmusic.cn.rl,SixteenMusic 简体中文包(rootless),1.6,iphoneos-arm64
-com.hk.sleeper.cn,Sleeper 简体中文包,1.0,iphoneos-arm
-com.hk.sleepizy.cn,Sleepizy 简体中文包,1.2.1,iphoneos-arm
-com.hk.slices3.cn,Slices 3 简体中文包,3.0.5,iphoneos-arm
-com.hk.smallsiri.cn,SmallSiri 简体中文包,1.2.2,iphoneos-arm
-com.hk.smartbttery.cn,SmartBattery 简体中文包,2.0,iphoneos-arm
-com.hk.smarterlpm.cn,SmarterLPM 简体中文包,1.0.0,iphoneos-arm
-com.hk.smartnetwork.cn,SmartNetwork 简体中文包,1.0.5,iphoneos-arm
-com.hk.smartvolumecontrol3.cn,SmartVolumeControl3 简体中文包,1.0-2,iphoneos-arm
-com.hk.smartvolumemixer2.cn,SmartVolumeMixer2 简体中文包,1.0-6,iphoneos-arm
-com.hk.smoothlockx.cn,SmoothLockX 简体中文包,1.3.7,iphoneos-arm
-com.hk.snap3.cn,Snapper 3 简体中文包,1.2.1,iphoneos-arm
-com.hk.snapper2.cn,Snapper2 中文增补包,2.7.0,iphoneos-arm
 com.hk.snapper2.cn.rl,Snapper2 中文增补包(RootHide),2.7.0,iphoneos-arm64e
-com.hk.snapper2.packix,Snapper 2 截屏,2.5.12,iphoneos-arm
 com.hk.snapper3.cn.rl,Snapper3 简体中文包(RootHide),1.2.1,iphoneos-arm64e
-com.hk.snoverlay2.cn,Snoverlay 2 简体中文包,1.0.0,iphoneos-arm
-com.hk.snowboardapplication.cn,SnowBoard Application 简体中文包,1.0.3~beta2,iphoneos-arm
-com.hk.snowboard.cn,Snowboard 中文修正包,1.5.37,iphoneos-arm
 com.hk.snowboard.cn.rl,Snowboard 中文修正包(RootHide),1.5.37,iphoneos-arm64e
-com.hk.snowboarddock.cn,SnowBoard Dock 简体中文包,1.0.17~beta3,iphoneos-arm
-com.hk.snowboardpagedots.cn,SnowBoard Page Dots 简体中文包,1.0.6~beta3,iphoneos-arm
-com.hk.snowboardui.cn,SnowBoard UI 简体中文包,1.0.58~beta3,iphoneos-arm
-com.hk.socialdownloader.cn,socialdownloader 简体中文包,1.2-1,iphoneos-arm
-com.hk.sonus12.cn,Sonus12 简体中文包,1.2.0-1,iphoneos-arm
-com.hk.sonus13.cn,Sonus13 简体中文包,1.0.4-1,iphoneos-arm
-com.hk.soundlock.cn,SoundLock 简体中文包,1.0,iphoneos-arm
-com.hk.spectral.cn,Spectral 简体中文包,1.0.0,iphoneos-arm
-com.hk.spectrum.cn,Spectrum 简体中文包,1.1,iphoneos-arm
 com.hk.spectrum.cn.rl,Spectrum 简体中文包(rootless),1.1,iphoneos-arm64
-com.hk.speculum.cn,Speculum 简体中文包,1.2,iphoneos-arm
-com.hk.speedster.cn,Speedster 简体中文包,2.1.0,iphoneos-arm
 com.hk.speedster.cn.rl,Speedster 简体中文包(rootless),2.1.0,iphoneos-arm64
 com.hk.speedy.cn.rl,Speedy 简体中文包(rootless),0.2,iphoneos-arm64
-com.hk.springanimtions.cn,SpringAnimations 简体中文包,1.0.6,iphoneos-arm
-com.hk.springtomize4.cn,Springtomize 4 简体中文包,4.0.4,iphoneos-arm
-com.hk.springtomize.st4.new,Springtomize 4,4.0.9,iphoneos-arm
-com.hk.springtomize.st5,Springtomize 5 大军刀,5.2.6,iphoneos-arm
-com.hk.starfishbeta.cn,Starfish Beta 简体中文包,0.9.7,iphoneos-arm
-com.hk.stepup.cn,StepUp 简体中文包,1.1,iphoneos-arm
-com.hk.storeswitcher2,StoreSwitcher 2,1.0.3,iphoneos-arm
-com.hk.strongerfi12.cn,StrongerFi12 简体中文包,1.0.0~beta5,iphoneos-arm
-com.hk.substitute.cn,Substitute 简体中文包,2.1.0-1,iphoneos-arm
-com.hk.sugarcane,SugarCane,1.0.2-1,iphoneos-arm
-com.hk.suimitsuto.cn,Suimitsuto 简体中文包,0.0.3,iphoneos-arm
-com.hk.sunset.cn,Sunset 简体中文包,1.0-1,iphoneos-arm
-com.hk.swipeextenderx.cn,SwipeExtenderX 简体中文包,1.5.3-1,iphoneos-arm
-com.hk.swipeselection.cn,SwipeSelection 简体中文包,2.0-1,iphoneos-arm
-com.hk.switchconfirm.cn,SwitchConfirm 简体中文包,1.0-1,iphoneos-arm
-com.hk.switcher.cn,Switcher 简体中文包,1.1.0,iphoneos-arm
-com.hk.sylph.cn,Sylph 简体中文包,1.1~Beta.1,iphoneos-arm
-com.hk.systeminfo,System Info 系统信息(CN),2.7.2-2,iphoneos-arm
 com.hk.tako.cn,Tako 简体中文包(RootHide),3.5,iphoneos-arm64e
 com.hk.tako.cn.rl,Tako 简体中文包(rootless),3.5,iphoneos-arm64
-com.hk.taptaplock.cn,Tap Tap Lock 简体中文包,1.1,iphoneos-arm
 com.hk.tempdrop.cn.rl,TempDrop 简体中文包(rootless),1.0,iphoneos-arm64
-com.hk.textyle.cn,Textyle 简体中文包,1.4.1,iphoneos-arm
-com.hk.tinybanners2.cn,TinyBanners 2 简体中文包,1.0.4-3,iphoneos-arm
-com.hk.titan.cn,Titan 简体中文包,1.0.2,iphoneos-arm
-com.hk.togglow.cn,Togglow 简体中文包,1.0.6-1,iphoneos-arm
-com.hk.toneenabler,ToneEnabler 铃声启用,1.1r-15,iphoneos-arm
-com.hk.touchFlow.cn,TouchFlow 简体中文包,1.0.6-2,iphoneos-arm
 com.hk.translomatic.x.rl,Translomatic 中文修复包(rootless),2.18.6,iphoneos-arm64
-com.hk.translomatic.xy.cn,Translomatic 中文修复包,2.18.6,iphoneos-arm
-com.hk.Tranzlo.cn,Tranzlo 中文增量包,3.5,iphoneos-arm
-com.hk.trollnonce.cn,TrollNonce 简体中文包,1.0.1,iphoneos-arm
 com.hk.trollnonce.cn.rl,TrollNonce 简体中文包(RootHide),1.0.1,iphoneos-arm64e
-com.hk.tsss.cn,TSSSaver 简体中文包,2.0.5-1,iphoneos-arm
-com.hk.tweaksmanager.cn,Tweaks Manager 简体中文包,1.1,iphoneos-arm
-com.hk.u0Xinasmscompletefix,u0/XinaSMSCompleteFix(修复自动填充),1.0.1,iphoneos-arm
 com.hk.uispeed.cn.rl,UISpeed 简体中文包(rootless),1.0.3,iphoneos-arm64
-com.hk.unityfpsindicator,FPS帧数显示,0.0.4.1,iphoneos-arm
-com.hk.unsub,UnSub 汉化版,0.1.9,iphoneos-arm
-com.hk.unsub.cn,UnSub 简体中文包,0.1.6,iphoneos-arm
-com.hk.uyou.cn,uYou 简体中文包,3.0.1,iphoneos-arm
 com.hk.uyou.cn.rl,uYou 简体中文包(RootHide),3.0.1,iphoneos-arm64e
-com.hk.vcallerscreen.cn,VCaller Screen 简体中文包,3.2,iphoneos-arm
-com.hk.velaris.cn,Velaris 简体中文包,1.1-1,iphoneos-arm
-com.hk.veloxreloadeb2.cn,Velox Reloadeb 2 简体中文包,1.0,iphoneos-arm
-com.hk.veloxreloaded.cn,Velox Reloaded 简体中文包,1.1.1,iphoneos-arm
 com.hk.velvet2.cn.rl,Velvet 2 简体中文包(rootless),2.1.1,iphoneos-arm64
-com.hk.velvet.cn,Velvet 简体中文包,1.5,iphoneos-arm
-com.hk.ventana.cn,Ventana 简体中文包,1.4,iphoneos-arm
-com.hk.Vibin.cn,Vibin 简体中文包,1.0,iphoneos-arm
-com.hk.vinculum.cn,Vinculum 简体中文包,1.2,iphoneos-arm
-com.hk.vinyl.cn,Vinyl 简体中文包,1.0.9.3.1-1,iphoneos-arm
-com.hk.vocito.cn,Vocito 简体中文包,0.2b1,iphoneos-arm
-com.hk.voicecgangerxs.cn,VoiceChanger Xs 简体中文包,2.0-12,iphoneos-arm
-com.hk.volbratexi.cn,VolbrateXI 简体中文包,1.3,iphoneos-arm
-com.hk.volhud.cn,VolHUD 简体中文包,1.0-2+debug,iphoneos-arm
-com.hk.volumepercent.cn,VolumePercent 简体中文包,1.0,iphoneos-arm
-com.hk.volvibes.cn,VolVibes 简体中文包,3.0,iphoneos-arm
-com.hk.waveaway.cn,WaveAway 简体中文包,1.0,iphoneos-arm
-com.hk.wfloggerfix,WiFiNameBugFix,0.0.3,iphoneos-arm
-com.hk.whataboutthis.cn,WhatAboutThis 简体中文包,1.0,iphoneos-arm
-com.hk.wicellswitcher,WiCellSwitcher(iOS9-15),1.2,iphoneos-arm
-com.hk.wicellswitcher.cn,WiCellSwitcher 简体中文包,1.0,iphoneos-arm
-com.hk.xeon.cn,Xeon 简体中文包,1.2~beta7,iphoneos-arm
-com.hk.xina.newterm3,NewTerm 3(Xina1),3.0~beta1,iphoneos-arm
-com.hk.xina.shortmoji2,Shortmoji2(Xina专版),1.1.6,iphoneos-arm
-com.hk.xkfilza,Filza Crack,0.0.1-23,iphoneos-arm
-com.hk.xybp888.lockbutton,一键锁屏,1.0-3,iphoneos-arm
-com.hk.xybp888.MyTweaK,电话助手[老版],1.3-0,iphoneos-arm
-com.hk.yaodao.asteroid.cn,Asteroid 简体中文包,3.0.4,iphoneos-arm
-com.hk.yaodao.byeseparatorscell.cn,ByeSeparatorsCell 简体中文包,1.0.1,iphoneos-arm
-com.hk.yaodao.chromahomebarx.cn,ChromaHomeBarX 简体中文包,0.2,iphoneos-arm
-com.hk.yaodao.colorbadges.cn,ColorBadges 简体中文包,1.5.0,iphoneos-arm
-com.hk.yaodao.dleasy.cn,DLEasy 简体中文包,2.13.5,iphoneos-arm
-com.hk.yaodao.floatydock.cn,FloatyDock 简体中文包,2.3,iphoneos-arm
-com.hk.yaodao.homegesture21.cn,HomeGesture[2.1] 简体中文包,2.1-1,iphoneos-arm
-com.hk.yaodao.homegesture.cn,HomeGesture 简体中文包,1.8.2,iphoneos-arm
-com.hk.yaodao.jellyfish.cn,Jellyfish 简体中文包,1.5.1,iphoneos-arm
-com.hk.yaodao.latchkey.cn,LatchKey 简体中文包,2.1,iphoneos-arm
-com.hk.yaodao.midevice.cn,MiDevice 简体中文包,2.0.0-3,iphoneos-arm
-com.hk.yaodao.ringui.cn,ringUI 简体中文包,1.0.2-3,iphoneos-arm
-com.hk.yaodao.switcherstyle.cn,SwitcherStyle 简体中文包,0.6,iphoneos-arm
-com.hk.yaodao.tinybanners.cn,TinyBanners 简体中文包,0.5.3,iphoneos-arm
-com.hk.yaodao.utools2.cn,UTools2 简体中文包,1.3.1,iphoneos-arm
-com.hk.yaodao.xb-vibracall.cn,XB-VibraCall 简体中文包,1.2,iphoneos-arm
-com.hk.youbunpro.cn,Yobun Pro 简体中文包,1.0-1,iphoneos-arm
-com.hk.youtubereborn.cn,YouTube Reborn v4 简体中文包,4.0.9,iphoneos-arm
-com.hk.zetsu.cn,Zetsu 简体中文包,1.6.1,iphoneos-arm
 com.hk.zetsu.cn.rl,Zetsu 简体中文包(RootHide),1.6.1,iphoneos-arm64e
-com.hk.zlxdike.GestureX,GestureX 手势,1.0.4,iphoneos-arm
-com.hy.yaodao.eclipse12.cn,Eclipse Dark Mode(iOS12) 简体中文包,6.1,iphoneos-arm
-com.hy.yaodao.photosize.cn,PhotoSize 简体中文包,1.0,iphoneos-arm
-com.ikilledappl3.malipo.cn,Malipo 简体中文包,1.0.2-1,iphoneos-arm
-com.imkpatil.colormybattery.cn,ColorMyBattery 简体中文包,1.2.2,iphoneos-arm
 com.jrttnoads.rootless,头条NoAds(rootless),1.0,iphoneos-arm64
 com.MenuSupport.zh-hans,MenuSupport 简体中文包(rootless),0.0.1,iphoneos-arm64
 com.mrgcgamer.libgcuniversal,LibGcUniversal(RootHide),1.7.0,iphoneos-arm64e
 com.PassText.zh-hans,PassText 简体中文包(rootless),0.0.1,iphoneos-arm64
 com.qms.cpudasher,CPUDasher 破解VIP(RootHide),1.1,iphoneos-arm64e
-com.sandy0.bazzi.cn,Bazzi 简体中文包,2.0.5,iphoneos-arm
-com.sandy0.chargeanimations.cn,ChargeAnimations 简体中文包,3.0.3,iphoneos-arm
-com.sandy0.litttex.cn,LittleX 简体中文包,1.3.7,iphoneos-arm
-com.sandy0.melior.cn,Melior 简体中文包,1.0.6-1,iphoneos-arm
-com.sandy0.notchless.cn,Notchless 简体中文包,2.0.9-1,iphoneos-arm
-com.sandy0.palette.cn,Palette 简体中文包,1.1.1,iphoneos-arm
-com.sandy0.pearlretry.cn,PearlRetry 简体中文包,1.0,iphoneos-arm
-com.sandy0.smootheaders11.cn,Smootheaders11 简体中文包,1.0.9,iphoneos-arm
-com.sandy0.speaknotification.cn,Speak Notification 简体中文包,1.8.19-4,iphoneos-arm
-com.xiaodiaoming.Moveable9.ZH.CN,Moveadle 9 简体中文包,1.0.0~beta29-28,iphoneos-arm
-com.xiaodiaoming.VoiceChangerX.ZH.CN,VoiceChangerX 简体中文包,0.1-38,iphoneos-arm
-com.xina.blacklist,Xina1BlackList(注入黑名单),0.0.1-61+debug,iphoneos-arm
-com.yaodao.bar.mg,状态栏-玫瑰信号(10&11),1.1.3,iphoneos-arm
-com.yaodao.bar.wifi,状态栏-数字WiFi(11),1.0.0,iphoneos-arm
-com.yaodao.bar.yugu,状态栏-鱼骨信号(11),1.0.0,iphoneos-arm
 dev.traurige.libkitten,libKitten(rootless),1.4.1,iphoneos-arm64
-hk.zsign.com,zsign 终端签名,1.1-8.3,iphoneos-arm
-moe.hk.surge4-advanced,Surge  Advanced,0.0.3,iphoneos-arm
 org.swift.protobuf.swiftprotobuf,SwiftProtobuf(RootHide),1.29.0,iphoneos-arm64e
