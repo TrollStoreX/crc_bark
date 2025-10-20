@@ -212,6 +212,7 @@ com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
 com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
 com.dao.designer,Designer(rootless),1.4.5,iphoneos-arm64
 com.dao.dockx,DockX(RooHide),2.6.2,iphoneos-arm64e
+com.dao.donut,Donut(RootHide),1.0,iphoneos-arm64e
 com.dao.dumpdecrypter,DumpDecrypter(rootless),1.5-1,iphoneos-arm64
 com.dao.filzacrack,Filza Crack(RootHide),1.1-8,iphoneos-arm64e
 com.dao.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
@@ -947,7 +948,6 @@ com.sandy0.palette.cn,Palette 简体中文包,1.1.1,iphoneos-arm
 com.sandy0.pearlretry.cn,PearlRetry 简体中文包,1.0,iphoneos-arm
 com.sandy0.smootheaders11.cn,Smootheaders11 简体中文包,1.0.9,iphoneos-arm
 com.sandy0.speaknotification.cn,Speak Notification 简体中文包,1.8.19-4,iphoneos-arm
-com.sini921.donut,Donut(RootHide),1.0,iphoneos-arm64e
 com.xiaodiaoming.Moveable9.ZH.CN,Moveadle 9 简体中文包,1.0.0~beta29-28,iphoneos-arm
 com.xiaodiaoming.VoiceChangerX.ZH.CN,VoiceChangerX 简体中文包,0.1-38,iphoneos-arm
 com.xina.blacklist,Xina1BlackList(注入黑名单),0.0.1-61+debug,iphoneos-arm
