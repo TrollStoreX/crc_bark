@@ -223,7 +223,7 @@ com.dao.hideserialnumber,HideSerialNumber(rootless),0.0.4,iphoneos-arm64
 com.dao.icleanerpro,iCleaner Pro(rootless),7.10.0,iphoneos-arm64
 com.dao.immortalizer,Immortalizer(RootHide),2.0.1,iphoneos-arm64e
 com.dao.infuseplus,Infuse Plus(RootHide),2.4.1,iphoneos-arm64e
-com.dao.injectipa,InjectIPA(RootHide),1.5-5,iphoneos-arm64e
+com.dao.injectipa,InjectIPA(RootHide),1.5-7,iphoneos-arm64e
 com.dao.iridium,Iridium 中文版,1.2.15-REL-1713319636,iphoneos-arm
 com.dao.jade,Jade(rootless),1.0.3,iphoneos-arm64
 com.dao.kanoads,清爽酷安(rootless),0.1,iphoneos-arm64
@@ -947,6 +947,7 @@ com.sandy0.palette.cn,Palette 简体中文包,1.1.1,iphoneos-arm
 com.sandy0.pearlretry.cn,PearlRetry 简体中文包,1.0,iphoneos-arm
 com.sandy0.smootheaders11.cn,Smootheaders11 简体中文包,1.0.9,iphoneos-arm
 com.sandy0.speaknotification.cn,Speak Notification 简体中文包,1.8.19-4,iphoneos-arm
+com.sini921.donut,Donut(RootHide),1.0,iphoneos-arm64e
 com.xiaodiaoming.Moveable9.ZH.CN,Moveadle 9 简体中文包,1.0.0~beta29-28,iphoneos-arm
 com.xiaodiaoming.VoiceChangerX.ZH.CN,VoiceChangerX 简体中文包,0.1-38,iphoneos-arm
 com.xina.blacklist,Xina1BlackList(注入黑名单),0.0.1-61+debug,iphoneos-arm
