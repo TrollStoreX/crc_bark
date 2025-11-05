@@ -173,7 +173,6 @@ com.lclrc.hammerit.k,Hammer It（自用改版）,1.7.1,iphoneos-arm64e
 com.lclrc.hidepullover,PullOver Pro Hide,0.0.1,iphoneos-arm64
 com.lclrc.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
 com.lecard.wuyu,Applecard,0.1,iphoneos-arm64e
-com.leftyfl1p.carbridge13,CarBridge,2.0.15,iphoneos-arm64
 com.lenglengyu.afakerxi,AFakerXI,1.0.3,iphoneos-arm64e
 com.lenglengyu.disableappcreationalbums-rootless,禁止APP创建相册,0.0.1,iphoneos-arm64
 com.lenglengyu.passbycc,PassByCC,1.0.7,iphoneos-arm64e
@@ -247,7 +246,6 @@ com.ps.smoothcursorios13,SmoothCursor (iOS 13+),0.0.1,iphoneos-arm64e
 com.pullclearnc,下拉清理通知,1.1-8,iphoneos-arm64
 com.pulloverpro,PullOver Pro,2.1.6,iphoneos-arm64
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
-com.qiop1379.swipeextenderx,SwipeExtenderX,1.6.1~2,iphoneos-arm64e
 com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
 com.randy420.tools,420 Tools,2.3.9,iphoneos-arm64e
 com.recordntorch,Record,1.8.4,iphoneos-arm64e
@@ -355,7 +353,7 @@ com.wkk.debbatch,一键解压/打包deb(自用),1.2,iphoneos-arm64e
 com.wkk.Desa,Desa,1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64e
 com.wkk.dockshowlabels,Dock显示app名称,0.0.1,iphoneos-arm64e
-com.wkk.dy,dyyy个人配置(自用),1.1,iphoneos-arm64e
+com.wkk.dy,dyyy养老个人配置(自用),1.2,iphoneos-arm64e
 com.wkk.dyhook,抖音去+号,1.0,iphoneos-arm64
 com.wkk.dylibbatch,一键提取dylib(自用),1.0,iphoneos-arm64e
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
@@ -379,6 +377,7 @@ com.wkk.kbapp,Add app below keyboard,1.5,iphoneos-arm64
 com.wkk.kkkk,SnowBoard开关-闪电,1.0,iphoneos-arm64e
 com.wkk.kongbao,关于源（空包仅浏览）,1.0,iphoneos-arm64
 com.wkk.kugouhook,酷狗音乐Streamline,1.4-6,iphoneos-arm64e
+com.wkk.leftyfl1p.carbridge13,CarBridge,2.0.15,iphoneos-arm64e
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
 com.wkk.logo,重启用户空间启动logo,1.0,iphoneos-arm64
 com.wkk.luping,灵动岛录屏写轮眼,1.1,iphoneos-arm64e
@@ -398,10 +397,8 @@ com.wkk.singlevpnandmute,ShadowrocketMute,1.0,iphoneos-arm64
 com.wkk.smartnetwork,SmartNetwork,1.1,iphoneos-arm64e
 com.wkk.sn3hook,snapper3隐藏底部功能栏,1.1,iphoneos-arm64e
 com.wkk.SquidExtenderpz,SquidExtender配置,1.0,iphoneos-arm64e
-com.wkk.SquidExtenderpz26,SquidExtender26键,1.0,iphoneos-arm64e
-com.wkk.SquidExtenderpz269,SquidExtender26&9,1.0,iphoneos-arm64e
 com.wkk.SquidGesturePro,SquidGesture Pro个人配置(自用),1.0,iphoneos-arm64
-com.wkk.SwipeExtenderXpz,SwipeExtenderX配置(自用),1.0,iphoneos-arm64e
+com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds1,1.0.3,iphoneos-arm64e
 com.wkk.tiebahook2,百度贴吧NoAds2,1.0.3,iphoneos-arm64e
 com.wkk.tiktokhook,TikTokHook,1.0.0,iphoneos-arm64e
@@ -409,6 +406,7 @@ com.wkk.timexz,控制中心计时器,1.0,iphoneos-arm64
 com.wkk.tixingsheng,百款精选提醒声,1.0,iphoneos-arm64
 com.wkk.tpphook,淘票票NoAds,1.0,iphoneos-arm64e
 com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64e
+com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
 com.wkk.windowsguazai,Windows注销动画,2.0,iphoneos-arm64
