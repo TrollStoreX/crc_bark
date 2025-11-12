@@ -338,6 +338,7 @@ com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
 com.wkk.applock,AppLock,1.1,iphoneos-arm64e
 com.wkk.AppStoremh,App Store美化,1.0,iphoneos-arm64e
 com.wkk.apptoolsmh,Apptools美化,1.0,iphoneos-arm64e
+com.wkk.autofillfix,AutoFillFix,0.1,iphoneos-arm64e
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.batteryhook,电池美化,1.0,iphoneos-arm64e
 com.wkk.bhmh,拨号键盘美化,1.0,iphoneos-arm64
@@ -398,7 +399,7 @@ com.wkk.singlevpnandmute,ShadowrocketMute,1.0,iphoneos-arm64
 com.wkk.smartnetwork,SmartNetwork,1.1,iphoneos-arm64e
 com.wkk.sn3hook,snapper3隐藏底部功能栏,1.1,iphoneos-arm64e
 com.wkk.SquidExtenderpz,SquidExtender配置,1.0,iphoneos-arm64e
-com.wkk.SquidGesturePro,SquidGesture Pro个人配置(自用),1.0,iphoneos-arm64
+com.wkk.SquidGesturePro,SquidGesture Pro个人配置(自用),1.0,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds1,1.0.3,iphoneos-arm64e
 com.wkk.tiebahook2,百度贴吧NoAds2,1.0.3,iphoneos-arm64e
@@ -416,8 +417,8 @@ com.wkk.wyyxhook,网易邮箱NoAds,1.0,iphoneos-arm64e
 com.wkk.xchook,相册精简,1.0,iphoneos-arm64e
 com.wkk.xianyuhook,闲鱼NoAds,1.1,iphoneos-arm64e
 com.wkk.xxgif,蜡笔小新GIF,1.0,iphoneos-arm64e
-com.wkk.xxicons,蜡笔小新图标,1.0,iphoneos-arm64
-com.wkk.xxmusic,精选提醒声百款,1.0,iphoneos-arm64
+com.wkk.xxicons,蜡笔小新图标,1.0,iphoneos-arm64e
+com.wkk.xxmusic,精选提醒声百款,1.0,iphoneos-arm64e
 com.wkk.ykxchook,一刻相册NoAds,1.0,iphoneos-arm64e
 com.wkk.ykxchook2,一刻相册NoAds2,1.0,iphoneos-arm64e
 com.wkkyy0.pikaqiuzhuxiao,皮卡丘注销动画1.0,1.0,iphoneos-arm64
