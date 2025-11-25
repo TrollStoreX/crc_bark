@@ -185,7 +185,7 @@ com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64e
 com.lxcloud.WCEhance,微信增强,1.2-2,iphoneos-arm64e
 com.marie,Marie,1.0.6,iphoneos-arm64
 com.mikifp.griddys,Griddy,1.0.5,iphoneos-arm64e
-com.mikotohelper.wechat,Mikoto 助手,1.3.6-V5,iphoneos-arm64
+com.mikotohelper.wechat,Mikoto助手,1.3.6-V6,iphoneos-arm64
 com.miro.libmiroshared,libMiROShared,1.0.2,iphoneos-arm64e
 com.miro.marker,Marker,2.0.1,iphoneos-arm64e
 com.movenotification16,MoveNotification16,1.0,iphoneos-arm64e
@@ -499,7 +499,7 @@ me.nebula.ding,Ding,1.1.0,iphoneos-arm64e
 me.tomt000.copylog,CopyLog,1.7,iphoneos-arm64e
 me.tomt000.stageduo,Dynamic Stage,1.2,iphoneos-arm64e
 me.zsaaiq.springhooker,SpringHooker,1.1,iphoneos-arm64e
-MikotoHelper,MikotoHelper,1.3.6,iphoneos-arm64
+MikotoHelper,MikotoHelper,1.3.6-2,iphoneos-arm64
 MisakaHelper,MisakaHelper,2.1-1-end,iphoneos-arm64
 net.disableshuttersound,禁用拍照声音,1.1-2,iphoneos-arm64
 netskao.wcpureextension-rootless,微信净化红包版,4.2-6,iphoneos-arm64e
