@@ -245,7 +245,6 @@ com.pulloverpro,PullOver Pro,2.1.6,iphoneos-arm64
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
 com.qimiao.WCRefine,WCRefine,1.1-7,iphoneos-arm64e
 com.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
-com.qwq.ceshi,测试,1.0,iphoneos-arm64e
 com.randy420.tools,420 Tools,2.3.9,iphoneos-arm64e
 com.recordntorch,Record,1.8.4,iphoneos-arm64e
 com.recordpause,RecordPause,2.0.6,iphoneos-arm64e
@@ -328,7 +327,6 @@ com.vincent.polyphian.depths,Depths,1.4.1,iphoneos-arm64
 com.vita.cnnoad,CNNoAd,0.1-3-1,iphoneos-arm64e
 com.vita.wchook,WCHook,1.0.2,iphoneos-arm64e
 com.vita.wchook2,WCHook（改版）,1.0.2,iphoneos-arm64e
-com.vita.yuki,Yuki,0.0-9,iphoneos-arm64e
 com.wctextcolor,WCTextColor,1.5,iphoneos-arm64
 com.wechat.enhance,WeChatEnhance,1.6-4,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
@@ -353,6 +351,7 @@ com.wkk.car,Car解压终端(自用),1.0,iphoneos-arm64e
 com.wkk.cc26,CC26,1.0,iphoneos-arm64e
 com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64
 com.wkk.center,wkkCenter,4.4,iphoneos-arm64e
+com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
 com.wkk.commandmodule,CommandModule,1.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
 com.wkk.cxdebdylib,一键查询已安装插件,1.0,iphoneos-arm64e
@@ -424,6 +423,7 @@ com.wkk.SquidGesturePro,SquidGesture Pro个人配置(自用),1.0,iphoneos-arm64e
 com.wkk.statustime,StatusTime,1.4-1,iphoneos-arm64e
 com.wkk.swiftgramcrack,Swiftgram Pro,1.1-7,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
+com.wkk.theosgui,TheosGUI,1.2.3,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds,1.0-5,iphoneos-arm64e
 com.wkk.tiktokhook,TikTokHook,1.0.0,iphoneos-arm64e
 com.wkk.timexz,控制中心计时器,1.0,iphoneos-arm64
@@ -522,8 +522,6 @@ ru.rj.ftt,Flex To Theos,1.4,iphoneos-arm64e
 sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64
 se.geometric.graphite,Graphite Library,2.0,iphoneos-arm64e
 se.geometric.intelligentpass5,IntelligentPass 5,1.0.2,iphoneos-arm64e
-u.blanxd.opensshcc,OpenSSH CC Toggle,1.1.0,iphoneos-arm64e
-u.blanxd.opensshport,OpenSSH Settings,1.1.0,iphoneos-arm64e
 u.blanxd.sshswitch,SSHswitch,1.1.0,iphoneos-arm64e
 uncar,uncar,0.0.1-6,iphoneos-arm64e
 Wen.cpu.RlPNDlP,虚拟内存优化,2.0,iphoneos-arm64e
