@@ -181,7 +181,7 @@ com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
 com.dao.appprotect,AppProtect 隐私保护(RootHide),2.3.5,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSync Unified(rootless),116.0,iphoneos-arm64
-com.dao.apptools15,AppTools15-16(RootHide),2.5.1,iphoneos-arm64e
+com.dao.apptools15,AppTools15-17(RootHide),2.5.2,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
 com.dao.axon,Axon 中文版(RootHide),1.5.5,iphoneos-arm64e
