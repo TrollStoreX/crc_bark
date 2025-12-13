@@ -14,10 +14,10 @@ com.82flex.artworkspinners,ArtworkSpinner 旋转的艺术,1.6,iphoneos-arm64e
 com.82flex.noredirects,No Redirect 禁字诀,1.3,iphoneos-arm64e
 com.82flex.ohmyinsetss,Oh My Insets 控制中心五列,1.2,iphoneos-arm64e
 com.82flex.removewidgetbgs,移除小部件背景,1.7,iphoneos-arm64
-com.82flex.singlemutes,Single Mute 静音图标,1.5,iphoneos-arm64e
+com.82flex.singlemutes,Single Mute 静音图标,1.7,iphoneos-arm64e
 com.82flex.singlevpn.green,Single VPN Green,1.0,iphoneos-arm64e
 com.82flex.singlevpn.orange,Single VPN Orange,1.0,iphoneos-arm64e
-com.82flex.singlevpns,Single VPN 上色,1.7,iphoneos-arm64e
+com.82flex.singlevpns,Single VPN 上色,2.0,iphoneos-arm64e
 com.82flex.wtvrbglaunchers,语音转文字免跳转,1.1,iphoneos-arm64e
 com.anthopak.appaze3s,Appaze 3 体验版,1.0,iphoneos-arm64e
 com.apibugtexttovoice,微信文字转语音 ApibugTextToVoice,1.0.5,iphoneos-arm64e
@@ -81,7 +81,7 @@ com.level3tjg.twitchadblocks,TwitchAdBlock,0.1.5,iphoneos-arm64e
 com.liuf.jpyj,修改系统键盘圆角,0.0.1,iphoneos-arm64e
 com.lns.pogrs,AirPods PodsGrant,0.5.1,iphoneos-arm64e
 com.lns.whereplays,WherePlay,0.0.2,iphoneos-arm64e
-com.lxcloud.wcehances,微信增强 WCEhance,1.2-1,iphoneos-arm64e
+com.lxcloud.wcehances,微信增强 WCEhance,2.0-1,iphoneos-arm64e
 com.lxcloud.WCEhances,微信增强 WCEhance,1.0-4,iphoneos-arm64e
 com.mikifp.griddys,Griddy 图标随意摆,1.0.5,iphoneos-arm64e
 com.mikotohelper.wechat,Mikoto 助手,1.3.6-V4,iphoneos-arm64e
@@ -100,6 +100,7 @@ com.netskao.awemevideotimes,抖音时间 AwemeVideoTime,1.1-2,iphoneos-arm64e
 com.netskao.dumpdecrypters,DumpDecrypter 砸壳,1.5-1,iphoneos-arm64e
 com.netskao.qqipadmodelogins,QQ iPad 模式,1.1-1,iphoneos-arm64e
 com.netskao.qqnotiavatars,QQNotiAvatar QQ头像,1.2-2,iphoneos-arm64e
+com.netskao.swiftgramcracks,Swiftgram Crack,1.1-7,iphoneos-arm64e
 com.netskao.twitternoadss,Twitter NoAds,1.1-2,iphoneos-arm64e
 com.netskao.wcabtestlocalbackups,微信开启聊天记录本地备份,1.1-1,iphoneos-arm64e
 com.netskao.wcabtestvoicerecordviews,微信开启新语音按钮,1.1-1,iphoneos-arm64e
@@ -108,6 +109,7 @@ com.netskao.wcisoverseausers,微信通行密钥 WCIsOverSeaUser,1.1-1,iphoneos-a
 com.netskao.wckeyboardhidelogos,隐藏微信键盘 Logo,1.1-1,iphoneos-arm64e
 com.netskao.wcmypageinfocenters,我的页面资料居中 WCMyPageInfoCenter,1.2-2,iphoneos-arm64e
 com.netskao.wctimelinemessagetails,微信小尾巴 WCTimeLineMessageTail,1.1-1,iphoneos-arm64e
+com.netskao.wctimelinereplacefinds,微信使用朋友圈替换发现底栏,1.1-3,iphoneos-arm64e
 com.netskao.wechatnotiavatars,WeChatNotiAvatar 微信头像,1.3-1,iphoneos-arm64e
 com.netskao.wechatuiswitchloaders,微信按钮 WeChatUISwitchLoader,1.1-5,iphoneos-arm64e
 com.nightwind.matchingiconlabelss,MatchingIconLabels 匹配图标标签,0.0.1,iphoneos-arm64e
@@ -144,7 +146,7 @@ com.sutuplus.releasefugu15s,酸果,5.9.9-4-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.tencent.themeboxs,主题盒子,2.1.5,iphoneos-arm64e
+com.tencent.themeboxs,主题盒子,2.2.0,iphoneos-arm64e
 com.tiaotiao.betteruiswitchs,JB 按钮 BetterUISwitch,1.1,iphoneos-arm64e
 com.vita.awemespeedxs,抖音倍数播放 AwemeSpeedX,0.1-1,iphoneos-arm64e
 com.vita.yukis,抖音防撤回 Yuki,0.0-8-1,iphoneos-arm64e
