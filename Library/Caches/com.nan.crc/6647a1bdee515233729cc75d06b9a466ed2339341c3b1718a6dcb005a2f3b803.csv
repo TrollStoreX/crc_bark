@@ -8,7 +8,7 @@ com.0xkuj.safarixs,SafariX,1.9.9,iphoneos-arm64e
 com.0xkuj.staypros,Stay Pro,0.0.1,iphoneos-arm64e
 com.25mao.doutu.rootlesss,斗图助手,3.1-6,iphoneos-arm64e
 com.25mao.KuaiDou,快斗,0.1-1,iphoneos-arm64e
-com.25mao.miyou.rootlesss,微信助手,3.8-7,iphoneos-arm64e
+com.25mao.miyou.rootlesss,微信助手,3.8-9,iphoneos-arm64e
 com.25mao.wcplugins.rootlesss,微信插件管理,0.1-3,iphoneos-arm64e
 com.82flex.artworkspinners,ArtworkSpinner 旋转的艺术,1.6,iphoneos-arm64e
 com.82flex.noredirects,No Redirect 禁字诀,1.3,iphoneos-arm64e
@@ -17,7 +17,7 @@ com.82flex.removewidgetbgs,移除小部件背景,1.7,iphoneos-arm64
 com.82flex.singlemutes,Single Mute 静音图标,1.5,iphoneos-arm64e
 com.82flex.singlevpn.green,Single VPN Green,1.0,iphoneos-arm64e
 com.82flex.singlevpn.orange,Single VPN Orange,1.0,iphoneos-arm64e
-com.82flex.singlevpns,Single VPN 上色,1.6,iphoneos-arm64e
+com.82flex.singlevpns,Single VPN 上色,1.7,iphoneos-arm64e
 com.82flex.wtvrbglaunchers,语音转文字免跳转,1.1,iphoneos-arm64e
 com.anthopak.appaze3s,Appaze 3 体验版,1.0,iphoneos-arm64e
 com.apibugtexttovoice,微信文字转语音 ApibugTextToVoice,1.0.5,iphoneos-arm64e
@@ -28,11 +28,11 @@ com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-a
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
 com.choco.tgextras,Telegram TGExtra,1.3,iphoneos-arm64
 com.cureux.cc26s,CC26,0.4.9.9b,iphoneos-arm64e
-com.curtin.pkc.rootlesss,PKC 助手,0.7-8,iphoneos-arm64e
+com.curtin.pkc.rootlesss,PKC 助手,0.8-4,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
 com.den.twigalaxys,TWIGalaxy,1.9,iphoneos-arm64e
-com.dumpapp.wechat-rootlesss,锤子助手,2.1.0,iphoneos-arm64e
+com.dumpapp.wechat-rootlesss,锤子助手,2.3.0,iphoneos-arm64e
 com.dvntm.cc18s,CC18 iOS18 圆角控制中心,0.0.3,iphoneos-arm64e
 com.dvntm.fbos,FilesBrowsingOnly 精简文件 App,0.0.1,iphoneos-arm64e
 com.dvntm.glows,Glow for Facebook,1.3,iphoneos-arm64e
@@ -41,13 +41,13 @@ com.dvntm.lsnoswipes,禁止锁屏右滑相机 LSNoSwipe,0.0.1,iphoneos-arm64e
 com.dvntm.oledkeyboards,OledKeyboard 深色纯黑键盘,0.0.3,iphoneos-arm64e
 com.dvntm.safariiis,Safariii,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifss,SilentNotifs,0.0.2,iphoneos-arm64e
-com.dvntm.ytlites,YTLite YouTube 增强,5.2b3,iphoneos-arm64e
+com.dvntm.ytlites,YTLite YouTube 增强,5.2b4,iphoneos-arm64e
 com.eevee.spotifys,EeveeSpotify,6.1.4,iphoneos-arm64e
 com.exile90.icleanerpros,iCleaner Pro,7.10.0,iphoneos-arm64e
 com.ginsu.ytmusicultimates,YTMusicUltimate,2.3,iphoneos-arm64e
 com.github.wxsmalltabs,微信小底栏,0.0.1-5,iphoneos-arm64e
 com.guozi.kuannoads,酷安FuckAds,5.2.0,iphoneos-arm64e
-com.hbwechathelper.ailuns,黄白助手,1.9-3,iphoneos-arm64e
+com.hbwechathelper.ailuns,黄白助手,2.0-1,iphoneos-arm64e
 com.HBWechatHelper.ailuns,黄白助手,1.8,iphoneos-arm64e
 com.huami.bilinoads,哔哩哔哩 BiliNoAd,1.0.1,iphoneos-arm64e
 com.huami.dyenablepanelmodernstyles,强制启用新版抖音长按 UI（现代风）,1.1,iphoneos-arm64e
@@ -58,7 +58,7 @@ com.huami.kugouNoAD,酷狗 NoAd,0.1-1,iphoneos-arm64e
 com.huami.wbnoadss,微博 WBNoAds,1.0.1,iphoneos-arm64e
 com.huami.wcnicknameavatarstyles,微信顶栏元素 WCNicknameAvatarStyle,2.2,iphoneos-arm64e
 com.huami.wcpluginsorders,微信插件管理排序 WCPluginsOrder,1.0-2,iphoneos-arm64e
-com.huami.wcpulses,微信 WCPulse,1.2-5,iphoneos-arm64e
+com.huami.wcpulses,微信 WCPulse,1.3-4,iphoneos-arm64e
 com.huami.wcpush2chats,微信消息直达 WCPush2Chat,1.0-2,iphoneos-arm64e
 com.hw.imepremium,🅷🆆 iMe,0.0.1,iphoneos-arm64e
 com.ichitaso.hideserialnumbers,HideSerialNumber 修改系统版本,0.0.4,iphoneos-arm64e
