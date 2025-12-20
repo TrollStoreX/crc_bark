@@ -347,6 +347,7 @@ com.wkk.autofillfix,AutoFillFix,0.1,iphoneos-arm64e
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.batteryhook,电池美化,1.0,iphoneos-arm64e
 com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
+com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
 com.wkk.bettercc,BetterCC,0.0.6,iphoneos-arm64e
 com.wkk.bhmh,拨号键盘美化,1.0,iphoneos-arm64
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64e
@@ -362,6 +363,7 @@ com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
 com.wkk.cxdebdylib,一键查询已安装插件,1.0,iphoneos-arm64e
 com.wkk.dbhook,豆瓣NoAds,1.0-1,iphoneos-arm64e
+com.wkk.ddcxhook,嘀嗒出行NoAds,1.0-1,iphoneos-arm64e
 com.wkk.debbatch,一键解压/打包deb(自用),1.2,iphoneos-arm64e
 com.wkk.Desa,Desa,1.0,iphoneos-arm64
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64e
@@ -410,6 +412,7 @@ com.wkk.megahook2,MEGANoAds,1.0,iphoneos-arm64e
 com.wkk.mghook,芒果TVNoAds,1.0,iphoneos-arm64e
 com.wkk.mlxxhook,美丽修行NoAds,1.0-1,iphoneos-arm64e
 com.wkk.mtwmhook,美团外卖NoAds,1.1,iphoneos-arm64e
+com.wkk.myshook,米游社NoAds,1.0-1,iphoneos-arm64e
 com.wkk.nndxguazai,妮妮打熊注销动画,2.0,iphoneos-arm64
 com.wkk.photohook,相册优化,1.0-6,iphoneos-arm64e
 com.wkk.pkpkhook,PikPakNoAds,1.0,iphoneos-arm64e
