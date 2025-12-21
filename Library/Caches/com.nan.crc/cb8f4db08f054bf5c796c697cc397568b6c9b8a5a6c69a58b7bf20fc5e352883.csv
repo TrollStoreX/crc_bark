@@ -36,7 +36,6 @@ com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.5,iphoneos-arm64
 com.cydiageek.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64e
 com.dao.icleanerpro,iCleaner Pro,7.10.0,iphoneos-arm64e
 com.dao.safarix,SafariX,1.3.0,iphoneos-arm64e
-com.dao.speedy,Speedy,0.3,iphoneos-arm64e
 com.dao.stella,Stella中文版,1.1.5,iphoneos-arm64
 com.dao.tvlock,TVLock,1.2.3,iphoneos-arm64e
 com.dcproducts.colorbar15,ColorBar15,1.1.0,iphoneos-arm64e
@@ -52,14 +51,12 @@ com.forSnapper3three.wkk,Snapper3 美化（3）,1.0,iphoneos-arm64e
 com.forSnapper3two.wkk,Snapper3 美化（2）,1.0,iphoneos-arm64e
 com.forSnapper3.wkk,Snapper3 自用美化,1.1,iphoneos-arm64e
 com.gilshahar7.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
-com.hapticsleep,HapticSleep,1.0.1,iphoneos-arm64e
 com.hauncundaochu,百度网盘缓存导出,1.0,iphoneos-arm64
 com.hbb,HBB免费版,9.1.0,iphoneos-arm64e
 com.HBWechatHelper.ailun,黄白助手,2.0.1,iphoneos-arm64
 com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64e
 com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64e
 com.hikari,Hikari,1.0.8,iphoneos-arm64e
-com.huadong,Globaltouchvibration,1.0,iphoneos-arm64e
 com.huami.dyyy,DYYY,2.2-5,iphoneos-arm64
 com.huami.DYYY,DYYY,1.8.2,iphoneos-arm64
 com.huami.dyyy2,抖音魔术师,2.2-8,iphoneos-arm64e
@@ -75,19 +72,14 @@ com.hw.zgnyyh,农业银行NoJB,0.0.1,iphoneos-arm64
 com.iamdega.uiscroller,UIScroller,1.0.5,iphoneos-arm64e
 com.ichitaso.hidekbsettings,HideKBSettings,1.0.6,iphoneos-arm64e
 com.ichitaso.ringertoggle,RingerToggle,0.3,iphoneos-arm64e
-com.immortalizer,Immortalizer真后台,2.0.1,iphoneos-arm64e
-com.jontelang.instalauncher2,InstaLauncher 2,1.11.0,iphoneos-arm64e
 com.k.alpine,Alpine,1.4,iphoneos-arm64e
-com.keyswipe-rootless,KeySwipe-Rootless,1.0.2,iphoneos-arm64e
 com.kitten.tweaktool,一键备份和恢复工具,2.0.0-beta,iphoneos-arm64e
-com.lazycursor,LazyCursor,1.0.3,iphoneos-arm64e
 com.lclrc.hammerit,Hammer It,1.7.1,iphoneos-arm64e
 com.lclrc.hidepullover,PullOver Pro Hide,0.0.1,iphoneos-arm64
 com.lclrc.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
 com.lenglengyu.afakerxi,AFakerXI,1.0.3,iphoneos-arm64e
 com.lhyee.wcfix,fix图标错位,1.0,iphoneos-arm64
 com.liuf.jpyj,系统键盘圆角,0.0.1,iphoneos-arm64e
-com.lstimeseconds16,LSTimeSeconds,0.3,iphoneos-arm64e
 com.luo.actionpro,ActionPro,1.2.0,iphoneos-arm64e
 com.lxcloud.WCEhance,微信增强,1.2-2,iphoneos-arm64e
 com.mikifp.griddys,Griddy,1.0.5,iphoneos-arm64e
@@ -109,14 +101,11 @@ com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
 com.networkmanager,NetworkManagerReborn,1.4.3,iphoneos-arm64e
 com.nightwind.horizontalsliders,HorizontalSliders,0.0.1,iphoneos-arm64e
 com.opa334.crane,Crane,1.3.16-4,iphoneos-arm64e
-com.p2kdev.nofaceidwait,NoFaceIDWait,1.0,iphoneos-arm64e
 com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64e
-com.pantsthief.flexing,FLEXing,1.5.2,iphoneos-arm64e
 com.picsewpro,PicsewPro,1.0.0,iphoneos-arm64e
 com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
 com.ppcon.wkk,wkk for 花里胡哨控制中心,0.2,iphoneos-arm64
 com.primalfolder2,PrimalFolder2,0.1.2,iphoneos-arm64e
-com.ps.smoothcursorios13,SmoothCursor (iOS 13+),0.0.1,iphoneos-arm64e
 com.pullclearnc,下拉清理通知,1.1-8,iphoneos-arm64
 com.pulloverpro,PullOver Pro,2.1.6,iphoneos-arm64
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
@@ -128,7 +117,6 @@ com.rexinxuegao.WCElite,WCElite,1.3-7,iphoneos-arm64e
 com.satella,Satella中文版,1.9.0-1,iphoneos-arm64e
 com.serena.AppIndex,AppIndex,1.0,iphoneos-arm64e
 com.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64e
-com.shiftcmdk.bookmarkicons,SafariBookmarkIcons,1.0-1+debug,iphoneos-arm64e
 com.shuffle,Shuffle,1.6.2,iphoneos-arm64e
 com.skypain.flexloader,FlexLoader,5.25.19-1,iphoneos-arm64e
 com.skypain.lookinloader,LookinLoader,1.2.8-2,iphoneos-arm64e
@@ -146,7 +134,6 @@ com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64
 com.swipedownscreenshot,双指下滑截图,1.0,iphoneos-arm64e
 com.Talkatonehook,TalkatoneNoAds,1.0,iphoneos-arm64e
 com.tencent.themebox,主题盒子,2.2.0,iphoneos-arm64e
-com.teslaman3092.popoutbuttons,PopOutButtons,1.0.1,iphoneos-arm64e
 com.vincent.polyphian.depths,Depths,1.4.1,iphoneos-arm64
 com.vita.cnnoad,CNNoAd,0.1-3-1,iphoneos-arm64e
 com.vita.wchook,WCHook,1.0.2,iphoneos-arm64e
@@ -292,7 +279,6 @@ flex3beta.roothide,Flex3 Beta,3.1-roothide,iphoneos-arm64e
 jp.soh.freepip,FreePIP,0.0.3-1,iphoneos-arm64
 latchkey,Latchkey,2.3.3,iphoneos-arm64e
 me.luki.canna,Canna,0.9.0,iphoneos-arm64e
-me.zsaaiq.springhooker,SpringHooker,1.1,iphoneos-arm64e
 MisakaHelper,MisakaHelper,2.1-1-end,iphoneos-arm64
 netskao.wcpureextension-rootless,微信净化红包版,4.2-6,iphoneos-arm64e
 netskao.wechatpurification,微信净化END,4.2-6-END,iphoneos-arm64e
