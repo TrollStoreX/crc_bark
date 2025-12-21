@@ -7,9 +7,7 @@ cn.zqbb.editpre,editPre,0.0.1,iphoneos-arm64e
 cn.zqbb.fix120hz,Hello 120Hz,3.2.0-1,iphoneos-arm64e
 cn.zqbb.orzfolder,Hello Folder,1.3.3-2,iphoneos-arm64e
 com.0xkuj.ccadsbegone.roothide,CCAdsBeGone (roothide),1.5,iphoneos-arm64e
-com.0xkuj.ccdnd,CCDND,1.0.0,iphoneos-arm64e
 com.0xkuj.filzadirprobe,FilzaDirProbe,1.7.2,iphoneos-arm64e
-com.0xkuj.lockeddnd.rootless,Locked DND,1.0,iphoneos-arm64e
 com.0xkuj.safarix,SafariX,1.9.9.1,iphoneos-arm64e
 com.25mao.miyou.rootless,微信助手,3.8-9,iphoneos-arm64e
 com.25mao.msgfilt,消息屏蔽助手,1.0-5.1,iphoneos-arm64e
@@ -18,16 +16,11 @@ com.25mao.wxurlexpand.rootless,微信URL扩展,0.2-0,iphoneos-arm64
 com.be-huge.floating-view,floatingView,1.5.7,iphoneos-arm64e
 com.be-huge.wechat-pop-vc,WeChatPopVC,0.0.5,iphoneos-arm64e
 com.blbl,哔哩哔哩净化,1.0,iphoneos-arm64e
-com.cccellularrate,CCCellularRate,1.1-1,iphoneos-arm64e
-com.ccsim,CCSIM,1.1-9,iphoneos-arm64e
 com.curtin.pkc,PKC,0.8-4,iphoneos-arm64e
 com.cydiageek.hidesearchbutton,HideSearchButton,1.0.0,iphoneos-arm64e
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.5,iphoneos-arm64e
-com.cydiageek.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64e
 com.dao.icleanerpro,iCleaner Pro,7.10.0,iphoneos-arm64e
 com.dao.safarix,SafariX,1.3.0,iphoneos-arm64e
-com.dao.stella,Stella中文版,1.1.5,iphoneos-arm64
-com.dumpapp.wechat,锤子助手,2.0.6,iphoneos-arm64
 com.dvntm.fbo,FilesBrowsingOnly,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
 com.filzacrack,Filza Crack,1.1-9,iphoneos-arm64e
@@ -36,15 +29,11 @@ com.gilshahar7.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
 com.hbb,HBB免费版,9.1.0,iphoneos-arm64e
 com.HBWechatHelper.ailun,黄白助手,2.0.1,iphoneos-arm64
 com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64e
-com.hideserialnumber,HideSerialNumber,0.0.4,iphoneos-arm64e
-com.huami.WCFullSwipe,WCFullSwipe,1.3,iphoneos-arm64
-com.huami.WCPluginsOrder,WCPluginsOrder,1.0.2,iphoneos-arm64e
 com.huami.WCPulse,WCPulse,1.3-4,iphoneos-arm64e
 com.huami.WCPush2Chat,WCPush2Chat,1.0,iphoneos-arm64e
 com.huami.WCSafeMode,WCSafeMode,1.0-1,iphoneos-arm64e
 com.huayuarc.lsilllooklater,来通知不亮屏,0.0.1,iphoneos-arm64e
 com.hw.zgnyyh,农业银行NoJB,0.0.1,iphoneos-arm64
-com.ichitaso.ringertoggle,RingerToggle,0.3,iphoneos-arm64e
 com.kitten.tweaktool,一键备份和恢复工具,2.0.0-beta,iphoneos-arm64e
 com.lclrc.hammerit,Hammer It,1.7.1,iphoneos-arm64e
 com.lclrc.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
@@ -61,8 +50,6 @@ com.netskao.wcdisablehotupdates,WCDisableHotUpdates,1.1-2,iphoneos-arm64e
 com.netskao.wechatdragdropimages,WeChatDragDropImages,1.1-3,iphoneos-arm64e
 com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.3-1,iphoneos-arm64e
 com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
-com.networkmanager,NetworkManagerReborn,1.4.3,iphoneos-arm64e
-com.nightwind.horizontalsliders,HorizontalSliders,0.0.1,iphoneos-arm64e
 com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.picsewpro,PicsewPro,1.0.0,iphoneos-arm64e
 com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
@@ -86,23 +73,19 @@ com.susu.springanimation,SpringAnimation,1.0.1,iphoneos-arm64e
 com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64
 com.tencent.themebox,主题盒子,2.2.0,iphoneos-arm64e
 com.vita.cnnoad,CNNoAd,0.1-2-3,iphoneos-arm64e
-com.wechat.enhance,WeChatEnhance,1.6-4,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
-com.wechat.xuanzhuan,微信头像旋转,0.0.1,iphoneos-arm64
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
 com.wkk.aqyhook,爱奇艺NoAds,1.0,iphoneos-arm64e
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
-com.wkk.bettercc,BetterCC,0.0.6,iphoneos-arm64e
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64e
 com.wkk.blblhook,哔哩哔哩NoAds,1.0,iphoneos-arm64e
 com.wkk.camerapreview,HideCameraPreview,1.0,iphoneos-arm64e
 com.wkk.car,Car解压终端(自用),1.0,iphoneos-arm64e
 com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64
-com.wkk.ccmd,CCModule,1.1-2,iphoneos-arm64e
-com.wkk.center,wkkCenter,1.1-3,iphoneos-arm64e
+com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
 com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
 com.wkk.cxdebdylib,一键查询已安装插件,1.0,iphoneos-arm64e
@@ -128,7 +111,6 @@ com.wkk.fucmkrxkfads,瑞幸咖啡NoAds,1.3,iphoneos-arm64e
 com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64e
 com.wkk.HideEdit,HideEdit,1.0,iphoneos-arm64e
 com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
-com.wkk.hookcc,控制中心音量亮度增加百分比,1.0,iphoneos-arm64e
 com.wkk.hphook,虎扑NoAds,1.0-1,iphoneos-arm64e
 com.wkk.huyahook,虎牙直播NoAds,1.0,iphoneos-arm64e
 com.wkk.iconx,Hideiconx,1.2,iphoneos-arm64e
@@ -170,7 +152,6 @@ com.wkk.wdhook,微店NoAds,1.0-1,iphoneos-arm64e
 com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
-com.wkk.wxsrfpf,微信输入法皮肤（自用备份）,1.0,iphoneos-arm64e
 com.wkk.wyxwhook,网易新闻NoAds,1.0-2,iphoneos-arm64e
 com.wkk.wyyad2hook,网易云Music免费听,1.0-1,iphoneos-arm64e
 com.wkk.wyyadhook,网易云Music免费听,1.0-4,iphoneos-arm64e
@@ -195,14 +176,11 @@ com.wkk.zgdxhook,中国电信NoAds,1.0,iphoneos-arm64e
 com.wkk.zhihuhook,知乎NoAds,1.0,iphoneos-arm64e
 com.wkk.zslmhook,掌上英雄联盟NoAds,1.0,iphoneos-arm64e
 com.wkk.zzhook,转转NoAds,1.0,iphoneos-arm64e
-com.xuegao.xxuegao,小雪糕,1.1-6,iphoneos-arm64e
-com.xuuz.ddhook,钉钉自动抢红包,0.0.1,iphoneos-arm64e
 com.xx.xhshook,小红薯,1.1.6-3,iphoneos-arm64e
 com.zetsu,Zetsu,1.5,iphoneos-arm64e
 com.zqbb.iconshadow,Hello Shadow,1.1,iphoneos-arm64e
 com.zqbb.savephotos,Hello Snapper,1.1,iphoneos-arm64e
 com.zqbb.Snapper3,Snapper3扩展,1.0-1,iphoneos-arm64e
-cum.0xilis.hidevpn,HideVPN,1.1,iphoneos-arm64e
 flex3beta.roothide,Flex3 Beta,3.1-roothide,iphoneos-arm64e
 jp.soh.freepip,FreePIP,0.0.3-1,iphoneos-arm64
 latchkey,Latchkey,2.3.3,iphoneos-arm64e
