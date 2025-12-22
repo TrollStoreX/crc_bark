@@ -51,6 +51,7 @@ com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
 com.wkk.aqyhook,爱奇艺NoAds,1.0,iphoneos-arm64e
+com.wkk.atria,Atria,1.4.1-6,iphoneos-arm64e
 com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
@@ -63,6 +64,7 @@ com.wkk.car,Car解压终端(自用),1.0,iphoneos-arm64e
 com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64
 com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
 com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
+com.wkk.cozybadges,CozyBadges,2.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
 com.wkk.cxdebdylib,一键查询已安装插件,1.0,iphoneos-arm64e
 com.wkk.dbhook,豆瓣NoAds,1.0-1,iphoneos-arm64e
@@ -73,6 +75,7 @@ com.wkk.dkkjhook,动卡空间NoAds,1.0,iphoneos-arm64e
 com.wkk.dmhook,大麦NoAds,1.0,iphoneos-arm64e
 com.wkk.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
 com.wkk.douyutvhook,斗鱼NoAds,1.0,iphoneos-arm64e
+com.wkk.dualswipeshot,双指下滑截图,1.0-1,iphoneos-arm64e
 com.wkk.dy,dyyy养老个人配置(自用),1.2,iphoneos-arm64e
 com.wkk.dylibbatch,一键提取dylib(自用),1.0,iphoneos-arm64e
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
@@ -99,6 +102,7 @@ com.wkk.jdhook,煎蛋NoAds,1.0,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kuanhook,酷安NoAds,1.0,iphoneos-arm64e
 com.wkk.kugouhook,酷狗音乐Streamline,1.4-6,iphoneos-arm64e
+com.wkk.latchkey,Latchkey,2.3.3,iphoneos-arm64e
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
 com.wkk.lstyhook,雷速体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.megahook,MEGANoAds,1.0,iphoneos-arm64e
@@ -119,6 +123,7 @@ com.wkk.qmxshook,七猫小说,1.0,iphoneos-arm64e
 com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.qsyyhook,汽水音乐NoBottombar,1.0,iphoneos-arm64e
 com.wkk.quickprefs,QuickPrefs,1.3.3-1,iphoneos-arm64e
+com.wkk.ravitation,Gravitation,1.0-1,iphoneos-arm64e
 com.wkk.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
 com.wkk.sdk16.5,iPhoneOS16.5.sdk,1.0,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
@@ -163,6 +168,7 @@ jp.soh.freepip,FreePIP,0.0.3-1,iphoneos-arm64
 MisakaHelper,MisakaHelper,2.1-1-end,iphoneos-arm64
 netskao.wcpureextension-rootless,微信净化红包版,4.2-6,iphoneos-arm64e
 netskao.wechatpurification,微信净化END,4.2-6-END,iphoneos-arm64e
+preferenceloader.top,PreferenceLoader (Top),2.2.7,iphoneos-arm64e
 ru.domo.cocoatop64,CocoaTop64,2.2.4-1,iphoneos-arm64e
 uncar,uncar,0.0.1-6,iphoneos-arm64e
 Wen.cpu.RlPNDlP,虚拟内存优化,2.0,iphoneos-arm64e
