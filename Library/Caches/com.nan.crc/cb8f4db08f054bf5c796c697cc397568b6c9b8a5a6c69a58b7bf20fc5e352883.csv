@@ -35,7 +35,6 @@ com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
 com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.picsewpro,PicsewPro,1.0.0,iphoneos-arm64e
 com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
-com.primalfolder2,PrimalFolder2,0.1.2,iphoneos-arm64e
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
 com.qimiao.WCRefine,WCRefine,1.1-9,iphoneos-arm64e
 com.qwq.wcautoclaimhb,微信自动领取私聊红包,1.0,iphoneos-arm64e
@@ -64,6 +63,7 @@ com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64e
 com.wkk.blblhook,哔哩哔哩NoAds,1.0,iphoneos-arm64e
+com.wkk.blurryalerts,BlurryAlerts,1.2.4,iphoneos-arm64e
 com.wkk.boardswipe,BoardSwipe,1.0.0,iphoneos-arm64e
 com.wkk.cadhook,CAD看图王NoAds,1.0-1,iphoneos-arm64e
 com.wkk.camerapreview,HideCameraPreview,1.0,iphoneos-arm64e
@@ -140,6 +140,7 @@ com.wkk.pancake,PanCake,2.3,iphoneos-arm64e
 com.wkk.photohook,相册优化,1.0-6,iphoneos-arm64e
 com.wkk.pkpkhook,PikPakNoAds,1.0,iphoneos-arm64e
 com.wkk.ppxwhook,澎湃新闻NoAds,1.0-1,iphoneos-arm64e
+com.wkk.primalfolder2,PrimalFolder2,0.1.2,iphoneos-arm64e
 com.wkk.proxysc,去App录屏检测（下载后TrollFools注入）,1.0,iphoneos-arm64e
 com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64e
 com.wkk.qiehook,企鹅体育NoAds,1.0-1,iphoneos-arm64e
