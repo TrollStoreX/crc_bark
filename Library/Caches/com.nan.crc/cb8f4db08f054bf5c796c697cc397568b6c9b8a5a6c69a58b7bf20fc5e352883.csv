@@ -31,7 +31,6 @@ com.nan.debd2,debd（自用）,0.1,iphoneos-arm64e
 com.netskao.wechatdragdropimages,WeChatDragDropImages,1.1-2,iphoneos-arm64e
 com.netskao.wechatnotiavatar,WeChatNotiAvatar,1.3-1,iphoneos-arm64e
 com.netskao.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64
-com.p2kdev.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.picsewpro,PicsewPro,1.0.0,iphoneos-arm64e
 com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
@@ -108,6 +107,7 @@ com.wkk.fuckydads,中国移动NoAds,1.0,iphoneos-arm64e
 com.wkk.fucmkrxkfads,瑞幸咖啡NoAds,1.3,iphoneos-arm64e
 com.wkk.gaodehook,高德地图NoAds,1.0,iphoneos-arm64e
 com.wkk.griddys,Griddy,1.0.5,iphoneos-arm64e
+com.wkk.hammerit,Hammer It,1.7.1,iphoneos-arm64e
 com.wkk.HideEdit,HideEdit,1.0,iphoneos-arm64e
 com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
 com.wkk.hphook,虎扑NoAds,1.0-1,iphoneos-arm64e
@@ -157,8 +157,10 @@ com.wkk.smoothcursorios13,SmoothCursor(Rootless),0.0.1,iphoneos-arm64e
 com.wkk.SquidExtender,SquidExtender配置,1.0-7,iphoneos-arm64e
 com.wkk.stella,Stella❄️,1.1.5,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
+com.wkk.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds,1.0-5,iphoneos-arm64e
 com.wkk.tinge,Tinge,1.2.2,iphoneos-arm64e
+com.wkk.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64e
 com.wkk.tpphook,淘票票NoAds,1.0,iphoneos-arm64e
 com.wkk.tvlock,TVLock,1.2.3,iphoneos-arm64e
 com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64e
@@ -168,6 +170,7 @@ com.wkk.wdhook,微店NoAds,1.0-1,iphoneos-arm64e
 com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
+com.wkk.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.wkk.wyxwhook,网易新闻NoAds,1.0-2,iphoneos-arm64e
 com.wkk.wyyad2hook,网易云Music免费听,1.0-1,iphoneos-arm64e
 com.wkk.wyyadhook,网易云Music免费听,1.0-4,iphoneos-arm64e
