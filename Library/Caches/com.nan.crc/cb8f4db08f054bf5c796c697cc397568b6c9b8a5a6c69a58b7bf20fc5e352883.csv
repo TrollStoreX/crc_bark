@@ -46,9 +46,11 @@ com.susu.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.susu.snapper3.picta,Picta,1.0,iphoneos-arm64
 com.susu.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64
 com.tencent.themebox,主题盒子,2.2.1,iphoneos-arm64e
+com.thermal.hook,IOSThermal,1.0,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
+com.wkk.aaaaaaaaaa,AAAAAA插件配置说明（必看）,1.0-1,iphoneos-arm64e
 com.wkk.afakerxi,AFakerXI,1.0.3,iphoneos-arm64e
 com.wkk.alpine,Alpine,1.4,iphoneos-arm64e
 com.wkk.apppad,AppPad,1.1.3,iphoneos-arm64e
@@ -70,8 +72,10 @@ com.wkk.car,Car解压终端(自用),1.0,iphoneos-arm64e
 com.wkk.carbridge13,CarBridge,2.0.15,iphoneos-arm64e
 com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64
 com.wkk.ccdnd,CCDND,1.0,iphoneos-arm64e
+com.wkk.ccmusic,控制中心音乐模块动画,1.0.5,iphoneos-arm64e
 com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
 com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
+com.wkk.collection,SuCollection,1.0,iphoneos-arm64e
 com.wkk.cozybadges,CozyBadges,2.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
 com.wkk.crane,Crane,1.3.16-4,iphoneos-arm64e
@@ -99,6 +103,7 @@ com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64e
 com.wkk.fastlock,FastLock,1.0.1,iphoneos-arm64e
 com.wkk.fbhook,粉笔NoAds,1.0-1,iphoneos-arm64e
 com.wkk.feizhuhook,飞猪旅行NoAds,1.0-1,iphoneos-arm64e
+com.wkk.filzacrack,Filza Crack,1.1-9,iphoneos-arm64e
 com.wkk.filzaswipeselect,FilzaSwipeSelect,0.0.2,iphoneos-arm64e
 com.wkk.ftpz,FT Tool（配置文件）,1.0,iphoneos-arm64e
 com.wkk.fuckicon,HiceIconName,1.0,iphoneos-arm64e
@@ -116,6 +121,7 @@ com.wkk.iconx,Hideiconx,1.2,iphoneos-arm64e
 com.wkk.immortalizer,Immortalizer,2.0.1,iphoneos-arm64e
 com.wkk.instalauncher2,InstaLauncher 2,1.11.0,iphoneos-arm64e
 com.wkk.jdhook,煎蛋NoAds,1.0,iphoneos-arm64e
+com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kuanhook,酷安NoAds,1.0,iphoneos-arm64e
 com.wkk.kugouhook,酷狗音乐Streamline,1.4-6,iphoneos-arm64e
@@ -200,6 +206,7 @@ com.wkk.zzhook,转转NoAds,1.0,iphoneos-arm64e
 com.xx.xhshook,小红薯,1.1.6-3,iphoneos-arm64e
 com.zqbb.savephotos,Hello Snapper,1.1,iphoneos-arm64e
 com.zqbb.Snapper3,Snapper3扩展,1.0-1,iphoneos-arm64e
+con.wkk.april,April,3.1,iphoneos-arm64e
 cum.wkk.hidevpn,HideVPN,1.1,iphoneos-arm64e
 flex3beta.roothide,Flex3 Beta,3.1-roothide,iphoneos-arm64e
 jp.soh.freepip,FreePIP,0.0.3-1,iphoneos-arm64
