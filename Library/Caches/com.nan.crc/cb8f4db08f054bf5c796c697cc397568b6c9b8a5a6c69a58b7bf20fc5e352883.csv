@@ -109,6 +109,7 @@ com.wkk.dynamicislandanimation,灵动岛跳舞动画PLUS,1.1.8,iphoneos-arm64e
 com.wkk.dynamicislandsucai,灵动岛跳舞动画素材,1.0-1,iphoneos-arm64e
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
 com.wkk.editpre,隐藏设置里插件,0.0.1,iphoneos-arm64e
+com.wkk.eneko,Eneko,1.4-5,iphoneos-arm64e
 com.wkk.ersatz,Ersatz,1.0,iphoneos-arm64e
 com.wkk.everest,Everest,1.0.1,iphoneos-arm64e
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64e
@@ -135,7 +136,9 @@ com.wkk.huyahook,虎牙直播NoAds,1.0,iphoneos-arm64e
 com.wkk.iconx,Hideiconx,1.2,iphoneos-arm64e
 com.wkk.immortalizer,Immortalizer,2.0.1,iphoneos-arm64e
 com.wkk.instalauncher2,InstaLauncher 2,1.11.0,iphoneos-arm64e
+com.wkk.intelligentpass5,IntelligentPass 5,1.0.2,iphoneos-arm64e
 com.wkk.jdhook,煎蛋NoAds,1.0,iphoneos-arm64e
+com.wkk.kayoko,Kayoko,3.0,iphoneos-arm64e
 com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
@@ -144,6 +147,7 @@ com.wkk.kugouhook,酷狗音乐Streamline,1.4-6,iphoneos-arm64e
 com.wkk.latchkey,Latchkey,2.3.3,iphoneos-arm64e
 com.wkk.lazycursor,LazyCursor,1.0.3,iphoneos-arm64e
 com.wkk.lecard,Applecard,0.1,iphoneos-arm64e
+com.wkk.lockeddnd,Locked DND,1.0,iphoneos-arm64e
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
 com.wkk.lstimeseconds16,LSTimeSeconds,1.0-1,iphoneos-arm64e
 com.wkk.lstyhook,雷速体育NoAds,1.0-1,iphoneos-arm64e
@@ -158,9 +162,12 @@ com.wkk.mtwmhook,美团外卖NoAds,1.1,iphoneos-arm64e
 com.wkk.myshook,米游社NoAds,1.0-1,iphoneos-arm64e
 com.wkk.newterm3,NewTerm 3,1.0-2,iphoneos-arm64e
 com.wkk.nochargingsound,禁用充电声音,1.0-1,iphoneos-arm64e
+com.wkk.noline,PurifyLine,1.0.1,iphoneos-arm64e
 com.wkk.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
+com.wkk.noredirect,禁字决,2.1,iphoneos-arm64e
 com.wkk.onesettings,OneSettings,2.2,iphoneos-arm64e
 com.wkk.pancake,PanCake,2.3,iphoneos-arm64e
+com.wkk.passtext,PassText,1.0.1,iphoneos-arm64e
 com.wkk.photohook,相册优化,1.0-6,iphoneos-arm64e
 com.wkk.pkpkhook,PikPakNoAds,1.0,iphoneos-arm64e
 com.wkk.ppxwhook,澎湃新闻NoAds,1.0-1,iphoneos-arm64e
@@ -183,14 +190,17 @@ com.wkk.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64e
 com.wkk.smoothcursorios13,SmoothCursor(Rootless),0.0.1,iphoneos-arm64e
 com.wkk.SquidExtender,SquidExtender配置,1.0-7,iphoneos-arm64e
 com.wkk.stella,Stella❄️,1.1.5,iphoneos-arm64e
+com.wkk.stepup,StepUp,1.2,iphoneos-arm64e
 com.wkk.stormsnifferhook,StormSnifferHook,1.0-1,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
 com.wkk.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds,1.0-5,iphoneos-arm64e
+com.wkk.tie-gesture,TieGesture,1.0.0,iphoneos-arm64e
 com.wkk.tinge,Tinge,1.2.2,iphoneos-arm64e
 com.wkk.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64e
 com.wkk.tpphook,淘票票NoAds,1.0,iphoneos-arm64e
 com.wkk.tvlock,TVLock,1.2.3,iphoneos-arm64e
+com.wkk.tweaksettings,TweakSettings,1.0.9,iphoneos-arm64e
 com.wkk.txsphook,腾讯视频NoAds,1.0,iphoneos-arm64e
 com.wkk.txtyhook,腾讯体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.WCEhance,微信增强,2.0-1,iphoneos-arm64e
@@ -200,6 +210,7 @@ com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
 com.wkk.whereplays,WherePlay,0.0.2,iphoneos-arm64e
+com.wkk.wicellswitcher,WiCellSwitcher,1.2,iphoneos-arm64e
 com.wkk.wtvrbglauncher,语音转文字免跳转,1.2,iphoneos-arm64e
 com.wkk.wyxwhook,网易新闻NoAds,1.0-2,iphoneos-arm64e
 com.wkk.wyyad2hook,网易云Music免费听,1.0-1,iphoneos-arm64e
