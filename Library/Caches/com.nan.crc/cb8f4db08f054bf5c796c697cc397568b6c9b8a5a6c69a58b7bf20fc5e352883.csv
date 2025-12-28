@@ -58,6 +58,7 @@ com.wkk.alwaysdark,AlwaysDark,1.2.3,iphoneos-arm64e
 com.wkk.appdata,AppData,1.4.4,iphoneos-arm64e
 com.wkk.AppIndex,AppIndex,1.0,iphoneos-arm64e
 com.wkk.apppad,AppPad,1.1.3,iphoneos-arm64e
+com.wkk.AppStore,App Store美化,1.0-2,iphoneos-arm64e
 com.wkk.aqyhook,爱奇艺NoAds,1.0,iphoneos-arm64e
 com.wkk.artworkspinner,ArtworkSpinner,1.6,iphoneos-arm64e
 com.wkk.atria,Atria,1.4.1-6,iphoneos-arm64e
@@ -68,6 +69,7 @@ com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
 com.wkk.betterccbrightness,BetterCCBrightness,1.0.2,iphoneos-arm64e
+com.wkk.bhmh,拨号键盘美化,1.0-1,iphoneos-arm64e
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64e
 com.wkk.blblhook,哔哩哔哩NoAds,1.0,iphoneos-arm64e
 com.wkk.blurryalerts,BlurryAlerts,1.2.4,iphoneos-arm64e
@@ -88,6 +90,7 @@ com.wkk.ccswitchdata,CCswitchdata,1.1-4,iphoneos-arm64e
 com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
 com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
 com.wkk.collection,SuCollection,1.0,iphoneos-arm64e
+com.wkk.coolapp,KBApp,1.5,iphoneos-arm64e
 com.wkk.cornbar,CornBar,1.1.0,iphoneos-arm64e
 com.wkk.cozybadges,CozyBadges,2.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
@@ -97,6 +100,8 @@ com.wkk.dawn,Dawn,1.1,iphoneos-arm64e
 com.wkk.dbhook,豆瓣NoAds,1.0-1,iphoneos-arm64e
 com.wkk.ddcxhook,嘀嗒出行NoAds,1.0-1,iphoneos-arm64e
 com.wkk.debbatch,一键解压/打包deb(自用),1.2,iphoneos-arm64e
+com.wkk.depths,Depths,1.4.1,iphoneos-arm64e
+com.wkk.Desa,Desa,1.0-1,iphoneos-arm64e
 com.wkk.didihook,滴滴出行NoAds,1.0,iphoneos-arm64e
 com.wkk.ding,Ding,1.1.0,iphoneos-arm64e
 com.wkk.disablebottombarlrswipe,DisableBottomBarLRSwipe,1.1-2,iphoneos-arm64e
@@ -118,6 +123,7 @@ com.wkk.editpre,隐藏插件,0.0.1,iphoneos-arm64e
 com.wkk.eneko,Eneko,1.4-5,iphoneos-arm64e
 com.wkk.ersatz,Ersatz,1.0,iphoneos-arm64e
 com.wkk.everest,Everest,1.0.1,iphoneos-arm64e
+com.wkk.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64e
 com.wkk.fakesignalbar,FakeSignalBar,0.1,iphoneos-arm64e
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64e
 com.wkk.fastlock,FastLock,1.0.1,iphoneos-arm64e
@@ -180,6 +186,7 @@ com.wkk.nochargingsound,禁用充电声音,1.0-1,iphoneos-arm64e
 com.wkk.noline,PurifyLine,1.0.1,iphoneos-arm64e
 com.wkk.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.wkk.noredirect,禁字决,2.1,iphoneos-arm64e
+com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.onesettings,OneSettings,2.2,iphoneos-arm64e
 com.wkk.pancake,PanCake,2.3,iphoneos-arm64e
 com.wkk.passtext,PassText,1.0.1,iphoneos-arm64e
