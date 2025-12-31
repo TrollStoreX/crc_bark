@@ -32,8 +32,6 @@ com.Purifyads,Purifyads,1.0,iphoneos-arm64e
 com.qimiao.WCRefine,WCRefine,1.1-9,iphoneos-arm64e
 com.qwq.wcautoclaimhb,微信自动领取私聊红包,1.0,iphoneos-arm64e
 com.RestoreFont,字体一键替换,1.0,iphoneos-arm64e
-com.skypain.flexloader,FlexLoader,5.25.19-1,iphoneos-arm64e
-com.skypain.lookinloader,LookinLoader,1.2.8-2,iphoneos-arm64e
 com.squidforce.snapper3.plugins,Plugins For Snapper3,1.2,iphoneos-arm64e
 com.starry6.lunanoad,汽水音乐NoAds,1.1,iphoneos-arm64e
 com.sunshinesong.split-view-pro,split-view-pro,1.4.0,iphoneos-arm64e
@@ -134,6 +132,7 @@ com.wkk.filzadirprobe,FilzaDirProbe,1.7.3,iphoneos-arm64e
 com.wkk.filzaswipeselect,FilzaSwipeSelect,0.0.2,iphoneos-arm64e
 com.wkk.flex3beta,Flex3 Beta,1.0-1,iphoneos-arm64e
 com.wkk.flexibleexpressions,FlexibleExpression,1.2.0,iphoneos-arm64e
+com.wkk.flexloader,FlexLoader,5.25.19-1,iphoneos-arm64e
 com.wkk.floatingdockxvi,FloatingDockXVI,2.3,iphoneos-arm64e
 com.wkk.freepip,FreePIP,0.0.3-1,iphoneos-arm64e
 com.wkk.ftpz,FT Tool（配置文件）,1.0,iphoneos-arm64e
@@ -175,6 +174,7 @@ com.wkk.lightsout,LightsOut,1.2,iphoneos-arm64e
 com.wkk.lockbuttonx,LockButtonX,0.0.1,iphoneos-arm64e
 com.wkk.lockeddnd,Locked DND,1.0,iphoneos-arm64e
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
+com.wkk.lookinloader,LookinLoader,1.2.8-2,iphoneos-arm64e
 com.wkk.lstimeseconds16,LSTimeSeconds,1.0-1,iphoneos-arm64e
 com.wkk.lstyhook,雷速体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.lynxtwo,Lynx 2,2.5.4,iphoneos-arm64e
