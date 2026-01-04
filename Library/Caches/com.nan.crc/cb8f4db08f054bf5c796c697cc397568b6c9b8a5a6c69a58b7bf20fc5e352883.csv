@@ -223,12 +223,14 @@ com.wkk.ravitation,Gravitation,1.0-1,iphoneos-arm64e
 com.wkk.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
 com.wkk.recordpause,RecordPause,2.0.6,iphoneos-arm64e
 com.wkk.removewidgetbg,移除小组件背景,2.0,iphoneos-arm64e
+com.wkk.RestoreFont2,字体一键替换2,1.0-1,iphoneos-arm64e
 com.wkk.roothide,AAAAAA无根转隐根提示残留解决办法,1.0-1,iphoneos-arm64e
 com.wkk.rose,Rose 🌹,1.1.0,iphoneos-arm64e
 com.wkk.satella,Satella,1.9.0-1,iphoneos-arm64e
 com.wkk.sdk16.5,iPhoneOS16.5.sdk,1.0,iphoneos-arm64e
 com.wkk.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64e
 com.wkk.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64e
+com.wkk.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64e
 com.wkk.shuffle,Shuffle,1.6.2,iphoneos-arm64e
 com.wkk.sileomh,Sileo美化,1.0-1,iphoneos-arm64e
 com.wkk.smoothcursorios13,SmoothCursor(Rootless),0.0.1,iphoneos-arm64e
@@ -239,7 +241,7 @@ com.wkk.springboardanimation,神奇的交互动画,1.0-1,iphoneos-arm64e
 com.wkk.SquidExtender,SquidExtender配置,1.0-7,iphoneos-arm64e
 com.wkk.stella,Stella❄️,1.1.5,iphoneos-arm64e
 com.wkk.stepup,StepUp,1.2,iphoneos-arm64e
-com.wkk.storeswitcher2,StoreSwitcher 2,1.0.5,iphoneos-arm64e
+com.wkk.storeswitcher2,StoreSwitcher2,1.0.7,iphoneos-arm64e
 com.wkk.stormsnifferhook,StormSnifferHook,1.0-1,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
 com.wkk.tapticboard,TapticBoard,1.2,iphoneos-arm64e
