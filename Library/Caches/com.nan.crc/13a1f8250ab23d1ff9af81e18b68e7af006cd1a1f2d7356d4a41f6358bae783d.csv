@@ -1,5 +1,5 @@
 Package,Name,Version,Architecture
-com.be-huge.bullet,bullet,1.0.6,iphoneos-arm64
+com.be-huge.bullet,bullet,1.0.7,iphoneos-arm64
 com.be-huge.custom-notification-sound,CustomWeChatNotificationSound,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture,TieGesture,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture-advance,TieGesture-rootless(收费版),1.1.0,iphoneos-arm64
