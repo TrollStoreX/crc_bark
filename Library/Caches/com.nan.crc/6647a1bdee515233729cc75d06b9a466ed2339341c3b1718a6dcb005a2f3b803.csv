@@ -2,7 +2,7 @@ Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
-codes.aurora.kayokos,Kayoko 剪切板,2.9,iphoneos-arm64e
+codes.aurora.kayokos,Kayoko 剪切板,3.0,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.7,iphoneos-arm64e
 com.0xkuj.safarixs,SafariX,1.9.9,iphoneos-arm64e
 com.0xkuj.staypros,Stay Pro,0.0.1,iphoneos-arm64e
@@ -98,6 +98,7 @@ com.netskao.awemenoads,抖音去广告 AwemeNoAds,1.1-3,iphoneos-arm64e
 com.netskao.awemesaveemojis,抖音保存表情 AwemeSaveEmoji,1.1-2,iphoneos-arm64e
 com.netskao.awemevideotimes,抖音时间 AwemeVideoTime,1.1-2,iphoneos-arm64e
 com.netskao.dumpdecrypters,DumpDecrypter 砸壳,1.5-1,iphoneos-arm64e
+com.netskao.imgplaycracks,ImgPlay Crack,1.1-5,iphoneos-arm64e
 com.netskao.qqipadmodelogins,QQ iPad 模式,1.1-1,iphoneos-arm64e
 com.netskao.qqnotiavatars,QQNotiAvatar QQ头像,1.2-2,iphoneos-arm64e
 com.netskao.swiftgramcracks,Swiftgram Crack,1.1-7,iphoneos-arm64e
@@ -169,7 +170,6 @@ com.xybp888.noapplemobilerepairs,禁止显示维修记录,0.0.1-88,iphoneos-arm6
 com.yan.fionas,Fiona 底栏浮动,1.0.6,iphoneos-arm64e
 com.ydw.BypassWechatMSG,微信内容娱乐 BypassWechatMSG,0.0.2,iphoneos-arm64e
 com.yi.wcenablemomentslivephotos,WCEnableMomentsLivePhoto,1.1-2,iphoneos-arm64e
-com.yourdismissedty.abc,取消农业银行越狱检测弹窗,1.0,iphoneos-arm64
 com.yourepo.lly.adsspee-rootlesss,快速跳过广告 VideoAdsSpeed,1.1.3,iphoneos-arm64e
 de.finngaida.daynightswitchs,DayNightSwitch 日月开关,1.2,iphoneos-arm64e
 dev.mineek.appstoretrollers,AppStoreTroller,0.0.9,iphoneos-arm64e
