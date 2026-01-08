@@ -28,7 +28,7 @@ com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-a
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
 com.choco.tgextras,Telegram TGExtra,1.3,iphoneos-arm64
 com.cureux.cc26s,CC26,0.4.9.9b,iphoneos-arm64e
-com.curtin.pkc.rootlesss,PKC 助手,0.8-4,iphoneos-arm64e
+com.curtin.pkc.rootlesss,PKC 助手,0.8-7,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
 com.den.twigalaxys,TWIGalaxy,1.9,iphoneos-arm64e
@@ -85,6 +85,7 @@ com.mikifp.griddys,Griddy 图标随意摆,1.0.5,iphoneos-arm64e
 com.mikotohelper.wechat,Mikoto 助手,1.3.6-V4,iphoneos-arm64e
 com.mrgcgamer.libgcuniversals,LibGcUniversal,1.7.0,iphoneos-arm64e
 com.nathan.dynamicnotlands,DynamicNotLand 隐藏灵动岛,1.2.3,iphoneos-arm64e
+com.nathan.homehiders,隐藏小白条 HomeHider,1.1,iphoneos-arm64e
 com.nathan.internalstoragesettingss,显示存储系统数据详情InternalStorageSettings,1.0,iphoneos-arm64e
 com.netskao.appdatas,AppData,1.4.4,iphoneos-arm64e
 com.netskao.awemealwaysshowtimes,抖音发布时间 AwemeAlwaysShowTime,1.1-1,iphoneos-arm64e
