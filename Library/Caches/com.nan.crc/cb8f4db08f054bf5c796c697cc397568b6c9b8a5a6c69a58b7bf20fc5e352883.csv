@@ -86,6 +86,7 @@ com.wkk.ccborder15,CCBorder15,1.1.2,iphoneos-arm64e
 com.wkk.cccellularrate,CCCellularRate,1.1-1,iphoneos-arm64e
 com.wkk.ccdnd,CCDND,1.0,iphoneos-arm64e
 com.wkk.ccglow,控制中心发光,2.0.2,iphoneos-arm64e
+com.wkk.cclocation,CCLocation,1.1.0-1,iphoneos-arm64e
 com.wkk.ccmusic,控制中心音乐模块动画,1.0.5,iphoneos-arm64e
 com.wkk.ccsim,CCSIM,1.1-9,iphoneos-arm64e
 com.wkk.ccswitchdata,CCswitchdata,1.1-4,iphoneos-arm64e
@@ -254,6 +255,7 @@ com.wkk.storeswitcher2,StoreSwitcher2,1.0.7,iphoneos-arm64e
 com.wkk.stormsnifferhook,StormSnifferHook,1.0-1,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
 com.wkk.tapticboard,TapticBoard,1.2,iphoneos-arm64e
+com.wkk.teleport,Teleport,1.1,iphoneos-arm64e
 com.wkk.tiebahook,百度贴吧NoAds,1.0-5,iphoneos-arm64e
 com.wkk.tie-gesture,TieGesture,1.0.0,iphoneos-arm64e
 com.wkk.tinge,Tinge,1.2.2,iphoneos-arm64e
