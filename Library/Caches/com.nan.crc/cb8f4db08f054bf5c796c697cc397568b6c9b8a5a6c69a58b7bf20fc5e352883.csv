@@ -66,12 +66,14 @@ com.wkk.baiduwangpanhook,百度网盘NoAds,1.0,iphoneos-arm64e
 com.wkk.bdhook,波点音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.bdwkhook,百度文库NoAds,1.0-1,iphoneos-arm64e
 com.wkk.betterccbrightness,BetterCCBrightness,1.0.2,iphoneos-arm64e
+com.wkk.betteruiswitchs,JB按钮,1.1,iphoneos-arm64e
 com.wkk.bhmh,拨号键盘美化,1.0-1,iphoneos-arm64e
 com.wkk.bilibilihook,哔哩哔哩,1.0,iphoneos-arm64e
 com.wkk.bilibiliTweak,哔哩哔哩Tweak,2.0.0,iphoneos-arm64e
 com.wkk.blblhook,哔哩哔哩NoAds,1.0,iphoneos-arm64e
 com.wkk.blurryalerts,BlurryAlerts,1.2.4,iphoneos-arm64e
 com.wkk.boardswipe,BoardSwipe,1.0.0,iphoneos-arm64e
+com.wkk.bookmarkicons,BookmarkIcons,1.0-1,iphoneos-arm64e
 com.wkk.cadhook,CAD看图王NoAds,1.0-1,iphoneos-arm64e
 com.wkk.camerapreview,HideCameraPreview,1.0,iphoneos-arm64e
 com.wkk.canna,Canna,1.0-1,iphoneos-arm64e
@@ -154,6 +156,7 @@ com.wkk.hammerit,Hammer It,1.7.1,iphoneos-arm64e
 com.wkk.HideEdit,HideEdit,1.0,iphoneos-arm64e
 com.wkk.hideiconbadge,HideIconBadge,1.0,iphoneos-arm64e
 com.wkk.hideserialnumber,HideSerialNumber,1.0-4,iphoneos-arm64e
+com.wkk.homehiders,隐藏底部小白条,1.1,iphoneos-arm64e
 com.wkk.horizontalsliders,HorizontalSliders,0.0.1,iphoneos-arm64e
 com.wkk.hphook,虎扑NoAds,1.0-1,iphoneos-arm64e
 com.wkk.huadong,Globaltouchvibration,1.0-1,iphoneos-arm64e
@@ -225,7 +228,7 @@ com.wkk.qsyyhook,汽水音乐NoBottombar,1.0,iphoneos-arm64e
 com.wkk.quickprefs,QuickPrefs,1.3.3-1,iphoneos-arm64e
 com.wkk.ravitation,Gravitation,1.0-1,iphoneos-arm64e
 com.wkk.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
-com.wkk.recordpause,RecordPause,2.0.6,iphoneos-arm64e
+com.wkk.recordpause,RecordPause,2.0.7,iphoneos-arm64e
 com.wkk.removewidgetbg,移除小组件背景,2.0,iphoneos-arm64e
 com.wkk.RestoreFont2,字体一键替换2,1.0-1,iphoneos-arm64e
 com.wkk.roothide,AAAAAA无根转隐根提示残留解决办法,1.0-1,iphoneos-arm64e
