@@ -18,7 +18,7 @@ com.82flex.singlemutes,Single Mute 静音图标,1.7,iphoneos-arm64e
 com.82flex.singlevpn.green,Single VPN Green,1.0,iphoneos-arm64e
 com.82flex.singlevpn.orange,Single VPN Orange,1.0,iphoneos-arm64e
 com.82flex.singlevpns,Single VPN 上色,2.0,iphoneos-arm64e
-com.82flex.wtvrbglaunchers,语音转文字免跳转,1.1,iphoneos-arm64e
+com.82flex.wtvrbglaunchers,语音转文字免跳转,1.2,iphoneos-arm64e
 com.anthopak.appaze3s,Appaze 3 体验版,1.0,iphoneos-arm64e
 com.apibugtexttovoice,微信文字转语音 ApibugTextToVoice,1.0.5,iphoneos-arm64e
 com.autoscroll.jb,AutoScroll 自动滑动,1.0.0,iphoneos-arm64e
@@ -26,7 +26,7 @@ com.bandarhl.bhtwitters,BHTwitter,4.4-1,iphoneos-arm64e
 com.BeanbunsHelpers.DBs,抖音 豆包助手,1.0-4,iphoneos-arm64e
 com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-arm64e
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
-com.choco.tgextras,Telegram TGExtra,1.3,iphoneos-arm64
+com.choco.tgextras,Telegram TGExtra,1.7.1,iphoneos-arm64e
 com.cureux.cc26s,CC26,0.4.9.9b,iphoneos-arm64e
 com.curtin.pkc.rootlesss,PKC 助手,0.8-7,iphoneos-arm64e
 com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
@@ -77,7 +77,7 @@ com.level3tjg.redditfilters,RedditFilter 去广告,1.1.7,iphoneos-arm64e
 com.level3tjg.telegramnoseparatorss,Telegram 删除分隔符,0.0.3,iphoneos-arm64e
 com.level3tjg.twitchadblocks,TwitchAdBlock,0.1.5,iphoneos-arm64e
 com.liuf.jpyj,修改系统键盘圆角,0.0.1,iphoneos-arm64e
-com.lns.pogrs,AirPods PodsGrant,0.5.1,iphoneos-arm64e
+com.lns.pogrs,AirPods PodsGrant,0.5.2,iphoneos-arm64e
 com.lns.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.lxcloud.wcehances,微信增强 WCEhance,2.0-1,iphoneos-arm64e
 com.lxcloud.WCEhances,微信增强 WCEhance,1.0-4,iphoneos-arm64e
@@ -104,6 +104,7 @@ com.netskao.swiftgramcracks,Swiftgram Crack,1.1-7,iphoneos-arm64e
 com.netskao.twitternoadss,Twitter NoAds,1.1-2,iphoneos-arm64e
 com.netskao.wcabtestlocalbackups,微信开启聊天记录本地备份,1.1-1,iphoneos-arm64e
 com.netskao.wcabtestvoicerecordviews,微信开启新语音按钮,1.1-1,iphoneos-arm64e
+com.netskao.wcaddnotiheadimgswitchs,强开微信信息推送显示头像,1.1-2,iphoneos-arm64e
 com.netskao.wcdisablehotupdatess,禁止微信热更新 WCDisableHotUpdates,1.1-2,iphoneos-arm64e
 com.netskao.wcisoverseausers,微信通行密钥 WCIsOverSeaUser,1.1-1,iphoneos-arm64e
 com.netskao.wckeyboardhidelogos,隐藏微信键盘 Logo,1.1-1,iphoneos-arm64e
@@ -146,7 +147,7 @@ com.sutuplus.releasefugu15s,酸果,5.9.9-4-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
-com.tencent.themeboxs,主题盒子,2.2.0,iphoneos-arm64e
+com.tencent.themeboxs,主题盒子,2.2.2,iphoneos-arm64e
 com.tiaotiao.betteruiswitchs,JB 按钮 BetterUISwitch,1.1,iphoneos-arm64e
 com.vita.awemespeedxs,抖音倍数播放 AwemeSpeedX,0.1-1,iphoneos-arm64e
 com.vita.yukis,抖音防撤回 Yuki,0.0-8-1,iphoneos-arm64e
