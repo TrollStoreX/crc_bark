@@ -132,6 +132,7 @@ com.wkk.eneko,Eneko,1.4-5,iphoneos-arm64e
 com.wkk.ersatz,Ersatz,1.0,iphoneos-arm64e
 com.wkk.everest,Everest,1.0.1,iphoneos-arm64e
 com.wkk.ExplosiveIcons,ExplosiveIcons,1.1.1,iphoneos-arm64e
+com.wkk.extractdylib,提取dylib（终端）,1.0-1,iphoneos-arm64e
 com.wkk.fakesignalbar,FakeSignalBar,0.1,iphoneos-arm64e
 com.wkk.fanqiehook,番茄小说NoAds,1.0,iphoneos-arm64e
 com.wkk.fastlock,FastLock,1.0.1,iphoneos-arm64e
