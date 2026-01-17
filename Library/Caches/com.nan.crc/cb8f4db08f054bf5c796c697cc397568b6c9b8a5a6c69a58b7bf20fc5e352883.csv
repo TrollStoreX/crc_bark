@@ -32,7 +32,6 @@ com.opa334.trollstorehelper,TrollStore Helper,2.1,iphoneos-arm64e
 com.picsewpro,PicsewPro,1.0.0,iphoneos-arm64e
 com.pingfan.wechat,虚拟视频,2.2-1,iphoneos-arm64
 com.Purifyads,Purifyads,1.0,iphoneos-arm64e
-com.qimiao.WCRefine,WCRefine,1.2-0,iphoneos-arm64e
 com.qwq.wcautoclaimhb,微信自动领取私聊红包,1.0,iphoneos-arm64e
 com.RestoreFont,字体一键替换,1.0,iphoneos-arm64e
 com.squidforce.snapper3.plugins,Plugins For Snapper3,1.2,iphoneos-arm64e
@@ -282,6 +281,7 @@ com.wkk.WCEhance,微信增强,2.0-1,iphoneos-arm64e
 com.wkk.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64e
 com.wkk.WCPulse,WCPulse,1.3-6,iphoneos-arm64e
 com.wkk.WCPush2Chat,WCPush2Chat,1.0-2,iphoneos-arm64e
+com.wkk.WCRefine,WCRefine,1.2-1,iphoneos-arm64e
 com.wkk.WCSafeMode,WCSafeMode,1.0-1,iphoneos-arm64e
 com.wkk.wctimelinereplacefind,WCTimeLineReplaceFind,1.1-2,iphoneos-arm64e
 com.wkk.wdhook,微店NoAds,1.0-5,iphoneos-arm64e
