@@ -93,7 +93,7 @@ com.wkk.ccswitchdata,CCswitchdata,1.1-4,iphoneos-arm64e
 com.wkk.ccweathermodule,CCWeather Module,1.0.2,iphoneos-arm64e
 com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
 com.wkk.centra,Centra,1.0,iphoneos-arm64e
-com.wkk.ceshi,WeChatEmoticoncolorsocool,1.0,iphoneos-arm64e
+com.wkk.ceshi,WeChat单独防撤回,1.0,iphoneos-arm64e
 com.wkk.coolapp,KBApp,1.5,iphoneos-arm64e
 com.wkk.cornbar,CornBar,1.1.0,iphoneos-arm64e
 com.wkk.cozybadges,CozyBadges,2.1,iphoneos-arm64e
@@ -201,6 +201,7 @@ com.wkk.megahook2,MEGANoAds,1.0,iphoneos-arm64e
 com.wkk.mghook,芒果TVNoAds,1.0,iphoneos-arm64e
 com.wkk.mlxxhook,美丽修行NoAds,1.0-1,iphoneos-arm64e
 com.wkk.mtwmhook,美团外卖NoAds,1.1,iphoneos-arm64e
+com.wkk.mtxxhook,美图秀秀NoAds,1.0-1,iphoneos-arm64e
 com.wkk.myshook,米游社NoAds,1.0-1,iphoneos-arm64e
 com.wkk.native-island,native-island-notifier,1.0.3,iphoneos-arm64e
 com.wkk.networkmanager,NetworkManagerReborn,1.4.3,iphoneos-arm64e
@@ -289,6 +290,7 @@ com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.wechat-pop-vc,WeChatPopVC,0.0.5-end,iphoneos-arm64e
 com.wkk.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.0,iphoneos-arm64e
+com.wkk.weiyunhook,腾讯微云NoAds,1.0-1,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
 com.wkk.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.wkk.wicellswitcher,WiCellSwitcher,1.2,iphoneos-arm64e
