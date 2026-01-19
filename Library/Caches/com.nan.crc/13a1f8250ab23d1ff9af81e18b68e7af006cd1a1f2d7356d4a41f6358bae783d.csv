@@ -3,5 +3,6 @@ com.be-huge.bullet,bullet,1.0.7,iphoneos-arm64
 com.be-huge.custom-notification-sound,CustomWeChatNotificationSound,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture,TieGesture,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture-advance,TieGesture-rootless(收费版),1.1.1,iphoneos-arm64
+com.be-huge.view-controller-animated,ViewControllerAnimated-dismiss,0.0.1-end,iphoneos-arm64
 com.be-huge.wechat-pop-vc,WeChatPopVC-rootless,0.0.5,iphoneos-arm64
 com.be-huge.wechat-push-msg-page,WechatPushMsgPage-rootless,0.0.5,iphoneos-arm64
