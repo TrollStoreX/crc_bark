@@ -181,6 +181,7 @@ com.wkk.kayoko,Kayoko,3.0,iphoneos-arm64e
 com.wkk.kb2hook,系统键盘圆角2,1.0-1,iphoneos-arm64e
 com.wkk.kbhook,系统键盘圆角,1.0-1,iphoneos-arm64e
 com.wkk.kbstyle,KBStyle,1.0,iphoneos-arm64e
+com.wkk.kdjzhook,口袋记账NoAds,1.0-1,iphoneos-arm64e
 com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
@@ -202,6 +203,7 @@ com.wkk.lstyhook,雷速体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.lynxtwo,Lynx 2,2.5.4,iphoneos-arm64e
 com.wkk.magicsms,MagicSMS,0.0.1-9,iphoneos-arm64e
 com.wkk.manager,RootHide Manager,1.3.6,iphoneos-arm64e
+com.wkk.mddhook,埋堆堆NoAds,1.0-1,iphoneos-arm64e
 com.wkk.mediaserverdhook,MediaServerdHook,0.0.1-2+debug,iphoneos-arm64e
 com.wkk.megahook,MEGANoAds,1.0,iphoneos-arm64e
 com.wkk.megahook2,MEGANoAds,1.0,iphoneos-arm64e
