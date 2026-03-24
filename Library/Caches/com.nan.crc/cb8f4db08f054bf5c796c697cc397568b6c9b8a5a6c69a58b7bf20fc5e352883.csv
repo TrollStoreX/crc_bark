@@ -17,12 +17,12 @@ com.curtin.pkc,PKC,0.9-4,iphoneos-arm64e
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.5,iphoneos-arm64e
 com.dvntm.fbo,FilesBrowsingOnly,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
-com.HBWechatHelper.ailun,黄白助手,2.0.5,iphoneos-arm64
+com.HBWechatHelper.ailun,黄白助手,2.0.6,iphoneos-arm64
 com.hidenotificationbadge,HideNotificationBadge,0.0.1,iphoneos-arm64e
 com.huayuarc.lsilllooklater,来通知不亮屏,0.0.1,iphoneos-arm64e
 com.hw.zgnyyh,农业银行NoJB,0.0.1,iphoneos-arm64
 com.lhyee.wcfix,fix图标错位,1.0,iphoneos-arm64
-com.mikotohelper.wechat,Mikoto助手,1.3.6-V8,iphoneos-arm64
+com.mikotohelper.wechat,Mikoto助手,1.3.6-V9,iphoneos-arm64
 com.mrgcgamer.libgcuniversal,LibGcUniversal,1.7.0,iphoneos-arm64e
 com.nan.debd2,debd（自用）,0.1,iphoneos-arm64e
 com.netskao.dumpdecrypter,DumpDecrypter,1.5-1,iphoneos-arm64e
@@ -251,6 +251,7 @@ com.wkk.qichezhijiahook,汽车之家NoAds,1.0,iphoneos-arm64e
 com.wkk.qiehook,企鹅体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.qipao,红包气泡制作终端(自用),4.0,iphoneos-arm64
 com.wkk.qmxshook,七猫小说,1.0,iphoneos-arm64e
+com.wkk.qqantirecall,QQ防撤回,1.0,iphoneos-arm64e
 com.wkk.qqmusicdesktoplyrics,DesktopLyrics,0.3.9~b1,iphoneos-arm64e
 com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
@@ -314,10 +315,11 @@ com.wkk.verxina,Verxina,1.3,iphoneos-arm64e
 com.wkk.volumeflex,VolumeFLEX,1.1,iphoneos-arm64e
 com.wkk.wc3133,8031-8033单独防撤回,1.0-2,iphoneos-arm64e
 com.wkk.wcaddnotiheadimgswitch,WCAddNotiHeadImgSwitch,1.1-2,iphoneos-arm64e
-com.wkk.WCEhance,微信增强,2.0-3,iphoneos-arm64e
+com.wkk.WCEhance,微信增强,2.0-4,iphoneos-arm64e
 com.wkk.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64e
+com.wkk.WCMediaStack,WCMediaStack,1.0.1,iphoneos-arm64e
 com.wkk.wcplugins,微信插件管理,0.1-6,iphoneos-arm64e
-com.wkk.WCPulse,WCPulse,1.5-4,iphoneos-arm64e
+com.wkk.WCPulse,WCPulse,1.5-5,iphoneos-arm64e
 com.wkk.WCPush2Chat,WCPush2Chat,1.0-2,iphoneos-arm64e
 com.wkk.WCRefine,WCRefine,1.3-6,iphoneos-arm64e
 com.wkk.WCSafeMode,WCSafeMode,1.0-1,iphoneos-arm64e
@@ -347,7 +349,7 @@ com.wkk.xcfhook,下厨房NoAds,1.0-1,iphoneos-arm64e
 com.wkk.xchshhook,小蚕惠生活NoAds,1.1,iphoneos-arm64e
 com.wkk.xclxhook,携程旅行NoAds,1.0-3,iphoneos-arm64e
 com.wkk.xgj,小工具集.IPA（TrollStore安装）,1.0-1,iphoneos-arm64e
-com.wkk.xhshook,小红薯,1.1.7,iphoneos-arm64e
+com.wkk.xhshook,小红薯,1.2.0,iphoneos-arm64e
 com.wkk.xianyuhook,闲鱼NoAds,1.1,iphoneos-arm64e
 com.wkk.xjcdhook,小桔充电hook,1.0-1,iphoneos-arm64e
 com.wkk.xlhook,迅雷NoAds,1.0-2,iphoneos-arm64e
