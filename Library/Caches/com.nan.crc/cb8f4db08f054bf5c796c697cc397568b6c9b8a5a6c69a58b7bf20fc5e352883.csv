@@ -13,7 +13,7 @@ com.25mao.msgfilt,消息屏蔽助手,1.0-7,iphoneos-arm64e
 com.25mao.wcpluginss,微信插件管理,0.1-3+,iphoneos-arm64e
 com.be-huge.floating-view,floatingView,1.5.9,iphoneos-arm64e
 com.blbl,哔哩哔哩净化,1.0,iphoneos-arm64e
-com.curtin.pkc,PKC,0.9-4,iphoneos-arm64e
+com.curtin.pkc,PKC,0.9-5,iphoneos-arm64e
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.5,iphoneos-arm64e
 com.dvntm.fbo,FilesBrowsingOnly,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifs,SilentNotifs,0.0.2,iphoneos-arm64e
@@ -229,6 +229,7 @@ com.wkk.nochargingsound,禁用充电声音,1.0-1,iphoneos-arm64e
 com.wkk.noline,PurifyLine,1.0.1,iphoneos-arm64e
 com.wkk.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.wkk.noredirect,禁字决,2.1,iphoneos-arm64e
+com.wkk.nowaveform,NoWaveForm,1.0.2,iphoneos-arm64e
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
 com.wkk.onesettings,OneSettings,2.2,iphoneos-arm64e
@@ -320,7 +321,7 @@ com.wkk.WCEhance,微信增强,2.0-4,iphoneos-arm64e
 com.wkk.wcfrostedglass,SuWCFrostedGlass,1.0.5,iphoneos-arm64e
 com.wkk.WCMediaStack,WCMediaStack,1.0.1,iphoneos-arm64e
 com.wkk.wcplugins,微信插件管理,0.1-6,iphoneos-arm64e
-com.wkk.WCPulse,WCPulse,1.5-5,iphoneos-arm64e
+com.wkk.WCPulse,WCPulse,1.5-7,iphoneos-arm64e
 com.wkk.WCPush2Chat,WCPush2Chat,1.0-2,iphoneos-arm64e
 com.wkk.WCRefine,WCRefine,1.3-8,iphoneos-arm64e
 com.wkk.WCSafeMode,WCSafeMode,1.0-1,iphoneos-arm64e
