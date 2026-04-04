@@ -1,5 +1,6 @@
 Package,Name,Version,Architecture
 app.crack.daniutweak,Daniu大牛 (只支持10.x),1.5.3.6,iphoneos-arm
+cc.dao.lightshield,Lightshield(rootless),1.0.0,iphoneos-arm64
 cn.hk.opennotifier12.cn,OpenNotifier9/10/11/12 简体中文包,2.6.0,iphoneos-arm
 cn.octoforce.copyvault,CopyVault(激活码版),1.9.0,iphoneos-arm64e
 com.0xkuj.safarix,SafariX-New(rootless),1.9.9,iphoneos-arm64

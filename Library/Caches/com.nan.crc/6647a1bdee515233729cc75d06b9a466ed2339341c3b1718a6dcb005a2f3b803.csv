@@ -1,5 +1,6 @@
 Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
+cc.forcequit.lightshields,Lightshield,1.0.0,iphoneos-arm64
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,3.0,iphoneos-arm64e
