@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
-cc.forcequit.lightshields,Lightshield,1.0.0,iphoneos-arm64
+cc.forcequit.lightshields,Lightshield,1.0.0,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,3.0,iphoneos-arm64e
@@ -34,7 +34,7 @@ com.dao.hidenumber.cns,HideSerialNumber 简体中文包,0.0.4,iphoneos-arm64e
 com.dd.ds,DD 微信消息屏蔽,1.0.0,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
 com.den.twigalaxys,TWIGalaxy,1.9,iphoneos-arm64e
-com.dumpapp.wechat-rootlesss,锤子助手,2.3.0,iphoneos-arm64e
+com.dumpapp.wechat-rootlesss,锤子助手,2.4.1,iphoneos-arm64e
 com.dvntm.cc18s,CC18 iOS18 圆角控制中心,0.0.3,iphoneos-arm64e
 com.dvntm.fbos,FilesBrowsingOnly 精简文件 App,0.0.1,iphoneos-arm64e
 com.dvntm.glows,Glow for Facebook,1.3,iphoneos-arm64e
@@ -55,6 +55,7 @@ com.huami.dyenablepanelmodernstyles,强制启用新版抖音长按 UI（现代�
 com.huami.dyyy.vita,抖音 DYYY,2.2-9,iphoneos-arm64e
 com.huami.kugouNoAD,酷狗 NoAd,0.1-1,iphoneos-arm64e
 com.huami.wbnoadss,微博 WBNoAds,1.0.1,iphoneos-arm64e
+com.huami.wcccs,WCCC 微信热更新管理,1.0-6,iphoneos-arm64e
 com.huami.wcnicknameavatarstyles,微信顶栏元素 WCNicknameAvatarStyle,2.2,iphoneos-arm64e
 com.huami.wcpluginsorders,微信插件管理排序 WCPluginsOrder,1.0-2,iphoneos-arm64e
 com.huami.wcpulses,微信 WCPulse,1.5-8,iphoneos-arm64e
