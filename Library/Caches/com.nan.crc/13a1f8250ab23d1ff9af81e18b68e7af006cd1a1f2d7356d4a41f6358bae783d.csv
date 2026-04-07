@@ -7,3 +7,4 @@ com.be-huge.tie-gesture-advance,TieGesture-rootless(手势-收费版)-roothide,1
 com.be-huge.view-controller-animated,ViewControllerAnimated-dismiss,0.0.1-end,iphoneos-arm64
 com.be-huge.wechat-pop-vc,WeChatPopVC-rootless,0.0.5,iphoneos-arm64
 com.be-huge.wechat-push-msg-page,WechatPushMsgPage-rootless,0.0.5,iphoneos-arm64
+com.roothide.lockdown,lockdown(rootless),1.0.3,iphoneos-arm64
