@@ -232,6 +232,7 @@ com.wkk.nochargingsound,禁用充电声音,1.0-1,iphoneos-arm64e
 com.wkk.noline,PurifyLine,1.0.1,iphoneos-arm64e
 com.wkk.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.wkk.noredirect,禁字决,2.1,iphoneos-arm64e
+com.wkk.noticehook,通知透明度,1.0-7,iphoneos-arm64e
 com.wkk.nowaveform,NoWaveForm,1.0.2,iphoneos-arm64e
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
