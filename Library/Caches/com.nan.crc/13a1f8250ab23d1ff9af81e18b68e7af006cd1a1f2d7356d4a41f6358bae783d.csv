@@ -1,6 +1,7 @@
 Package,Name,Version,Architecture
 com.be-huge.bullet,bullet(弹幕通知)-roothide,1.0.7,iphoneos-arm64e
 com.be-huge.custom-notification-sound,CustomWeChatNotificationSound,1.0.0,iphoneos-arm64
+com.be-huge.igg-no-ad,igg-no-ad,0.0.1,iphoneos-arm64
 com.be-huge.insulation,insulation(解除温控)-roothide,0.0.3,iphoneos-arm64e
 com.be-huge.tie-gesture,TieGesture,1.0.0,iphoneos-arm64
 com.be-huge.tie-gesture-advance,TieGesture-rootless(手势-收费版)-roothide,1.1.1,iphoneos-arm64e
