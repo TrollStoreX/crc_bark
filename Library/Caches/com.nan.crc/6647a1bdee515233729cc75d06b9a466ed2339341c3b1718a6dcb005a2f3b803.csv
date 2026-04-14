@@ -44,6 +44,7 @@ com.dvntm.oledkeyboards,OledKeyboard 深色纯黑键盘,0.0.3,iphoneos-arm64e
 com.dvntm.safariiis,Safariii,0.0.1,iphoneos-arm64e
 com.dvntm.silentnotifss,SilentNotifs,0.0.2,iphoneos-arm64e
 com.dvntm.ytlites,YTLite YouTube 增强,5.2b4,iphoneos-arm64e
+com.dylv.liquidass,Liquidass iOS26 玻璃特效,6.alpha,iphoneos-arm64e
 com.eevee.spotifys,EeveeSpotify,6.1.4,iphoneos-arm64e
 com.exile90.icleanerpros,iCleaner Pro,7.10.0,iphoneos-arm64e
 com.ginsu.ytmusicultimates,YTMusicUltimate (Lessica Fork),2.3.1-1,iphoneos-arm64e
@@ -81,7 +82,7 @@ com.level3tjg.redditfilters,RedditFilter 去广告,1.1.7,iphoneos-arm64e
 com.level3tjg.telegramnoseparatorss,Telegram 删除分隔符,0.0.3,iphoneos-arm64e
 com.level3tjg.twitchadblocks,TwitchAdBlock,0.1.5,iphoneos-arm64e
 com.liuf.jpyj,修改系统键盘圆角,0.0.1,iphoneos-arm64e
-com.lns.pogrs,AirPods PodsGrant,0.5.2,iphoneos-arm64e
+com.lns.pogrs,AirPods PodsGrant,0.5.3,iphoneos-arm64e
 com.lns.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.lxcloud.wcehances,微信增强 WCEhance,2.0-4,iphoneos-arm64e
 com.mikifp.griddys,Griddy 图标随意摆,1.0.5,iphoneos-arm64e
