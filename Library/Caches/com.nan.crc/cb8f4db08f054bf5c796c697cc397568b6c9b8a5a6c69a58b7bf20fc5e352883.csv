@@ -43,6 +43,7 @@ com.thermal.hook,IOSThermal,1.0,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
+com.wkk.26kbhook,仿iOS26键盘圆角,1.0-1,iphoneos-arm64e
 com.wkk.3dfasthook,提升3DTouch唤醒速度,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaa,AAAAAA插件配置说明（必看）,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaaa22233,AAAAAA去广告插件公告,1.1-1,iphoneos-arm64e
