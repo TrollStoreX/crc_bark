@@ -95,7 +95,7 @@ com.ps.nottodayhomescreensidebar,NotTodayHomeScreenSideBar,1.0.0,iphoneos-arm
 com.ps.noytmpremium,NoYTMPremium,1.0.1,iphoneos-arm
 com.ps.noytpremium,NoYTPremium,1.0.7,iphoneos-arm64
 com.ps.oneuiefm,Samsung One UI 9.0 Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
-com.ps.openmojiefm,OpenMoji Unicode 16.0 (EFM),16.0.1,iphoneos-arm64
+com.ps.openmojiefm,OpenMoji Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.padgrid,PadGrid,1.2.0,iphoneos-arm64
 com.ps.pearltracking,PearlTracking,0.0.1,iphoneos-arm64
 com.ps.pencilpro,Pencil Pro,1.0.0,iphoneos-arm64
@@ -135,7 +135,7 @@ com.ps.uyoucompat,uYouCompat,1.0.2,iphoneos-arm
 com.ps.voiceoverflipswitch,VoiceOver Flipswitch,1.0.0,iphoneos-arm
 com.ps.watchinstallfix,WatchInstallFix,1.0.1,iphoneos-arm64
 com.ps.whatsallemojis,WhatsAllEmojis,1.0.0,iphoneos-arm64
-com.ps.whatsappefm,WhatsApp Emoji Unicode 16.0 (EFM),16.0.0,iphoneos-arm64
+com.ps.whatsappefm,WhatsApp Emoji Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.youarethere,YouAreThere,1.0.1,iphoneos-arm
 com.ps.youchoosequality,YouChooseQuality,1.0.9,iphoneos-arm64
 com.ps.yougetcaption,YouGetCaption,1.0.1,iphoneos-arm64
