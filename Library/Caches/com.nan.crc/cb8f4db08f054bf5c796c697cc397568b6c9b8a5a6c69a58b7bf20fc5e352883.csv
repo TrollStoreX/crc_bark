@@ -44,7 +44,7 @@ com.thermal.hook,IOSThermal,1.0,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
-com.wkk.3dfasthook,提升3DTouch唤醒速度,1.0-1,iphoneos-arm64e
+com.wkk.3dddhook,提升3dtouch唤醒速度,1.0-5,iphoneos-arm64e
 com.wkk.aaaaaaaaaa,AAAAAA插件配置说明（必看）,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaaa22233,AAAAAA去广告插件公告,1.1-2,iphoneos-arm64e
 com.wkk.actionbarreborn,APP内键盘底部扩展（TrollFools注入）,1.0-1,iphoneos-arm64e
@@ -60,6 +60,7 @@ com.wkk.appdata.iosdump,AppData,1.9.4,iphoneos-arm64e
 com.wkk.AppIndex,AppIndex,1.0,iphoneos-arm64e
 com.wkk.apppad,AppPad,1.1.3,iphoneos-arm64e
 com.wkk.AppStore,App Store美化,1.0-2,iphoneos-arm64e
+com.wkk.apthook,加速App拖拽,1.0-1,iphoneos-arm64e
 com.wkk.aqyhook,爱奇艺NoAds,1.0,iphoneos-arm64e
 com.wkk.arizona,Arizona,0.9.2,iphoneos-arm64e
 com.wkk.artworkspinner,ArtworkSpinner,1.6,iphoneos-arm64e
@@ -335,6 +336,7 @@ com.wkk.WCPush2Chat,WCPush2Chat,1.0-2,iphoneos-arm64e
 com.wkk.WCRefine,WCRefine,1.4-2,iphoneos-arm64e
 com.wkk.WCSafeMode,WCSafeMode,1.0-1,iphoneos-arm64e
 com.wkk.wctimelinereplacefind,WCTimeLineReplaceFind,1.1-2,iphoneos-arm64e
+com.wkk.wcvoice,WCVoice,1.0.0,iphoneos-arm64e
 com.wkk.wcyyhook,禁用语音转述,1.0-1,iphoneos-arm64e
 com.wkk.wdhook,微店NoAds,1.0-5,iphoneos-arm64e
 com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
