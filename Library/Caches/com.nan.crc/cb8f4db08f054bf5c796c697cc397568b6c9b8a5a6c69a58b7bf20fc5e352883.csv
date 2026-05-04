@@ -12,6 +12,7 @@ com.0xkuj.safarix,SafariX,1.9.9.1,iphoneos-arm64e
 com.25mao.miyou.rootless,微信助手,3.9-5,iphoneos-arm64e
 com.25mao.msgfilt,消息屏蔽助手,1.0-7,iphoneos-arm64e
 com.25mao.wcpluginss,微信插件管理,0.1-3+,iphoneos-arm64e
+com.anthopak.appaze3,Appaze 3,1.0.1,iphoneos-arm64e
 com.be-huge.floating-view,floatingView,1.6.0,iphoneos-arm64e
 com.blbl,哔哩哔哩净化,1.0,iphoneos-arm64e
 com.creaturecoding.libcspreferences,libCSPreferences,1.5.8,iphoneos-arm64e
@@ -44,7 +45,7 @@ com.thermal.hook,IOSThermal,1.0,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
-com.wkk.3dddhook,提升3dtouch唤醒速度,1.0-5,iphoneos-arm64e
+com.wkk.3dssss,3dtouch呼出加速,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaa,AAAAAA插件配置说明（必看）,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaaa22233,AAAAAA付费群公告,1.2-2,iphoneos-arm64e
 com.wkk.actionbarreborn,APP内键盘底部扩展（TrollFools注入）,1.0-1,iphoneos-arm64e
@@ -166,6 +167,7 @@ com.wkk.fuckicon,HideIconName,1.0-1,iphoneos-arm64e
 com.wkk.fuckltads,中国联通NoAds,1.0,iphoneos-arm64e
 com.wkk.fuckydads,中国移动NoAds,1.0,iphoneos-arm64e
 com.wkk.fucmkrxkfads,瑞幸咖啡NoAds,1.4-1,iphoneos-arm64e
+com.wkk.fyssss,滑动到负一屏触发锁屏,1.0-1,iphoneos-arm64e
 com.wkk.gaodehook,高德地图NoAds,1.1-3,iphoneos-arm64e
 com.wkk.gdhook,咕咚NoAds,1.0-1,iphoneos-arm64e
 com.wkk.gif,灵动岛GIF背景,1.0,iphoneos-arm64
@@ -202,7 +204,7 @@ com.wkk.kbstyle,KBStyle,1.0,iphoneos-arm64e
 com.wkk.kdjzhook,口袋记账NoAds,1.0-1,iphoneos-arm64e
 com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.Keyboardplus,键盘增强（TrollFools注入）,1.1-7,iphoneos-arm64e
-com.wkk.keyround,AAAAA全输入法圆角,1.0-1,iphoneos-arm64e
+com.wkk.keyround,全输入法圆角,1.0-2,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
 com.wkk.kuanhook,酷安NoAds,1.0,iphoneos-arm64e
@@ -243,7 +245,6 @@ com.wkk.nochargingsound,禁用充电声音,1.0-1,iphoneos-arm64e
 com.wkk.noline,PurifyLine,1.0.1,iphoneos-arm64e
 com.wkk.nopreferencetips,NoPreferencesTips,1.0.4,iphoneos-arm64e
 com.wkk.noredirect,禁字决,2.1,iphoneos-arm64e
-com.wkk.noticehook,通知透明度,1.0-7,iphoneos-arm64e
 com.wkk.nowaveform,NoWaveForm,1.0.2,iphoneos-arm64e
 com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
@@ -287,6 +288,7 @@ com.wkk.rose,Rose 🌹,1.1.0,iphoneos-arm64e
 com.wkk.satella,Satella,1.9.0-1,iphoneos-arm64e
 com.wkk.sbapplication,禁用通知中心下拉手势,1.0,iphoneos-arm64e
 com.wkk.sbiconhook,SpringboardFly,1.0-1,iphoneos-arm64e
+com.wkk.sbsssss,重启springboard动画重制,1.0-1,iphoneos-arm64e
 com.wkk.sdk16.5,iPhoneOS16.5.sdk,1.0,iphoneos-arm64e
 com.wkk.settingsrevamp,SettingsRevamp,2.1.1,iphoneos-arm64e
 com.wkk.settingswidgets,SettingsWidgets,1.2.2,iphoneos-arm64e
@@ -294,12 +296,14 @@ com.wkk.showmytouches,ShowMyTouches,1.2.1,iphoneos-arm64e
 com.wkk.shuffle,Shuffle,1.6.2,iphoneos-arm64e
 com.wkk.shunfhook,顺丰速运NoAds,1.0-1,iphoneos-arm64e
 com.wkk.sileomh,Sileo美化,1.0-1,iphoneos-arm64e
+com.wkk.sjssss,锁屏通知时间下移,1.0-1,iphoneos-arm64e
 com.wkk.smartnetwork,SmartNetwork iOS 15-16,1.1,iphoneos-arm64e
 com.wkk.smoothcursorios13,SmoothCursor(Rootless),0.0.1,iphoneos-arm64e
 com.wkk.snapper31,Snapper3美化,1.1-1,iphoneos-arm64e
 com.wkk.snapper32,Snapper3美化,1.0-1,iphoneos-arm64e
 com.wkk.snapper33,Snapper3美化,1.0-1,iphoneos-arm64e
 com.wkk.split-view-pro,split-view-pro,1.4.0,iphoneos-arm64e
+com.wkk.sppp,锁屏/通知中心界面圆角,1.0-1,iphoneos-arm64e
 com.wkk.springboardanimation,神奇的交互动画,1.0-1,iphoneos-arm64e
 com.wkk.SquidExtender,SquidExtender配置,1.0-7,iphoneos-arm64e
 com.wkk.ssschook,禁用截图预览,1.0-3,iphoneos-arm64e
@@ -331,11 +335,13 @@ com.wkk.txdthook,腾讯地图NoAds,1.0-1,iphoneos-arm64e
 com.wkk.txsphook,腾讯视频NoAds,1.2-1,iphoneos-arm64e
 com.wkk.txtyhook,腾讯体育NoAds,1.0-1,iphoneos-arm64e
 com.wkk.tzgjhook,腾讯手机管家NoAds,1.0-1,iphoneos-arm64e
+com.wkk.tzzzssss,通知横幅透明,1.0-1,iphoneos-arm64e
 com.wkk.uitchook,Beautifulwindow,1.0-2,iphoneos-arm64e
 com.wkk.upsidedowned,Upsidedowned,1.1-4,iphoneos-arm64e
 com.wkk.verxina,Verxina,1.3,iphoneos-arm64e
 com.wkk.volumeflex,VolumeFLEX,1.1,iphoneos-arm64e
 com.wkk.vpnfhook,禁用vpn显示,1.0-1,iphoneos-arm64e
+com.wkk.wbsssss,文本替换,1.0-1,iphoneos-arm64e
 com.wkk.wc3133,8031-8033单独防撤回,1.0-2,iphoneos-arm64e
 com.wkk.wcaddnotiheadimgswitch,WCAddNotiHeadImgSwitch,1.1-2,iphoneos-arm64e
 com.wkk.WCCC,WCCC,1.0-8,iphoneos-arm64e
@@ -360,6 +366,7 @@ com.wkk.weiyunhook,腾讯微云NoAds,1.0-1,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
 com.wkk.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.wkk.wicellswitcher,WiCellSwitcher,1.2,iphoneos-arm64e
+com.wkk.wpsss,微信工具栏五排自定义,1.0-1,iphoneos-arm64e
 com.wkk.wtvrbglauncher,语音转文字免跳转,1.2,iphoneos-arm64e
 com.wkk.wxkbhook,微信输入法圆角/隐藏logo,1.0-1,iphoneos-arm64e
 com.wkk.wxkeyhook,微信输入法圆角,1.0-1,iphoneos-arm64e
@@ -394,8 +401,10 @@ com.wkk.ykxchook,一刻相册NoAds,1.0-4,iphoneos-arm64e
 com.wkk.yskbhook,原生键盘放大,1.0-1,iphoneos-arm64e
 com.wkk.ysxwhook,央视新闻NoAds,1.0,iphoneos-arm64e
 com.wkk.ysyhook,萤石云视频NoAds,1.0-1,iphoneos-arm64e
+com.wkk.yxssss,隐藏原生键盘键帽内容详情,1.0-1,iphoneos-arm64e
 com.wkk.zaire,Zaire,0.9.0,iphoneos-arm64e
 com.wkk.zdmhook,什么值得买NoAds,1.0,iphoneos-arm64e
+com.wkk.zdxssss,禁用锁屏折叠 X,1.0-1,iphoneos-arm64e
 com.wkk.zeppelinreborn,Zeppelin Reborn,1.4.2,iphoneos-arm64e
 com.wkk.zetsu,Zetsu,1.5,iphoneos-arm64e
 com.wkk.zgdxhook,中国电信NoAds,1.0,iphoneos-arm64e
