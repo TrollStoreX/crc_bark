@@ -47,7 +47,7 @@ com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
 com.wkk.12306hook,铁路12306NoAds,1.0,iphoneos-arm64e
 com.wkk.3dssss,3dtouch呼出加速,1.0-1,iphoneos-arm64e
 com.wkk.aaaaaaaaaa,AAAAAA插件配置说明（必看）,1.0-1,iphoneos-arm64e
-com.wkk.aaaaaaaaaaa22233,AAA付费群公告,1.2-3,iphoneos-arm64e
+com.wkk.aaaaaaaaaaa22233,AAA付费群公告,1.2-7,iphoneos-arm64e
 com.wkk.actionbarreborn,APP内键盘底部扩展（TrollFools注入）,1.0-1,iphoneos-arm64e
 com.wkk.actionpro,ActionPro,1.3.2,iphoneos-arm64e
 com.wkk.adsspee,VideoAdsSpeed,1.1.3,iphoneos-arm64e
@@ -129,7 +129,7 @@ com.wkk.disablebottombarlrswipe,DisableBottomBarLRSwipe,1.1-2,iphoneos-arm64e
 com.wkk.dkkjhook,动卡空间NoAds,1.0,iphoneos-arm64e
 com.wkk.dmhook,大麦NoAds,1.0,iphoneos-arm64e
 com.wkk.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
-com.wkk.dockasss,Dock栏倒影（超清、高斯模糊）,1.0-2,iphoneos-arm64e
+com.wkk.dockasss,Dock栏倒影（超清、高斯模糊）,1.0-4,iphoneos-arm64e
 com.wkk.doodle,Doodle,1.2,iphoneos-arm64e
 com.wkk.doubletapflipcamera,DoubleTapFlipCamera,1.1,iphoneos-arm64e
 com.wkk.doutu,斗图助手,3.1-8,iphoneos-arm64e
@@ -210,7 +210,7 @@ com.wkk.kbstyle,KBStyle,1.0,iphoneos-arm64e
 com.wkk.kdjzhook,口袋记账NoAds,1.0-1,iphoneos-arm64e
 com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.Keyboardplus,键盘增强（TrollFools注入）,1.1-7,iphoneos-arm64e
-com.wkk.keyround,全输入法圆角,1.0-2,iphoneos-arm64e
+com.wkk.keyround,全输入法圆角,1.0-7,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
 com.wkk.kuanhook,酷安NoAds,1.0,iphoneos-arm64e
@@ -346,7 +346,7 @@ com.wkk.upsidedowned,Upsidedowned,1.1-4,iphoneos-arm64e
 com.wkk.verxina,Verxina,1.3,iphoneos-arm64e
 com.wkk.volumeflex,VolumeFLEX,1.1,iphoneos-arm64e
 com.wkk.vpnfhook,禁用vpn显示,1.0-1,iphoneos-arm64e
-com.wkk.wbsssss,文本替换,1.0-8,iphoneos-arm64e
+com.wkk.wbsssss,文本替换,1.0-9,iphoneos-arm64e
 com.wkk.wbsssss999,禁止打开,1.0-1,iphoneos-arm64e
 com.wkk.wbsssss99999,加锁文件夹4x4,1.0-1,iphoneos-arm64e
 com.wkk.wc3133,8031-8033单独防撤回,1.0-2,iphoneos-arm64e
@@ -366,10 +366,11 @@ com.wkk.wcvoice,WCVoice,1.0.3-2,iphoneos-arm64e
 com.wkk.wcyyhook,禁用语音转述,1.0-1,iphoneos-arm64e
 com.wkk.wdhook,微店NoAds,1.0-5,iphoneos-arm64e
 com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
-com.wkk.WeChatdock,微信悬浮底栏,1.0-8,iphoneos-arm64e
+com.wkk.WeChatdock,微信悬浮底栏,1.2-8end,iphoneos-arm64e
 com.wkk.wechat-pop-vc,WeChatPopVC,0.0.5-end,iphoneos-arm64e
 com.wkk.WeChattextcolor,微信气泡文字改色,1.0-9,iphoneos-arm64e
 com.wkk.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64e
+com.wkk.WeChatX,WeChatX,1.1-1,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.2-1,iphoneos-arm64e
 com.wkk.weiyunhook,腾讯微云NoAds,1.0-1,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
