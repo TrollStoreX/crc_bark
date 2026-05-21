@@ -10,7 +10,7 @@ com.alucard.alderis.cn,AlderisColorPicker 简体中文包,1.1.2-1,iphoneos-arm
 com.alucard.delta.cn,Delta 简体中文包,1.3-2,iphoneos-arm
 com.alucard.loupe.cn,Loupe 简体中文包,1.1.0-1,iphoneos-arm
 com.alucard.newterm.cn,NewTerm 2 简体中文包,1.0-2,iphoneos-arm
-com.alucard.wifiqr.cn,WiFiQR & HotspotQR 简体中文包(rootless),1.1-1,iphoneos-arm64
+com.alucard.wifiqr.cn, WiFiQR & HotspotQR 简体中文包(rootless),1.1-1,iphoneos-arm64
 com.anvem.top.nappytime14.cn,NappyTime14 简体中文包,1.1.2,iphoneos-arm
 com.anvem.top.prokeys.cn,ProKeys 简体中文包,1.0,iphoneos-arm
 com.apper.wf,威锋去广告,1.0.0,iphoneos-arm
@@ -354,8 +354,8 @@ com.hk.ashieldlocalizer,A-Shields 简体中文包,0.0.1,iphoneos-arm
 com.hk.assistability12.cn,Assistability12 简体中文包,0.0.1-1,iphoneos-arm
 com.hk.assistability13.cn,Assistability13 简体中文包,0.0.1-1,iphoneos-arm
 com.hk.atlas.cn,Atlas 简体中文包,1.0.4,iphoneos-arm
-com.hk.atria.cn,Atria 简体中文包,1.4.1,iphoneos-arm
-com.hk.atria.cn.rl,Atria 简体中文包(RootHide),1.4.1,iphoneos-arm64e
+com.hk.atria.cn, Atria 简体中文包,1.4.1,iphoneos-arm
+com.hk.atria.cn.rl, Atria 简体中文包(RootHide),1.4.1,iphoneos-arm64e
 com.hk.audio.6s120,提升音质(6S-12.0),1.0,iphoneos-arm
 com.hk.audio.6s1241,提升音质(6S-12.4.1),1.0,iphoneos-arm
 com.hk.audio.6sp120,提升音质(6SP-12.0),1.0,iphoneos-arm
@@ -398,7 +398,7 @@ com.hk.badgomizer.cn,Badgomizer 简体中文包,1.6.11,iphoneos-arm
 com.hk.bakgrunnur.cn,Bakgrunnur 简体中文包,1.7.3-1,iphoneos-arm
 com.hk.ball.bannersouns12.cn,Banner Sounds 12 简体中文包,1.0.0~beta2-1,iphoneos-arm
 com.hk.ball.betterccIconspro.cn,BetterCCIcons Pro 简体中文包,1.6.1,iphoneos-arm
-com.hk.ball.calllogpro.cn,CallLogPro(iOS 11/10/8) 简体中文包,10.2.1-beta-5,iphoneos-arm
+com.hk.ball.calllogpro.cn, CallLogPro(iOS 11/10/8) 简体中文包,10.2.1-beta-5,iphoneos-arm
 com.hk.ball.crashreporter,CrashReporter [崩溃日记],1.1.6.0-1,iphoneos-arm
 com.hk.ball.discreetifyxi.cn,DiscreetifyXI 简体中文包,1.0,iphoneos-arm
 com.hk.ball.features.cn,Store Features 简体中文包,1.0,iphoneos-arm
