@@ -40,7 +40,7 @@ com.RestoreFont,字体一键替换,1.0,iphoneos-arm64e
 com.squidforce.snapper3.plugins,Plugins For Snapper3,1.2,iphoneos-arm64e
 com.starry6.lunanoad,汽水音乐NoAds,1.1,iphoneos-arm64e
 com.susu.snapper3.picta,Picta,1.0,iphoneos-arm64
-com.tencent.themebox,主题盒子,2.3.3,iphoneos-arm64e
+com.tencent.themebox,主题盒子,2.3.4,iphoneos-arm64e
 com.thermal.hook,IOSThermal,1.0,iphoneos-arm64e
 com.wechat-push-msg-page,微信消息直达,0.0.5,iphoneos-arm64e
 com.wkk.-1,清理deb后缀(自用),1.0,iphoneos-arm64e
@@ -142,6 +142,7 @@ com.wkk.dy,dyyy养老个人配置(自用),1.2,iphoneos-arm64e
 com.wkk.dylibbatch,一键提取dylib(自用),1.0,iphoneos-arm64e
 com.wkk.dynamicislandanimation,灵动岛跳舞动画PLUS,1.1.8,iphoneos-arm64e
 com.wkk.dynamicislandsucai,灵动岛跳舞动画素材,1.0-1,iphoneos-arm64e
+com.wkk.dynamicnotland,DynamicNotLand,1.2.4,iphoneos-arm64e
 com.wkk.dzdphook,大众点评NoAds,1.1,iphoneos-arm64e
 com.wkk.editpre,隐藏插件,0.0.1,iphoneos-arm64e
 com.wkk.eneko,Eneko,1.4-5,iphoneos-arm64e
