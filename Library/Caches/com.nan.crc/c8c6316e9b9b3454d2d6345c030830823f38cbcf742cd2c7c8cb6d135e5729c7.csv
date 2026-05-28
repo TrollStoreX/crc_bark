@@ -2,7 +2,7 @@ Package,Name,Version,Architecture
 bindfs-tools,bindfs-tools,1.0,iphoneos-arm64
 com.nathan.360spammer,360Spammer,1.0.3,iphoneos-arm64
 com.nathan.batterycli,BatteryCLI,1.0,iphoneos-arm64
-com.nathan.blockscreenshotnotification,BlockScreenshotNotification,1.0.1,iphoneos-arm64
+com.nathan.blockscreenshotnotification,BlockScreenshotNotification,1.0.2,iphoneos-arm64
 com.nathan.bubblecolor,BubbleColor,1.0.3,iphoneos-arm64
 com.nathan.dobbyshim,DobbyShim,1.0.3,iphoneos-arm64
 com.nathan.dynamichiderecordland,DynamicHideRecordLand,1.0,iphoneos-arm64
