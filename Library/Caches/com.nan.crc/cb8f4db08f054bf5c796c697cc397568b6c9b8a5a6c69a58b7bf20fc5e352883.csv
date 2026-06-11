@@ -54,6 +54,7 @@ com.wkk.actionpro,ActionPro,1.3.2,iphoneos-arm64e
 com.wkk.adsspee,VideoAdsSpeed,1.1.3,iphoneos-arm64e
 com.wkk.aemulo,Aemulo NFC模拟,1.2.5,iphoneos-arm64e
 com.wkk.afakerxi,AFakerXI,1.0.3,iphoneos-arm64e
+com.wkk.airdrop,AirDrop,0.0.1,iphoneos-arm64e
 com.wkk.akara,Akara,2.0.2,iphoneos-arm64e
 com.wkk.alpine,Alpine,1.4,iphoneos-arm64e
 com.wkk.alwaysdark,AlwaysDark,1.2.3,iphoneos-arm64e
@@ -131,7 +132,7 @@ com.wkk.disablebottombarlrswipe,DisableBottomBarLRSwipe,1.1-2,iphoneos-arm64e
 com.wkk.dkkjhook,动卡空间NoAds,1.0,iphoneos-arm64e
 com.wkk.dmhook,大麦NoAds,1.0,iphoneos-arm64e
 com.wkk.dndmyrecording,DNDMyRecording,1.3,iphoneos-arm64e
-com.wkk.dockasss,Dock栏倒影（超清、高斯模糊）,1.0-7,iphoneos-arm64e
+com.wkk.dockasss,Dock栏倒影（超清、高斯模糊）,1.0-9,iphoneos-arm64e
 com.wkk.doodle,Doodle,1.2,iphoneos-arm64e
 com.wkk.doubletapflipcamera,DoubleTapFlipCamera,1.1,iphoneos-arm64e
 com.wkk.doutu,斗图助手,3.1-8,iphoneos-arm64e
@@ -214,7 +215,7 @@ com.wkk.kbstyle,KBStyle,1.0,iphoneos-arm64e
 com.wkk.kdjzhook,口袋记账NoAds,1.0-1,iphoneos-arm64e
 com.wkk.keyboardhook,KeyboardHook,2.1-3,iphoneos-arm64e
 com.wkk.Keyboardplus,键盘增强（TrollFools注入）,1.1-7,iphoneos-arm64e
-com.wkk.keyroundxxxx,微信/原生键盘调整,1.0-2,iphoneos-arm64e
+com.wkk.keyroundxxxx,微信/原生键盘调整,1.0-7,iphoneos-arm64e
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
 com.wkk.kuanhook,酷安NoAds,1.0,iphoneos-arm64e
@@ -230,6 +231,7 @@ com.wkk.lockeddnd,Locked DND,1.0,iphoneos-arm64e
 com.wkk.lockmusic,HideLockMusic,1.0,iphoneos-arm64e
 com.wkk.lookinloader,LookinLoader,1.2.8-2,iphoneos-arm64e
 com.wkk.looky,Looky,1.2,iphoneos-arm64e
+com.wkk.lqgssss,全局液态开关,1.0-2,iphoneos-arm64e
 com.wkk.lrtshook,懒人听书NoAds,1.0-1,iphoneos-arm64e
 com.wkk.lstimeseconds16,LSTimeSeconds,1.0-1,iphoneos-arm64e
 com.wkk.lstyhook,雷速体育NoAds,1.0-1,iphoneos-arm64e
