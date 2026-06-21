@@ -210,7 +210,7 @@ com.wkk.insulation,insulation,0.1.31,iphoneos-arm64e
 com.wkk.ios26kbhook,仿IOS26键盘圆角,1.0-2,iphoneos-arm64e
 com.wkk.iwanttranslucent,3Dtouch透明,0.0.1,iphoneos-arm64e
 com.wkk.jdhook,煎蛋NoAds,1.0,iphoneos-arm64e
-com.wkk.jumpselect,JumpSelect,0.0.4,iphoneos-arm64e
+com.wkk.jumpselect,JumpSelect,1.0.0,iphoneos-arm64e
 com.wkk.kaiguan,滑雪板开关集合,1.0-1,iphoneos-arm64e
 com.wkk.kayoko,Kayoko,3.0,iphoneos-arm64e
 com.wkk.kb2hook,系统键盘圆角2,1.0-1,iphoneos-arm64e
@@ -386,7 +386,7 @@ com.wkk.WeChatdock,微信悬浮底栏,1.2-8end,iphoneos-arm64e
 com.wkk.wechat-pop-vc,WeChatPopVC,0.0.5-end,iphoneos-arm64e
 com.wkk.WeChattextcolor,微信气泡文字改色,1.0-9,iphoneos-arm64e
 com.wkk.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64e
-com.wkk.wechatx,WeChatX,1.6-7,iphoneos-arm64e
+com.wkk.wechatx,WeChatX,1.6-8,iphoneos-arm64e
 com.wkk.weibohook,微博NoAds,1.2-1,iphoneos-arm64e
 com.wkk.weiyunhook,腾讯微云NoAds,1.0-1,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
