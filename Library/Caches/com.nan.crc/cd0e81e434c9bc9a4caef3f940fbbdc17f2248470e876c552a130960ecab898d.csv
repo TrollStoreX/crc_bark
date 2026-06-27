@@ -44,7 +44,7 @@ com.ps.emojifontefm,AppleColorEmoji Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.emojifontflipefm,AppleColorEmoji Unicode 17.0 HD Flip (EFM),17.0.0,iphoneos-arm64
 com.ps.emojifonthdefm,AppleColorEmoji Unicode 17.0 HD (EFM),17.0.0,iphoneos-arm64
 com.ps.emojifontlqefm,AppleColorEmoji Low Quality (EFM),17.0.0,iphoneos-arm64
-com.ps.emojifontmanager,EmojiFontManager,1.3.8,iphoneos-arm64
+com.ps.emojifontmanager,EmojiFontManager,1.3.9,iphoneos-arm64
 com.ps.emojifontpxefm,AppleColorEmoji Pixellated (EFM),17.0.0,iphoneos-arm64
 com.ps.emojilayout,EmojiLayout,1.2.0,iphoneos-arm
 com.ps.emojilibrary,EmojiLibrary,1.8.0~b7,iphoneos-arm64
@@ -54,7 +54,7 @@ com.ps.emojiport10resources-assets16,EmojiPort Resources — iOS 16 Assets,1.9.0
 com.ps.emojiport10resources-assets17,EmojiPort Resources — iOS 17+ Assets,1.9.0,iphoneos-arm64
 com.ps.emojiportalpha,EmojiPort (iOS 5.1),1.0.12,iphoneos-arm
 com.ps.emojiportlegacy,EmojiPort (iOS 6.0-8.2),1.8.9,iphoneos-arm
-com.ps.emojiportpe,EmojiPort (iOS 12.0-26.3),1.8.0,iphoneos-arm64
+com.ps.emojiportpe,EmojiPort (iOS 12.0-26.3),1.8.1,iphoneos-arm64
 com.ps.emojiportps,EmojiPort (iOS 8.3-9.3),1.7.1,iphoneos-arm
 com.ps.emojiportwt,EmojiPort (iOS 10.0-11.4),1.4.2,iphoneos-arm
 com.ps.emojiresources,EmojiResources,1.2.3,iphoneos-arm
