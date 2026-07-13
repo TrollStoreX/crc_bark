@@ -11,7 +11,7 @@ ch.xxtou.xxtouch,XXTouch Elite,5.4.5,iphoneos-arm64
 com.23aaron.zeze,ZEZE,1.9.1,iphoneos-arm64
 com.3h6-1.imread,IMRead,1.2,iphoneos-arm64
 com.82flex.iconrestore,Icon Restore,1.7,iphoneos-arm64
-com.82flex.kayoko,Kayoko,4.2,iphoneos-arm64
+com.82flex.kayoko,Kayoko,4.3,iphoneos-arm64
 com.82flex.noredirect,No Redirect,2.1,iphoneos-arm64
 com.82flex.ohmyinsets,Oh My Insets,1.2,iphoneos-arm64
 com.82flex.removewidgetbg,Remove Widget Background,2.0,iphoneos-arm64
@@ -209,6 +209,7 @@ com.lclrc.hammerit,Hammer It,1.7.0,iphoneos-arm64
 com.lclrc.squidgesture,SquidGesture,2.1.6,iphoneos-arm64
 com.lclrc.squidgesturepro,SquidGesture Pro,2.7.6,iphoneos-arm64
 com.leemin.lockmaster,Lock Master,1.2.0,iphoneos-arm64
+com.leftyfl1p.carbackground,Canvas (iOS 11-12),1.0,iphoneos-arm
 com.leftyfl1p.carbackground13,Canvas (iOS 13-15),1.0,iphoneos-arm
 com.leftyfl1p.carbridge13,CarBridge,2.0.15,iphoneos-arm64
 com.leftyfl1p.carplay,CarBridge Legacy (old),1.0.9.5,iphoneos-arm
