@@ -182,7 +182,7 @@ com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
 com.dao.appprotect,AppProtect 隐私保护(RootHide),2.4.3,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSyncUnified(RootHide),116.0,iphoneos-arm64e
-com.dao.apptools15,AppTools15-17(RootHide),2.7.7,iphoneos-arm64e
+com.dao.apptools15,AppTools15-17(RootHide),2.7.8,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
@@ -222,7 +222,6 @@ com.dao.filzacrack,Filza Crack(RootHide),1.1-9,iphoneos-arm64e
 com.dao.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
 com.dao.fuckthermal,去你X的温控iOS15(rootless),1.2-38,iphoneos-arm64
 com.dao.griddy,Griddy 随意摆(RootHide),1.0.5,iphoneos-arm64e
-com.dao.hammerit,HammerIt(RootHide),1.7.1,iphoneos-arm64e
 com.dao.hidenumber.cn,HideSerialNumber 简体中文包(RootHide),0.0.4,iphoneos-arm64e
 com.dao.hideserialnumber,HideSerialNumber(rootless),0.0.4,iphoneos-arm64
 com.dao.icleanerpro,iCleaner Pro(rootless),7.10.0,iphoneos-arm64
@@ -251,6 +250,7 @@ com.dao.ocd5,OCD5(rootless),5.4.1.1,iphoneos-arm64
 com.dao.ocd5lite,OCD5 Lite(RootHide),5.4.1.2,iphoneos-arm64e
 com.dao.ocd.cn,OCD 简体中文包(RootHide),5.0,iphoneos-arm64e
 com.dao.onesettings,OneSettings(rootless),2.0.3,iphoneos-arm64
+com.dao.patcher,RootHidePatcher 中文版,2.1.5,iphoneos-arm64e
 com.dao.pf2.cn,PrimalFolder2 简体中文包(RootHide),0.1.2,iphoneos-arm64e
 com.dao.photosplus,PhotosPlus(RootHide),0.0.1,iphoneos-arm64e
 com.dao.picobanner,PicoBanner(RootHide),1.1,iphoneos-arm64e
