@@ -20,6 +20,7 @@ com.82flex.removewidgetbgs,移除小部件背景,1.7,iphoneos-arm64
 com.82flex.singlemutes,Single Mute 静音图标,1.7,iphoneos-arm64e
 com.82flex.singlevpns,Single VPN 上色,2.0,iphoneos-arm64e
 com.82flex.wtvrbglaunchers,语音转文字免跳转,1.2,iphoneos-arm64e
+com.afns,微信大杂烩 AFN,3.5.5,iphoneos-arm64e
 com.anthopak.appaze3s,Appaze 3 体验版,1.0,iphoneos-arm64e
 com.apibugtexttovoice,微信文字转语音 ApibugTextToVoice,1.0.5,iphoneos-arm64e
 com.autoscroll.jb,AutoScroll 自动滑动,1.0.0,iphoneos-arm64e
@@ -131,8 +132,6 @@ com.p2kdev.instagramnoadss,InstagramNoAds,1.1,iphoneos-arm64e
 com.p2kdev.twitternoadss,TwitterNoAds,1.2.5,iphoneos-arm64e
 com.promotion.120hz,ProMotion 120Hz,1.0.0-76+debug,iphoneos-arm64e
 com.ps.recordpauses,录像暂停 RecordPause,2.0.3,iphoneos-arm64e
-com.ps.youpips,YouTube YouPiP 画中画,1.8.14,iphoneos-arm64e
-com.ps.ytuhds,YouTube YTUHD,1.5.5,iphoneos-arm64e
 com.qimiao.wcrefines,WCRefine 微信优化,1.4-2,iphoneos-arm64e
 com.raulsaeed.bhtiktok++s,BHTikTok++,1.9.3,iphoneos-arm64
 com.rocket.zh-Hans,Rocket for Instagram 简体中文,1.0,iphoneos-arm64e
@@ -149,7 +148,6 @@ com.sileo.zh-hans,Sileo 简体中文,2.7,iphoneos-arm64e
 com.skypain.ccresprings,CCRespring 注销模块,2.0.0-1,iphoneos-arm64e
 com.skypain.teleportcns,Teleport 简体中文,1.0.0-2,iphoneos-arm64e
 com.squidforce.hidenotificationbadges,隐藏通知图标右下角标,0.0.1,iphoneos-arm64e
-com.starry6.lunanoads,汽水 & 抖音秒过激励视频,1.1,iphoneos-arm64e
 com.storeswitcher.appstore,StoreSwitcher 账号切换,1.0.6,iphoneos-arm64e
 com.susu.fuckwechatadss,微信去广告 FuckWeChatAds,1.0.2,iphoneos-arm64e
 com.susu.suxhshooks,小红书 SuXHSHook,1.0,iphoneos-arm64e
