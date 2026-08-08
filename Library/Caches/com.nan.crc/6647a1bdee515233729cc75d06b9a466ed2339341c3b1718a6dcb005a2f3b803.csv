@@ -2,6 +2,7 @@ Package,Name,Version,Architecture
 cax.zhumi.ThemeManager.rootlesss,ThemeManager 猪咪微信主题,1.6.5,iphoneos-arm64e
 cc.forcequit.lightshields,Lightshield,1.0.0,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
+cn.fkj233.watchfixs,WatchFix,2.0.2,iphoneos-arm64e
 cn.tinyapps.renets,连个锤子 修复联网,1.2.2,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,4.7.2,iphoneos-arm64e
@@ -56,7 +57,7 @@ com.ginsu.ytmusicultimates,YTMusicUltimate (Lessica Fork),2.3.1-1,iphoneos-arm64
 com.github.wxsmalltabs,微信小底栏,0.0.1-5,iphoneos-arm64e
 com.guozi.kuannoads,酷安FuckAds,5.2.0,iphoneos-arm64e
 com.hbwechathelper.ailuns,黄白助手,2.0-9f,iphoneos-arm64e
-com.hmmzzz.fontmanagers,MarkFont 字体管理器,0.3.0,iphoneos-arm64e
+com.hmmzzz.fontmanagers,MarkFont 字体管理器,0.3.1,iphoneos-arm64e
 com.huami.bilinoads,哔哩哔哩 BiliNoAd,1.0.1,iphoneos-arm64e
 com.huami.dyenablepanelmodernstyles,强制启用新版抖音长按 UI（现代风）,1.1,iphoneos-arm64e
 com.huami.dyyy.vita,抖音 DYYY,2.3-0,iphoneos-arm64e
