@@ -187,7 +187,7 @@ com.dao.apptools15,AppTools15-17(RootHide),2.7.9,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
-com.dao.axon,Axon 中文版(RootHide),2.4,iphoneos-arm64e
+com.dao.axon,Axon 中文版(RootHide),2.5,iphoneos-arm64e
 com.dao.azule,Azule(RootHide),0.8.3,iphoneos-arm64e
 com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
@@ -311,7 +311,7 @@ com.dao.tvlock.cn,TVLock 简体中文包(RootHide),1.2.3,iphoneos-arm64e
 com.dao.uiscroller,UIScroller 中文版(RootHide),1.0.5,iphoneos-arm64e
 com.dao.underdock.cn,UnderDock 简体中文包(RootHide),1.3,iphoneos-arm64e
 com.dao.ve,Vē 通知记录(RootHide),2.0.beta1,iphoneos-arm64e
-com.dao.velvet2,Velvet 2 中文版(RootHide),2.2,iphoneos-arm64e
+com.dao.velvet2,Velvet2 中文版(RootHide),2.3,iphoneos-arm64e
 com.dao.vivostyle,VivoStyle(RootHide),1.0.1,iphoneos-arm64e
 com.dao.watched,watched 手表配对(RootHide),2.0,iphoneos-arm64e
 com.dao.xina.afc2,AFC2(Xina1越狱专版),1.1.7,iphoneos-arm
@@ -901,7 +901,6 @@ com.hk.vcallerscreen.cn,VCaller Screen 简体中文包,3.2,iphoneos-arm
 com.hk.velaris.cn,Velaris 简体中文包,1.1-1,iphoneos-arm
 com.hk.veloxreloadeb2.cn,Velox Reloadeb 2 简体中文包,1.0,iphoneos-arm
 com.hk.veloxreloaded.cn,Velox Reloaded 简体中文包,1.1.1,iphoneos-arm
-com.hk.velvet2.cn.rl,Velvet 2 简体中文包(rootless),2.1.1,iphoneos-arm64
 com.hk.velvet.cn,Velvet 简体中文包,1.5,iphoneos-arm
 com.hk.ventana.cn,Ventana 简体中文包,1.4,iphoneos-arm
 com.hk.Vibin.cn,Vibin 简体中文包,1.0,iphoneos-arm
