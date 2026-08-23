@@ -5,7 +5,7 @@ cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.fkj233.watchfixs,WatchFix,2.0.2,iphoneos-arm64e
 cn.tinyapps.renets,连个锤子 修复联网,1.2.2,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
-codes.aurora.kayokos,Kayoko 剪切板,4.7.2,iphoneos-arm64e
+codes.aurora.kayokos,Kayoko 剪切板,4.8.1,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.7,iphoneos-arm64e
 com.0xkuj.safarixs,SafariX,1.9.9,iphoneos-arm64e
 com.0xkuj.staypros,Stay Pro,0.0.1,iphoneos-arm64e
@@ -33,7 +33,7 @@ com.bandarhl.bhtwitters,NBF BHTwitter,6.3.0,iphoneos-arm64e
 com.BeanbunsHelpers.DBs,抖音 豆包助手,1.0-4,iphoneos-arm64e
 com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-arm64e
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
-com.chloe.physpringboards,Physpringboard 图标重力感应,1.9.0,iphoneos-arm64e
+com.chloe.physpringboards,Physpringboard 图标重力感应,1.9.19,iphoneos-arm64e
 com.choco.tgextras,Telegram TGExtra,1.7.5,iphoneos-arm64e
 com.colorblack.bottomxs,Bottom-x 小白条返回,0.2.71,iphoneos-arm64e
 com.cureux.cc26s,CC26,0.4.9.9b,iphoneos-arm64
@@ -43,7 +43,7 @@ com.dd.ds,DD 微信消息屏蔽,1.0.0,iphoneos-arm64e
 com.den.locktouchxs,LockTouchX 应用锁,1.3,iphoneos-arm64e
 com.den.twigalaxys,TWIGalaxy,1.9,iphoneos-arm64e
 com.developlab.appbadges,AppBadge 应用胶囊,1.0,iphoneos-arm64e
-com.dumpapp.wechat-rootlesss,锤子助手,2.6.2,iphoneos-arm64e
+com.dumpapp.wechat-rootlesss,锤子助手,2.6.6,iphoneos-arm64e
 com.dvntm.cc18s,CC18 iOS18 圆角控制中心,0.0.3,iphoneos-arm64e
 com.dvntm.fbos,FilesBrowsingOnly 精简文件 App,0.0.1,iphoneos-arm64e
 com.dvntm.glows,Glow for Facebook,1.3,iphoneos-arm64e
@@ -60,8 +60,8 @@ com.gdzhujun.backgrounderaction17s,真后台 BackgrounderAction17,0.1.1,iphoneos
 com.ginsu.ytmusicultimates,YTMusicUltimate (Lessica Fork),2.3.1-1,iphoneos-arm64e
 com.github.wxsmalltabs,微信小底栏,0.0.1-5,iphoneos-arm64e
 com.gtoks,GTok TikTok 增强,1.7,iphoneos-arm64e
-com.hbwechathelper.ailuns,黄白助手,2.0-9f,iphoneos-arm64e
-com.hmmzzz.fontmanagers,MarkFont 字体管理器,0.3.3,iphoneos-arm64e
+com.hbwechathelper.ailuns,黄白助手,2.1-5,iphoneos-arm64e
+com.hmmzzz.fontmanagers,MarkFont 字体管理器,0.3.7,iphoneos-arm64e
 com.huami.bilinoads,哔哩哔哩 BiliNoAd,1.0.1,iphoneos-arm64e
 com.huami.dyenablepanelmodernstyles,强制启用新版抖音长按 UI（现代风）,1.1,iphoneos-arm64e
 com.huami.dyyy.vita,抖音 DYYY,2.3-0,iphoneos-arm64e
@@ -166,7 +166,7 @@ com.storeswitcher.appstore,StoreSwitcher 账号切换,1.0.6,iphoneos-arm64e
 com.susu.fuckwechatadss,微信去广告 FuckWeChatAds,1.0.2,iphoneos-arm64e
 com.susu.suxhshooks,小红书 SuXHSHook,1.0,iphoneos-arm64e
 com.susu.wcfrostedglasss,微信磨砂玻璃 SuWCFrostedGlass,1.0.5,iphoneos-arm64e
-com.sutuplus.releasefugu15s,酸果,6.1.2-2,iphoneos-arm64e
+com.sutuplus.releasefugu15s,微信酸果,6.2.7-1,iphoneos-arm64e
 com.swing.tiktoknocreatbutton,移除 TikTok ➕按钮,1.0.0,iphoneos-arm64e
 com.telegram.return,Telegram 增强,1.1,iphoneos-arm64e
 com.teleports.location,Teleport 虚拟定位,1.1,iphoneos-arm64e
