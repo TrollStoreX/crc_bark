@@ -4,7 +4,7 @@ cc.forcequit.lightshields,Lightshield,1.0.0,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet RootHide,1.1,iphoneos-arm64e
 cn.fkj233.watchfixs,WatchFix,2.0.2,iphoneos-arm64e
 cn.tinyapps.renets,连个锤子 修复联网,1.2.2,iphoneos-arm64e
-cn.zqbb.jailfoolss,JailFools 越狱版 TrollFools,5.2.1,iphoneos-arm64e
+cn.zqbb.jailfoolss,JailFools 越狱版 TrollFools,5.2.3,iphoneos-arm64e
 cn.zqbb.phonekey.resets,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
 codes.aurora.kayokos,Kayoko 剪切板,4.8.1,iphoneos-arm64e
 com.0xkuj.notificationsgroupcounts,NotificationsGroupCount 通知分组计数,1.0.7,iphoneos-arm64e
@@ -30,7 +30,7 @@ com.anthopak.appaze3s,Appaze 3 体验版,1.0,iphoneos-arm64e
 com.apibugtexttovoice,微信文字转语音 ApibugTextToVoice,1.0.5,iphoneos-arm64e
 com.autoscroll.jb,AutoScroll 自动滑动,1.0.0,iphoneos-arm64e
 com.awej,抖音+ aweJ,1.2.0,iphoneos-arm64e
-com.bandarhl.bhtwitters,NBF BHTwitter,6.3.0,iphoneos-arm64e
+com.bandarhl.bhtwitters,NBF BHTwitter,6.5.1,iphoneos-arm64e
 com.BeanbunsHelpers.DBs,抖音 豆包助手,1.0-4,iphoneos-arm64e
 com.be-huge.wechat-pop-vcs,微信全局右滑手势 WeChatPopVC,0.0.3,iphoneos-arm64e
 com.be-huge.wechat-push-msg-pages,微信推送直达聊天窗口,0.0.5,iphoneos-arm64e
@@ -83,7 +83,7 @@ com.iosdump.filzacarplugins,FilzaCarPlugin,1.0.0,iphoneos-arm64e
 com.iosdump.zones,Zone 交互壁纸,2.1.0,iphoneos-arm64e
 com.iosrxwy.QDReader,起点读书激励视频加速,0.1-1,iphoneos-arm64e
 com.iosrxwy.xmlynoads,喜马拉雅 NoAd,0.1-1,iphoneos-arm64e
-com.itzzace.ytkaces,YTKACE YouTube 增强,0.8.4,iphoneos-arm64e
+com.itzzace.ytkaces,YTKACE YouTube 增强,0.9.2,iphoneos-arm64e
 com.jamme.picsartpatch,PicsArt Patch 破解,4.2.0+debug,iphoneos-arm64e
 com.kingpuffdaddi.control-center.ccvpn.surge,CCVPN Surge,1.0.6,iphoneos-arm64e
 com.kuan.noads,酷安 NoAd,1.0,iphoneos-arm64e
@@ -186,7 +186,7 @@ com.xx.kshooks,快手图层,1.0.6-3,iphoneos-arm64e
 com.xx.qmxshooks,七猫小说 Hook,1.0.3,iphoneos-arm64e
 com.xx.qqhooks,QQ 防撤回图层,1.6,iphoneos-arm64e
 com.xx.wccallkits,微信 CallKit,1.0.0,iphoneos-arm64e
-com.xx.xhshooks,小红书图层 小红薯,1.2.5,iphoneos-arm64e
+com.xx.xhshooks,小红书图层 小红薯,1.2.8,iphoneos-arm64e
 com.xx.ysbrowserhooks,亚瑟浏览器 Pro,1.0.2,iphoneos-arm64e
 com.xybp888.lockbuttons,一键锁屏,0.1-2,iphoneos-arm64e
 com.xybp888.noapplemobilerepairs,禁止显示维修记录,0.0.1-88,iphoneos-arm64e
