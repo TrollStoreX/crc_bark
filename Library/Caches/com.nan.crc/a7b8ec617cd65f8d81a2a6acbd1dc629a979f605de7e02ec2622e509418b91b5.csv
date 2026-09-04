@@ -205,7 +205,7 @@ com.dao.cchide,CCLess++(Bootstrap),2.1,iphoneos-arm64e
 com.dao.ccless,CCLess++(RootHide),2.1.0.1,iphoneos-arm64e
 com.dao.choicy,Choicy(RootHide),1.5.4-2,iphoneos-arm64e
 com.dao.choicy.cn,Choicy 自用中文包(rootless),1.5,iphoneos-arm64
-com.dao.classicfolders3,ClassicFolders 3(RootHide),3.5,iphoneos-arm64e
+com.dao.classicfolders3,ClassicFolders 3(RootHide),3.6,iphoneos-arm64e
 com.dao.classickeyboardxs,ClassicKeyboardXS(RootHide),1.1-9,iphoneos-arm64e
 com.dao.coolcc,CoolCC Reborn(RootHide),2.1,iphoneos-arm64e
 com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
@@ -217,7 +217,7 @@ com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
 com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
 com.dao.designer,Designer(rootless),1.4.5,iphoneos-arm64
 com.dao.dockx,DockX(RooHide),2.6.2,iphoneos-arm64e
-com.dao.donut,Donut(RootHide),2.0,iphoneos-arm64e
+com.dao.donut,Donut(RootHide),2.0.3,iphoneos-arm64e
 com.dao.dumpdecrypter,DumpDecrypter(rootless),1.5-1,iphoneos-arm64
 com.dao.filzacrack,Filza Crack(RootHide),1.1-9,iphoneos-arm64e
 com.dao.flexlist,FLEXList(rootless),1.4-2,iphoneos-arm64
@@ -472,8 +472,6 @@ com.hk.centaur.cn,Centaur 简体中文包,1.1.0,iphoneos-arm
 com.hk.cercube.cn,Cercube for YouTube 简体中文包,4.2.2.10,iphoneos-arm
 com.hk.chronos.cn,Chronos 简体中文包,0.0.6~Beta1,iphoneos-arm
 com.hk.circleicons.cn,Circle Icons 简体中文包,1.2,iphoneos-arm
-com.hk.classicfolders3.cn,ClassicFolders 3 简体中文包,3.0.5,iphoneos-arm
-com.hk.classicfolders3.cn.rl,ClassicFolders 3 简体中文包(RootHide),3.0.5,iphoneos-arm64e
 com.hk.classickeyboardxs,ClassicKeyboardXS,1.1-6,iphoneos-arm
 com.hk.classickeyboardxslite,ClassicKeyboardXS Lite,1.0,iphoneos-arm
 com.hk.colorbadges,ColorBadges 彩色角标,1.5.0,iphoneos-arm
@@ -556,7 +554,6 @@ com.hk.filza.cn.rl,Filza 中文增补包(RootHide),4.0-2,iphoneos-arm64e
 com.hk.fingerlock.cn,FingerLock 简体中文包,1.1.7-1,iphoneos-arm
 com.hk.fingertouch12.CN,FingerTouch(iOS12) 汉化版,0.0.7,iphoneos-arm
 com.hk.finical.cn,Finical 简体中文包,1.0,iphoneos-arm
-com.hk.fixclassicfolders2,FixClassicFolders2,1.0,iphoneos-arm
 com.hk.flex3beta,Flex 3 Beta50,3~Beta50,iphoneos-arm
 com.hk.flex3beta.new,Flex 3 Beta98,3~Beta98.1,iphoneos-arm
 com.hk.flex3patch.xina,Flex3 Patch For Xina1,3~Beta98-xina,iphoneos-arm
