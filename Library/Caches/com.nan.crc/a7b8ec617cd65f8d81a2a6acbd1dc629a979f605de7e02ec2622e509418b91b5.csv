@@ -1,6 +1,5 @@
 Package,Name,Version,Architecture
 app.crack.daniutweak,Daniu大牛 (只支持10.x),1.5.3.6,iphoneos-arm
-cc.dao.lightshield,Lightshield(rootless),1.0.0,iphoneos-arm64
 cn.dao.relaxin.cocoatop,CocoaTop64 中文版(Relaxin),2.3.3,iphoneos-arm64e
 cn.hk.opennotifier12.cn,OpenNotifier9/10/11/12 简体中文包,2.6.0,iphoneos-arm
 cn.octoforce.copyvault,CopyVault(激活码版),1.9.0,iphoneos-arm64e
@@ -640,7 +639,7 @@ com.hk.julioverne.cracktool4,CrackTool4 (破解神器),4.0~beta9e,iphoneos-arm
 com.hk.kaleidoscope.cn,Kaleidoscope 简体中文包,1.0.1,iphoneos-arm
 com.hk.kalm,Kalm 锁屏定制,3.0.3,iphoneos-arm
 com.hk.kalm.cn,Kalm 简体中文包,3.0.3,iphoneos-arm
-com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.5-1,iphoneos-arm64e
+com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.7,iphoneos-arm64e
 com.hk.keepitsimple.cn,KeepItSimple 简体中文包,1.2.1,iphoneos-arm
 com.hk.key+,Key+,1.1.5,iphoneos-arm
 com.hk.killallapps.cn,Kill All Apps 简体中文包,3.2.0,iphoneos-arm
