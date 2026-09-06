@@ -252,6 +252,7 @@ com.dao.ocd5,OCD5(rootless),5.4.1.1,iphoneos-arm64
 com.dao.ocd5lite,OCD5 Lite(RootHide),5.4.1.2,iphoneos-arm64e
 com.dao.ocd.cn,OCD 简体中文包(RootHide),5.0,iphoneos-arm64e
 com.dao.onesettings,OneSettings(rootless),2.0.3,iphoneos-arm64
+com.dao.patcher,RootHidePatcher 中文版,2.1.5,iphoneos-arm64e
 com.dao.pf2.cn,PrimalFolder2 简体中文包(RootHide),0.1.2,iphoneos-arm64e
 com.dao.photosplus,PhotosPlus(RootHide),0.0.1,iphoneos-arm64e
 com.dao.picobanner,PicoBanner(RootHide),1.2,iphoneos-arm64e
@@ -280,6 +281,7 @@ com.dao.senri.cn,Senri 简体中文包(RootHide),1.1,iphoneos-arm64e
 com.dao.settingsrevamp,SettingsRevamp(RootHide),3.0.1,iphoneos-arm64e
 com.dao.showmytouches,ShowMyTouches(rootless),1.1.2,iphoneos-arm64
 com.dao.showtouch,ShowTouch(rootless),1.0.4-3,iphoneos-arm64
+com.dao.sileo,Sileo(RootHide),2.5.1-13,iphoneos-arm64e
 com.dao.sileo.cn,Sileo 中文增补包(RootHide),2.5,iphoneos-arm64e
 com.dao.sleeperx.cn,SleeperX 简体中文包(rootless),3.0.0,iphoneos-arm64
 com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
@@ -639,7 +641,7 @@ com.hk.julioverne.cracktool4,CrackTool4 (破解神器),4.0~beta9e,iphoneos-arm
 com.hk.kaleidoscope.cn,Kaleidoscope 简体中文包,1.0.1,iphoneos-arm
 com.hk.kalm,Kalm 锁屏定制,3.0.3,iphoneos-arm
 com.hk.kalm.cn,Kalm 简体中文包,3.0.3,iphoneos-arm
-com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.7.1,iphoneos-arm64e
+com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.8,iphoneos-arm64e
 com.hk.keepitsimple.cn,KeepItSimple 简体中文包,1.2.1,iphoneos-arm
 com.hk.key+,Key+,1.1.5,iphoneos-arm
 com.hk.killallapps.cn,Kill All Apps 简体中文包,3.2.0,iphoneos-arm
@@ -942,6 +944,7 @@ com.hy.yaodao.eclipse12.cn,Eclipse Dark Mode(iOS12) 简体中文包,6.1,iphoneos
 com.hy.yaodao.photosize.cn,PhotoSize 简体中文包,1.0,iphoneos-arm
 com.ikilledappl3.malipo.cn,Malipo 简体中文包,1.0.2-1,iphoneos-arm
 com.imkpatil.colormybattery.cn,ColorMyBattery 简体中文包,1.2.2,iphoneos-arm
+com.iosdump.tslite,TrollStoreLite-iosdump(RootHide),2.1.1,iphoneos-arm64e
 com.jrttnoads.rootless,头条NoAds(rootless),1.0,iphoneos-arm64
 com.MenuSupport.zh-hans,MenuSupport 简体中文包(rootless),0.0.1,iphoneos-arm64
 com.mrgcgamer.libgcuniversal,LibGcUniversal(RootHide),1.7.0,iphoneos-arm64e
