@@ -108,6 +108,7 @@ com.wkk.ChoicyConfigPin,ChoicyConfigPin,1.0-2,iphoneos-arm64e
 com.wkk.controlcenterlayout,控制中心模块,2.1,iphoneos-arm64e
 com.wkk.controlcenterpercent,控制中心百分比 iOS17,1.0-2,iphoneos-arm64e
 com.wkk.coolapp,KBApp,1.5,iphoneos-arm64e
+com.wkk.copylogx111,CopylogX,1.0-1,iphoneos-arm64
 com.wkk.cornbar,CornBar,1.1.0,iphoneos-arm64e
 com.wkk.cozybadges,CozyBadges,2.1,iphoneos-arm64e
 com.wkk.cqkjlogo,重启用户空间logo制作终端(自用),1.0,iphoneos-arm64e
@@ -204,6 +205,7 @@ com.wkk.insulation,insulation,0.1.31,iphoneos-arm64e
 com.wkk.ios26kbhook,仿IOS26键盘圆角,1.0-2,iphoneos-arm64e
 com.wkk.iwanttranslucent,3Dtouch透明,0.0.1,iphoneos-arm64e
 com.wkk.jdhook,煎蛋NoAds,1.0,iphoneos-arm64e
+com.wkk.jjjddzz111,接定制插件/app/小众功能/强迫症功能等,1.0-1,iphoneos-arm64
 com.wkk.jumpselect,JumpSelect,1.0.0,iphoneos-arm64e
 com.wkk.kaiguan,滑雪板开关集合,1.0-1,iphoneos-arm64e
 com.wkk.kayoko,Kayoko,3.0,iphoneos-arm64e
@@ -212,6 +214,7 @@ com.wkk.kbhook,系统键盘圆角,1.0-1,iphoneos-arm64e
 com.wkk.kbstyle,KBStyle,1.0,iphoneos-arm64e
 com.wkk.kdjzhook,口袋记账NoAds,1.0-1,iphoneos-arm64e
 com.wkk.Keyboardplus,键盘增强（TrollFools注入）,1.1-7,iphoneos-arm64e
+com.wkk.keyboardx111,KeyboardX,1.0-1,iphoneos-arm64
 com.wkk.keyroundxxxx,微信/原生键盘调整,1.1-3,iphoneos-arm64
 com.wkk.kghook,酷狗音乐20（养老自用）,1.0,iphoneos-arm64e
 com.wkk.kkgg,APP打开就关闭（TrollFools注入）,1.0-1,iphoneos-arm64e
@@ -259,6 +262,7 @@ com.wkk.ocd5,OCD5,5.4.1.0,iphoneos-arm64e
 com.wkk.oleddarkmode,OLED Dark Mode,0.5.1-11,iphoneos-arm64e
 com.wkk.onehandwizard2,OneHandWizard2,1.0.6,iphoneos-arm64e
 com.wkk.onesettings,OneSettings,2.2,iphoneos-arm64e
+com.wkk.onestepx111,OnestepX,1.0-1,iphoneos-arm64
 com.wkk.pancake,PanCake,2.3,iphoneos-arm64e
 com.wkk.passtext,PassText,1.0.1,iphoneos-arm64e
 com.wkk.pddhook,拼多多NoShare,1.0-1,iphoneos-arm64e
@@ -286,10 +290,12 @@ com.wkk.qqmusicdesktoplyrics,DesktopLyrics,0.3.9~b1,iphoneos-arm64e
 com.wkk.qqmusichook,QQ音乐NoAds,1.0,iphoneos-arm64e
 com.wkk.qqnotiavatar,QQ通知头像,1.2-2,iphoneos-arm64e
 com.wkk.qsyyhook,汽水音乐NoBottombar,1.0,iphoneos-arm64e
+com.wkk.qugg111,去广告200+,1.0-1,iphoneos-arm64
 com.wkk.quickprefs,QuickPrefs,1.3.3-1,iphoneos-arm64e
 com.wkk.ravitation,Gravitation,1.0-1,iphoneos-arm64e
 com.wkk.reachplayer,ReachPlayer音乐专辑,5.0.0,iphoneos-arm64e
 com.wkk.recordanywhere,RecordAnywhere,1.1.0,iphoneos-arm64e
+com.wkk.recordeyex111,RecordEyeX,1.0-1,iphoneos-arm64
 com.wkk.recordpause,RecordPause,2.0.7,iphoneos-arm64e
 com.wkk.removewidgetbg,移除小组件背景,2.0,iphoneos-arm64e
 com.wkk.RestoreFont2,字体一键替换2,1.0-1,iphoneos-arm64e
@@ -327,6 +333,7 @@ com.wkk.storeswitcher.appstore,StoreSwitcher,1.0.6,iphoneos-arm64e
 com.wkk.stormsniffercrack,StormSniffer Crack(Rootless),1.1-4,iphoneos-arm64e
 com.wkk.stormsnifferhook,StormSnifferHook,1.0-1,iphoneos-arm64e
 com.wkk.swipeextenderx,SwipeExtenderX,1.6.2,iphoneos-arm64e
+com.wkk.systemx111,SystemX,1.0-1,iphoneos-arm64
 com.wkk.Systemxxxxx,系统增强SystemX,1.2-2,iphoneos-arm64
 com.wkk.tapticboard,TapticBoard,1.2,iphoneos-arm64e
 com.wkk.tbhook,sileo悬浮底栏,1.0-1,iphoneos-arm64e
@@ -372,12 +379,14 @@ com.wkk.WeChatbeautifully,WeChat自用气泡,1.0,iphoneos-arm64e
 com.wkk.wechat-pop-vc,WeChatPopVC,0.0.5-end,iphoneos-arm64e
 com.wkk.wechatuiswitchloader,WeChatUISwitchLoader,1.1-5,iphoneos-arm64e
 com.wkk.wechatx,WeChatX,2.2-6,iphoneos-arm64e
+com.wkk.wechatx111,WeChatX,1.0-1,iphoneos-arm64
 com.wkk.weibohook,微博NoAds,1.2-1,iphoneos-arm64e
 com.wkk.weiyunhook,腾讯微云NoAds,1.0-1,iphoneos-arm64e
 com.wkk.wfhook,威锋NoAds,1.0,iphoneos-arm64e
 com.wkk.whereplays,WherePlay,0.0.2,iphoneos-arm64e
 com.wkk.wicellswitcher,WiCellSwitcher,1.2,iphoneos-arm64e
 com.wkk.wtvrbglauncher,语音转文字免跳转,1.2,iphoneos-arm64e
+com.wkk.wwwwwz111,明天进群一律五折,1.0-1,iphoneos-arm64
 com.wkk.wxkbhook,微信输入法圆角/隐藏logo,1.0-1,iphoneos-arm64e
 com.wkk.wxkeyhook,微信输入法圆角,1.0-1,iphoneos-arm64e
 com.wkk.wxkeyhook2,微信输入法圆角,1.0-1,iphoneos-arm64e
