@@ -236,6 +236,7 @@ com.dao.kanoads,清爽酷安(rootless),0.1,iphoneos-arm64
 com.dao.kayoko,Kayoko(RootHide),4.1.2,iphoneos-arm64e
 com.dao.kwcrack,KWSimpleCrack(RootHide),0.1,iphoneos-arm64e
 com.dao.lockbuttonx,LockButtonX(RootHide),0.0.1,iphoneos-arm64e
+com.dao.lockglass17.cn,LockGlass 简体中文包(RootHide),1.4,iphoneos-arm64e
 com.dao.looky,Looky(rootless),1.0.5,iphoneos-arm64
 com.dao.looky.cn,Looky 简体中文包(rootless),1.0.5,iphoneos-arm64
 com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
@@ -641,7 +642,7 @@ com.hk.julioverne.cracktool4,CrackTool4 (破解神器),4.0~beta9e,iphoneos-arm
 com.hk.kaleidoscope.cn,Kaleidoscope 简体中文包,1.0.1,iphoneos-arm
 com.hk.kalm,Kalm 锁屏定制,3.0.3,iphoneos-arm
 com.hk.kalm.cn,Kalm 简体中文包,3.0.3,iphoneos-arm
-com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.8,iphoneos-arm64e
+com.hk.kbapp.cn.rl,KBApp 简体中文包(RootHide),1.8.1,iphoneos-arm64e
 com.hk.keepitsimple.cn,KeepItSimple 简体中文包,1.2.1,iphoneos-arm
 com.hk.key+,Key+,1.1.5,iphoneos-arm
 com.hk.killallapps.cn,Kill All Apps 简体中文包,3.2.0,iphoneos-arm
