@@ -172,7 +172,7 @@ com.crack.yaodao.smartlpm.cn,SmartLPM 简体中文包,1.3.0-1,iphoneos-arm
 com.crak.callbarx.cn,CallBar X 简体中文包,0.3-68,iphoneos-arm
 com.crak.stylish11.cn,Stylish11 简体中文包,1.0.6-1,iphoneos-arm
 com.dao.3dappversionspoofer,3DSpoofer(RootHide),2.0.4,iphoneos-arm64e
-com.dao.3dbadgeclear,3DBadgeClear(RootHide),1.7,iphoneos-arm64e
+com.dao.3dbadgeclear,3DBadgeClear(RootHide),1.7.0.1,iphoneos-arm64e
 com.dao.actk.cn,ACTikTok 简体中文包(RootHide),2.1,iphoneos-arm64e
 com.dao.afc2,AFC2(rootless),1.1.7-1,iphoneos-arm64
 com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
@@ -186,7 +186,7 @@ com.dao.apptools15,AppTools15-17(RootHide),2.8.7,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
-com.dao.axon,Axon 中文版(RootHide),2.5.3,iphoneos-arm64e
+com.dao.axon,Axon 中文版(RootHide),2.5.3.1,iphoneos-arm64e
 com.dao.azule,Azule(RootHide),0.8.3,iphoneos-arm64e
 com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
@@ -205,12 +205,12 @@ com.dao.cchide,CCLess++(Bootstrap),2.1,iphoneos-arm64e
 com.dao.ccless,CCLess++(RootHide),2.1.0.1,iphoneos-arm64e
 com.dao.choicy,Choicy(RootHide),1.5.4-3,iphoneos-arm64e
 com.dao.choicy.cn,Choicy 自用中文包(rootless),1.5,iphoneos-arm64
-com.dao.classicfolders3,ClassicFolders 3(RootHide),3.6,iphoneos-arm64e
+com.dao.classicfolders3,ClassicFolders 3(RootHide),3.6.0.1,iphoneos-arm64e
 com.dao.classickeyboardxs,ClassicKeyboardXS(RootHide),1.1-9,iphoneos-arm64e
 com.dao.coolcc,CoolCC Reborn(RootHide),2.1,iphoneos-arm64e
 com.dao.copylogfix16,CopyLogFix16(rootless),1.0.1,iphoneos-arm64
 com.dao.ct5,CrackTool5(rootless),5.1,iphoneos-arm64
-com.daodao.goodwifi,GoodWiFi 中文版(RootHide),1.7.2,iphoneos-arm64e
+com.daodao.goodwifi,GoodWiFi 中文版(RootHide),1.7.3,iphoneos-arm64e
 com.daodao.nocshare,NoCShare(RootHide),1.1.3,iphoneos-arm64e
 com.daodao.snapper2,Snapper 2(rootless),2.7.0,iphoneos-arm64
 com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
@@ -245,7 +245,7 @@ com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.milkywayreborn,MilkyWayReborn(RootHide),1.4,iphoneos-arm64e
 com.dao.mk.cn,Misaki 中文补充包(rootless),2.1.3,iphoneos-arm64
 com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
-com.dao.neofreebird.bht,NFX 中文版(RootHide),7.1,iphoneos-arm64e
+com.dao.neofreebird.bht,NFX 中文版(RootHide),7.1.1,iphoneos-arm64e
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.1,iphoneos-arm64e
@@ -292,7 +292,7 @@ com.dao.snowboard.settingsicons,SnowBoard SetIcons(RootHide),1.0.26~Beta3,iphone
 com.dao.souvenir,Souvenir(rootless),1.25,iphoneos-arm64
 com.dao.souvenir.cn,Souvenir 简体中文包,1.25,iphoneos-arm
 com.dao.souvenir.cn.tl,Souvenir 简体中文包(rootless),1.25,iphoneos-arm64
-com.dao.speedster,Speedster(RootHide),2.2.3,iphoneos-arm64e
+com.dao.speedster,Speedster(RootHide),2.2.3.1,iphoneos-arm64e
 com.dao.speedy,Speedy(RootHide),0.3,iphoneos-arm64e
 com.dao.spotify,EeveeReincarnated(RootHide),6.6.8,iphoneos-arm64e
 com.dao.stella,Stella 中文版(rootless),1.1.5,iphoneos-arm64
@@ -397,8 +397,6 @@ com.hk.autounlockx.cn,AutoUnlockX 简体中文包,1.0.14,iphoneos-arm
 com.hk.autounlockx.cn.rl,AutoUnlockX 简体中文包(rootless),1.1.0,iphoneos-arm64
 com.hk.awesomepagedots,AwesomePageDots翻页点动画,1.2,iphoneos-arm
 com.hk.awesomepagedots.cn,AwesomePageDots 简体中文包,1.0-2,iphoneos-arm
-com.hk.axon.cn,Axon 简体中文包,2.0.0-3,iphoneos-arm
-com.hk.axon.cn.rl,Axon 通用中文包(rootless),2.0-2,iphoneos-arm64
 com.hk.ays.cn,Are You Sur 简体中文包,1.1,iphoneos-arm
 com.hk.aysxhack,爱阅书香Pro+,1.0-1,iphoneos-arm
 com.hk.backgrounderaction13,真后台模块2,0.1.4,iphoneos-arm
@@ -849,8 +847,6 @@ com.hk.spectral.cn,Spectral 简体中文包,1.0.0,iphoneos-arm
 com.hk.spectrum.cn,Spectrum 简体中文包,1.1,iphoneos-arm
 com.hk.spectrum.cn.rl,Spectrum 简体中文包(rootless),1.1,iphoneos-arm64
 com.hk.speculum.cn,Speculum 简体中文包,1.2,iphoneos-arm
-com.hk.speedster.cn,Speedster 简体中文包,2.1.0,iphoneos-arm
-com.hk.speedster.cn.rl,Speedster 简体中文包(rootless),2.1.0,iphoneos-arm64
 com.hk.speedy.cn.rl,Speedy 简体中文包(rootless),0.2,iphoneos-arm64
 com.hk.springanimtions.cn,SpringAnimations 简体中文包,1.0.6,iphoneos-arm
 com.hk.springtomize4.cn,Springtomize 4 简体中文包,4.0.4,iphoneos-arm
