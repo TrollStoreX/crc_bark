@@ -91,6 +91,7 @@ com.ps.lpmenabler,LPM Enabler,1.0.1,iphoneos-arm
 com.ps.mywifs,MyWi Flipswitch,0.0.1,iphoneos-arm
 com.ps.noaneemojisticker,NoANEEmojiSticker,1.0.0,iphoneos-arm64
 com.ps.noswiftatruntime,NoSwiftAtRuntime,1.0.2,iphoneos-arm64
+com.ps.notoemoji3defm,Noto Color Emoji 3D Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.notoemojicursedefm,Noto Color Emoji Cursed Unicode 15.1 (EFM),15.1.0,iphoneos-arm64
 com.ps.notoemojiefm,Noto Color Emoji Unicode 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.nottodayhomescreensidebar,NotTodayHomeScreenSideBar,1.0.0,iphoneos-arm
