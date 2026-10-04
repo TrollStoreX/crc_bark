@@ -182,7 +182,7 @@ com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
 com.dao.appprotect,AppProtect 隐私保护(RootHide),2.4.7,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSyncUnified(RootHide),116.0,iphoneos-arm64e
-com.dao.apptools15,AppTools15-17(RootHide),2.8.9,iphoneos-arm64e
+com.dao.apptools15,AppTools15-17(RootHide),2.9.0,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
@@ -272,7 +272,7 @@ com.dao.retrovol.cn,RetroVol 简体中文包(rootless),1.2.1,iphoneos-arm64
 com.dao.reverie,Reverie 中文版(RootHide),1.1,iphoneos-arm64e
 com.dao.rocket.cn,Rocket 简体中文包(rootless),1.1.1,iphoneos-arm64
 com.dao.rode,Rode(RootHide),1.0,iphoneos-arm64e
-com.dao.ryukgram,RyukGram(RootHide),1.4.0,iphoneos-arm64e
+com.dao.ryukgram,RyukGram(RootHide),1.4.5,iphoneos-arm64e
 com.dao.safarix,SafariX(rootless),1.3.0,iphoneos-arm64
 com.dao.safarix.cn,SafariX 简体中文包(RootHide),1.9.9.1,iphoneos-arm64e
 com.dao.saily,Saily(RootHide),3.0-roothide-release-1753762792.8c2ea30,iphoneos-arm64e
@@ -307,7 +307,7 @@ com.dao.translux.cn,TransLux 简体中文包(RootHide),1.1.0,iphoneos-arm64e
 com.dao.trollpad.cn,TrollPad 简体中文包(rootless),1.2.3,iphoneos-arm64
 com.dao.trollstore.cn,TrollStore 简体中文包(RootHide),2.1,iphoneos-arm64e
 com.dao.trollstorelite,巨魔R(RootHide),1.0.4,iphoneos-arm64e
-com.dao.tslite,TrollStoreLite(RootHide),2.1.1-1,iphoneos-arm64e
+com.dao.tslite,TrollStoreLite(RootHide),2.1.1-2,iphoneos-arm64e
 com.dao.ttnoads,TalkatoneNoAds(RootHide),0.1,iphoneos-arm64e
 com.dao.tvlock,TVLock(RootHide),1.2.3,iphoneos-arm64e
 com.dao.tvlock.cn,TVLock 简体中文包(RootHide),1.2.3,iphoneos-arm64e
@@ -941,7 +941,7 @@ com.hy.yaodao.eclipse12.cn,Eclipse Dark Mode(iOS12) 简体中文包,6.1,iphoneos
 com.hy.yaodao.photosize.cn,PhotoSize 简体中文包,1.0,iphoneos-arm
 com.ikilledappl3.malipo.cn,Malipo 简体中文包,1.0.2-1,iphoneos-arm
 com.imkpatil.colormybattery.cn,ColorMyBattery 简体中文包,1.2.2,iphoneos-arm
-com.iosdump.tslite,TSLite-id(RootHide),2.1.1-0910,iphoneos-arm64e
+com.iosdump.tslite,TSLite(RootHide),2.1.1-1003,iphoneos-arm64e
 com.jrttnoads.rootless,头条NoAds(rootless),1.0,iphoneos-arm64
 com.MenuSupport.zh-hans,MenuSupport 简体中文包(rootless),0.0.1,iphoneos-arm64
 com.mrgcgamer.libgcuniversal,LibGcUniversal(RootHide),1.7.0,iphoneos-arm64e
