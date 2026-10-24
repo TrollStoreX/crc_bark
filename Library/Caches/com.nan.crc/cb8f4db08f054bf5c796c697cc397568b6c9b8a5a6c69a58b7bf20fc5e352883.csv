@@ -105,6 +105,7 @@ com.wkk.cclocation,CCLocation,1.1.0-1,iphoneos-arm64e
 com.wkk.ccmusic,控制中心音乐模块动画,1.0.5,iphoneos-arm64e
 com.wkk.ccsim,CCSIM,1.1-9,iphoneos-arm64e
 com.wkk.ccswitchdata,CCswitchdata,1.1-4,iphoneos-arm64e
+com.wkk.cctimermemory,CCTimerMemory,1.0-1,iphoneos-arm64e
 com.wkk.cctunneltap,CCTunnelTap,1.0.0,iphoneos-arm64e
 com.wkk.ccweathermodule,CCWeather Module,1.0.2,iphoneos-arm64e
 com.wkk.center,wkkCenter,1.1-1,iphoneos-arm64e
