@@ -217,6 +217,7 @@ com.daodao.snapper2,Snapper 2(rootless),2.7.0,iphoneos-arm64
 com.daodao.snapper3,Snapper 3(rootless),1.0k,iphoneos-arm64
 com.daodao.wicellswitcher,WiCellSwitcher(rootless),1.2,iphoneos-arm64
 com.dao.designer,Designer(rootless),1.4.5,iphoneos-arm64
+com.dao.disablepastealert16,NPA16(RootHide),1.0,iphoneos-arm64e
 com.dao.dockx,DockX(RooHide),2.6.2,iphoneos-arm64e
 com.dao.donut,Donut(RootHide),2.1,iphoneos-arm64e
 com.dao.donutbar,Donut-bar(RootHide),1.2.0,iphoneos-arm64e
@@ -289,7 +290,6 @@ com.dao.settingsrevamp,SettingsRevamp(RootHide),3.0.1,iphoneos-arm64e
 com.dao.showmytouches,ShowMyTouches(rootless),1.1.2,iphoneos-arm64
 com.dao.showtouch,ShowTouch(rootless),1.0.4-3,iphoneos-arm64
 com.dao.sileo,Sileo(RootHide),2.5.1-13,iphoneos-arm64e
-com.dao.sileo.cn,Sileo 中文增补包(RootHide),2.5,iphoneos-arm64e
 com.dao.sleeperx.cn,SleeperX 简体中文包(rootless),3.0.0,iphoneos-arm64
 com.dao.sneakycam.cn,SneakyCam 简体中文包(rootless),2.0.4,iphoneos-arm64
 com.dao.snowboard,SnowBoard(RootHide),1.5.37-Beta4,iphoneos-arm64e
@@ -328,7 +328,8 @@ com.dao.ytkace,YTKACE(RootHide),1.1.3,iphoneos-arm64e
 com.dao.ytlite,YTLite(RootHide),5.2b4,iphoneos-arm64e
 com.dao.ytmusicultimate,YTMusicUltimate,2.4,iphoneos-arm
 com.eclipsex.cn,Eclipse X (iOS 11) 简体中文包,5.0.9-1,iphoneos-arm
-com.hades.pullclearnc,PullClearNC(roothide),2.0,iphoneos-arm64e
+com.hades.pullclearnc,PullClearNC(RootHide),2.0,iphoneos-arm64e
+com.hades.storeswitchaccounts,StoreSwitchAccounts(RootHide),2.0,iphoneos-arm64e
 com.hk.13hud.cn,13HUD 简体中文包,1.0.1,iphoneos-arm
 com.hk.3dtools.cn,3DTools 简体中文包,1.0.6,iphoneos-arm
 com.hk.abypass.cn,A-Bypass 简体中文包,1.5.7,iphoneos-arm
@@ -817,7 +818,6 @@ com.hk.shuffle,shuffle 旧版,1.3.4,iphoneos-arm
 com.hk.shuffle.cn.rl,Shuffle 简体中文包(RootHide),1.6.2,iphoneos-arm64e
 com.hk.shuffle.xina134,Shuffle(XinaA15专版)-临时版,1.0,iphoneos-arm
 com.hk.signe.cn,Signe 简体中文包,0.3.2,iphoneos-arm
-com.hk.sileo.cn.rl,Sileo 中文增补包(rootless),2.5,iphoneos-arm64
 com.hk.siliqua.cn,Siliqua Pro/2  通用汉化包,1.0,iphoneos-arm
 com.hk.simplels2.cn,SimpleLS2 简体中文包,0.0.1-596+debug,iphoneos-arm
 com.hk.sixls.cn,Six (LS) 简体中文包,1.0.4-1,iphoneos-arm
