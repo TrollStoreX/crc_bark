@@ -453,6 +453,7 @@ dopamine-basebin-link,Dopamine BaseBin Link,1.0,iphoneos-arm64
 kr.xsf1re.vnodebypass,Vnodebypass,0.4.3,iphoneos-arm64
 MisakaHelper,MisakaHelper,2.1-1-end,iphoneos-arm64
 preferenceloader.top,PreferenceLoader (Top),2.2.7,iphoneos-arm64e
+re.frida.server,Frida,16.1.4,iphoneos-arm64e
 ru.domo.cocoatop64,CocoaTop64,2.2.4-2,iphoneos-arm64e
 se.geometric.intelligentpass5,IntelligentPass 5,1.0.1,iphoneos-arm64e
 uncar,uncar,0.0.1-6,iphoneos-arm64e
