@@ -1,6 +1,7 @@
 Package,Name,Version,Architecture
 a1,A1,1.8.4-beta3,iphoneos-arm64e
 cn.Bswbw.fixsets,FixSet,1.1,iphoneos-arm64e
+cn.llld.screenprivacy,微信录屏隐私,1.0,iphoneos-arm64
 cn.sunshinesong.split-view-pro,split-view-pro,1.1.6,iphoneos-arm64e
 cn.wkk.swipeextenderx,SwipeExtenderX汉化,0.0.2,iphoneos-arm64e
 cn.wkk.tmts,全局透明Max,1.2,iphoneos-arm64e
