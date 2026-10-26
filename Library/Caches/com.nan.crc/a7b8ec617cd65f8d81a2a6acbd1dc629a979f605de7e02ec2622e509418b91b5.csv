@@ -183,7 +183,7 @@ com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
 com.dao.appprotect,AppProtect 隐私保护(RootHide),2.4.8,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSyncUnified(RootHide),116.0,iphoneos-arm64e
-com.dao.apptools15,AppTools15-17(RootHide),2.9.1,iphoneos-arm64e
+com.dao.apptools15,AppTools15-17(RootHide),2.9.2,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.autoscroll,AutoScroll 自动滚动(rootless),1.0.0,iphoneos-arm64
@@ -192,10 +192,6 @@ com.dao.azule,Azule(RootHide),0.8.3,iphoneos-arm64e
 com.dao.batteryhealth,BatteryHealth(RootHide),1.0.1,iphoneos-arm64e
 com.dao.betteralarm,BetterAlarm中文版(RootHide),1.5,iphoneos-arm64e
 com.dao.bhinsta,BHInsta 中文版(RootHide),1.2,iphoneos-arm64e
-com.dao.bhtiktok++,BHTikTok++中文版(RootHide),1.7.1,iphoneos-arm64e
-com.dao.bhtiktokmod,BHTikTok Plus(rootless),2.3,iphoneos-arm64
-com.dao.bhtkplus,BHTikTok++ 原版(rootless),1.9.3,iphoneos-arm64
-com.dao.bhtwitter,BHTwitter 中文版(RootHide),4.4-5,iphoneos-arm64e
 com.dao.bigshotsnapper3plugin,BigShot 长截图(rootless),1.1,iphoneos-arm64
 com.dao.blurrybadges,BlurryBadges 中文版(RootHide),1.5.3,iphoneos-arm64e
 com.dao.bottomcontrolx,BottomControlX(RootHide),1.0.2,iphoneos-arm64e
@@ -328,7 +324,7 @@ com.dao.ytkace,YTKACE(RootHide),1.1.3,iphoneos-arm64e
 com.dao.ytlite,YTLite(RootHide),5.2b4,iphoneos-arm64e
 com.dao.ytmusicultimate,YTMusicUltimate,2.4,iphoneos-arm
 com.eclipsex.cn,Eclipse X (iOS 11) 简体中文包,5.0.9-1,iphoneos-arm
-com.hades.pullclearnc,PullClearNC(RootHide),2.0,iphoneos-arm64e
+com.hades.pullclearnc,PullClearNC(RootHide),2.1,iphoneos-arm64e
 com.hades.storeswitchaccounts,StoreSwitchAccounts(RootHide),2.0,iphoneos-arm64e
 com.hk.13hud.cn,13HUD 简体中文包,1.0.1,iphoneos-arm
 com.hk.3dtools.cn,3DTools 简体中文包,1.0.6,iphoneos-arm
@@ -447,7 +443,6 @@ com.hk.betterccxi.cn,BetterCCXI 简体中文包,1.5.0,iphoneos-arm
 com.hk.betterccxnew,BetterCCXI 整合版(CN),1.6.0-1,iphoneos-arm
 com.hk.betterpowerdown2.cn,BetterPowerDown 2 简体中文包,2.0.0-1,iphoneos-arm
 com.hk.bezon.cn,Bezon 简体中文包,1.0,iphoneos-arm
-com.hk.bhtiktokmod,BHTikTok Plus,2.3,iphoneos-arm
 com.hk.bigbangev,BigBangEv 大爆炸,5.3.2,iphoneos-arm
 com.hk.bigshotsnapper3plugin,BigShot 长截图,1.1,iphoneos-arm
 com.hk.bigsur.cn,BigSurCenter 简体中文包,1.4.4,iphoneos-arm
