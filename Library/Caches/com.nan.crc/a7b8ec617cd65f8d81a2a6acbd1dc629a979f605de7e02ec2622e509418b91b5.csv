@@ -247,7 +247,7 @@ com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
 com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.milkywayreborn,MilkyWayReborn(RootHide),1.4,iphoneos-arm64e
 com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
-com.dao.neofreebird.bht,NeoFreeBird(RootHide),7.2.2-1+debug,iphoneos-arm64e
+com.dao.neofreebird.bht,NeoFreeBird(RootHide),7.3.0+debug,iphoneos-arm64e
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.2,iphoneos-arm64e
