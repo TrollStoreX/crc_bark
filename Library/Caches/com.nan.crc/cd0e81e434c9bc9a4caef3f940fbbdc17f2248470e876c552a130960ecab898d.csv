@@ -118,7 +118,7 @@ com.ps.reducetransparencyflipswitch,Reduce Transparency Flipswitch,1.0.0,iphoneo
 com.ps.replaykitmax,ReplayKit Max,2.0.1,iphoneos-arm64
 com.ps.sfsymbols,SFSymbols,1.2.0,iphoneos-arm64
 com.ps.sfsymbolsassets,SFSymbols Assets,18.6,iphoneos-arm64
-com.ps.sixtyfps,60fps,1.0.0~b1,iphoneos-arm
+com.ps.sixtyfps,60fps,1.0.0,iphoneos-arm
 com.ps.slicesflipswitch,Slices Flipswitch,0.0.1-1,iphoneos-arm
 com.ps.smarttapflipswitch,SmartTap Flipswitch,0.0.1-1,iphoneos-arm
 com.ps.smoothcursorios13,SmoothCursor (iOS 13+),0.0.1,iphoneos-arm64
@@ -129,12 +129,13 @@ com.ps.staticzoom,StaticZoom,0.0.2,iphoneos-arm
 com.ps.steamweblegacycompat,SteamWebLegacyCompat,1.0.1,iphoneos-arm64
 com.ps.stillcaptureenabler,Still Capture Enabler (iPadOS 15+),1.0.0,iphoneos-arm64
 com.ps.tapformore,TapForMore,1.0.3,iphoneos-arm
-com.ps.tapvideoconfig,TapVideoConfig,1.0.3,iphoneos-arm64
+com.ps.tapvideoconfig,TapVideoConfig,1.0.4,iphoneos-arm64
 com.ps.tossfaceefm,Toss Face Unicode 15.0 (EFM),15.0.0,iphoneos-arm64
 com.ps.trollleds,TrollLEDs,1.13.0,iphoneos-arm64
 com.ps.twemojiefm,Twemoji 17.0 (EFM),17.0.0,iphoneos-arm64
 com.ps.uncappedavplayer,UncappedAVPlayer,1.0.0,iphoneos-arm64
 com.ps.uyoucompat,uYouCompat,1.0.2,iphoneos-arm
+com.ps.videohfr,VideoHFR,1.0.0,iphoneos-arm64
 com.ps.voiceoverflipswitch,VoiceOver Flipswitch,1.0.0,iphoneos-arm
 com.ps.watchinstallfix,WatchInstallFix,1.0.1,iphoneos-arm64
 com.ps.whatsallemojis,WhatsAllEmojis,1.0.0,iphoneos-arm64
@@ -148,7 +149,7 @@ com.ps.youpip,YouPiP,1.9.0,iphoneos-arm64
 com.ps.youquality,YouQuality,1.3.6,iphoneos-arm64
 com.ps.youremembercaption,YouRememberCaption,1.1.0,iphoneos-arm64
 com.ps.youslider,YouSlider,1.4.1,iphoneos-arm64
-com.ps.youspeed,YouSpeed,1.7.3,iphoneos-arm64
+com.ps.youspeed,YouSpeed,1.7.4,iphoneos-arm64
 com.ps.ytabconfig,YTABConfig,1.9.2,iphoneos-arm64
 com.ps.ytabconfigreset,YTABConfig Reset,1.0.0,iphoneos-arm64
 com.ps.ytabgoodies,YTABGoodies,1.0.7,iphoneos-arm64
