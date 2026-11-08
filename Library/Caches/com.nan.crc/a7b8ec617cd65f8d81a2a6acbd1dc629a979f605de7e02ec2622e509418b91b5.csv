@@ -248,7 +248,7 @@ com.dao.lpmnotification,LPMNotification(rootless),1.0.0,iphoneos-arm64
 com.dao.lynxtwo,Lynx 2(rootless),2.5,iphoneos-arm64
 com.dao.milkywayreborn,MilkyWayReborn(RootHide),1.4,iphoneos-arm64e
 com.dao.mypomonella.cn,Mypomonella 简体中文包,1.1.2,iphoneos-arm
-com.dao.neofreebird.bht,NeoFreeBird(RootHide),7.3.1+debug,iphoneos-arm64e
+com.dao.neofreebird.bht,NeoFreeBird(RootHide),7.3.1.1+debug,iphoneos-arm64e
 com.dao.ngc,通知组计数(RootHide),1.0.6,iphoneos-arm64e
 com.dao.noappthinning,NoAppThinning(rootless),1.4,iphoneos-arm64
 com.dao.noline,PurifyLine(RootHide),1.0.2,iphoneos-arm64e
@@ -552,8 +552,6 @@ com.hk.fancyselection.cn,FancySelection 简体中文包,1.4,iphoneos-arm
 com.hk.fastAppls.cn,FastAppLS 简体中文包,1.0.1,iphoneos-arm
 com.hk.fastunlockx,FastUnlockX 汉化版,1.5,iphoneos-arm
 com.hk.fastx.cn,FastX 简体中文包,1.2,iphoneos-arm
-com.hk.filza.cn,Filza 中文增补包,4.0-2,iphoneos-arm
-com.hk.filza.cn.rl,Filza 中文增补包(RootHide),4.0-2,iphoneos-arm64e
 com.hk.fingerlock.cn,FingerLock 简体中文包,1.1.7-1,iphoneos-arm
 com.hk.fingertouch12.CN,FingerTouch(iOS12) 汉化版,0.0.7,iphoneos-arm
 com.hk.finical.cn,Finical 简体中文包,1.0,iphoneos-arm
