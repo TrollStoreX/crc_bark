@@ -180,10 +180,10 @@ com.dao.akara,Akara(rootless),2.0.0,iphoneos-arm64
 com.dao.appaze3.cn,Appaze 3 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.appdata,AppData(rootless),1.4.7,iphoneos-arm64
 com.dao.appinst,appinst(rootless),2.1,iphoneos-arm64
-com.dao.appprotect,AppProtect 隐私保护(RootHide),2.4.9,iphoneos-arm64e
+com.dao.appprotect,AppProtect 隐私保护(RootHide),2.5.0,iphoneos-arm64e
 com.dao.appstoretroller,AppStoreTroller(RootHide),0.1.2,iphoneos-arm64e
 com.dao.appsyncunified,AppSyncUnified(RootHide),116.0,iphoneos-arm64e
-com.dao.apptools15,AppTools15-17(RootHide),2.9.2,iphoneos-arm64e
+com.dao.apptools15,AppTools15-17(RootHide),2.9.3,iphoneos-arm64e
 com.dao.apptools.lite,AppTools Lite(RootHide),1.0.3,iphoneos-arm64e
 com.dao.april,April 中文版(RootHide),3.1,iphoneos-arm64e
 com.dao.asjtiktok,ASJTok(RootHide),1.4.1,iphoneos-arm64e
@@ -262,7 +262,7 @@ com.dao.pf2.cn,PrimalFolder2 简体中文包(RootHide),0.1.2,iphoneos-arm64e
 com.dao.photosplus,PhotosPlus(RootHide),0.0.1,iphoneos-arm64e
 com.dao.picobanner,PicoBanner(RootHide),1.2,iphoneos-arm64e
 com.dao.plamyuipro,PlampyUIPro(rootless),1.0,iphoneos-arm64
-com.dao.pogr,PodsGrant(RootHide),0.5.3,iphoneos-arm64e
+com.dao.pogr,PodsGrant(RootHide),0.5.5,iphoneos-arm64e
 com.dao.pokeboxreborn.cn,Pokébox Reborn 简体中文包(rootless),2.0.2,iphoneos-arm64
 com.dao.popbuttons.cn,PopOutButtons 简体中文包(rootless),1.0,iphoneos-arm64
 com.dao.powercuff,Powercuff(RootHide),1.1,iphoneos-arm64e
