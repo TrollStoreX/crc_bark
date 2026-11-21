@@ -172,7 +172,7 @@ com.lenglengyu.cepaidspro-rootless,车牌大师-Rootless【会员破解】,0.0.2
 com.lenglengyu.certificate,Certificate证书免信任,1.2,iphoneos-arm
 com.lenglengyu.cewangshupro,测网速【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.cewangshupro-rootless,测网速-Rootless【会员破解】,0.0.1,iphoneos-arm64e
-com.lenglengyu.chaohuisuanpro-rootless,超会算-Rootless【会员破解】,0.0.2,iphoneos-arm64e
+com.lenglengyu.chaohuisuanpro-rootless,超会算-Rootless【会员破解】,0.0.3,iphoneos-arm64e
 com.lenglengyu.chaozipaipro,潮自拍【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.chaozipaipro-rootless,潮自拍-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.chatainewpro,Chat Ai【会员破解】,0.0.1,iphoneos-arm
@@ -392,6 +392,7 @@ com.lenglengyu.geekscanner,GK扫描仪Pro,0.0.1,iphoneos-arm
 com.lenglengyu.genrpro-rootless,GenR屏幕使用时间管理-Rootless【会员破解】,0.0.2,iphoneos-arm64e
 com.lenglengyu.geshigcpro,格式工厂【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.geshigcpro-rootless,格式工厂-Rootless【会员破解】,0.0.1,iphoneos-arm64e
+com.lenglengyu.geshizhpro-rootless,格式转换-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.ghallownetwork,Allow Network【国行手机允许使用网络】,0.0.1,iphoneos-arm
 com.lenglengyu.ghallownetwork-rootless,Allow Network-Rootless,0.0.1,iphoneos-arm64
 com.lenglengyu.gifzzpro,Gif制作Pro,0.0.1,iphoneos-arm
@@ -518,7 +519,7 @@ com.lenglengyu.jinrijieyoupro-rootless,今日解忧-Rootless【会员破解】,0
 com.lenglengyu.jishipro,寂时【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.jishipro-rootless,寂时-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.jrjinjiapro-rootless,今日金价-Rootless【会员破解】,0.0.1,iphoneos-arm64e
-com.lenglengyu.jryoujiapro-rootless,今日油价-Rootless【会员破解】,0.0.2,iphoneos-arm64e
+com.lenglengyu.jryoujiapro-rootless,今日油价-Rootless【会员破解】,0.0.3,iphoneos-arm64e
 com.lenglengyu.jsboxhook,JSBox【高级版】,2.0.1,iphoneos-arm
 com.lenglengyu.jsboxhook-rootless,JSBox-Rootless【高级版】,2.0.1K,iphoneos-arm64
 com.lenglengyu.jsqjiajiapro-rootless,智能计算器-Rootless【会员破解】,0.0.1,iphoneos-arm64e
@@ -629,6 +630,8 @@ com.lenglengyu.lsdspro,路上读书【会员破解】,0.0.4,iphoneos-arm
 com.lenglengyu.lsdspro-rootless,路上读书-Rootless【会员破解】,0.0.4K,iphoneos-arm64e
 com.lenglengyu.lupinpro,录屏-AI变声器【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.lupinpro-rootless,录屏AI变声器-Rootless【会员破解】,0.0.1,iphoneos-arm64e
+com.lenglengyu.luyinzhuanwzpro,录音转文字【会员破解】,0.0.1,iphoneos-arm
+com.lenglengyu.luyinzhuanwzpro-rootless,录音转文字-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.lvmuzsxjpro,绿幕助手相机【会员破解】,0.0.3,iphoneos-arm
 com.lenglengyu.lxspro,乐小说阅读器Pro,0.0.1,iphoneos-arm
 com.lenglengyu.lzbanknojb,兰州银行【屏蔽越狱】,0.0.1,iphoneos-arm
@@ -746,7 +749,7 @@ com.lenglengyu.oneplayerpro,One Player【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.oneplayerpro-rootless,One Player-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.onewidgetpro,OneWidget-万能小组件【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.osmeiwu,OS美物Pro,0.0.1-1,iphoneos-arm
-com.lenglengyu.paibanbaopro-rootless,排班宝-Rootless【会员破解】,0.0.2,iphoneos-arm64e
+com.lenglengyu.paibanbaopro-rootless,排班宝-Rootless【会员破解】,0.0.3,iphoneos-arm64e
 com.lenglengyu.paizsoutipro,拍照搜题【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.paizsoutipro-rootless,拍照搜题-Rootless【会员破解】,0.0.1K,iphoneos-arm64e
 com.lenglengyu.pandorapro,Pandora【会员破解】,0.0.1,iphoneos-arm
@@ -822,7 +825,7 @@ com.lenglengyu.qidiaonjipro-rootless,起点集-Rootless【会员破解】,0.0.1,
 com.lenglengyu.qifupro,起伏【会员破解】,0.0.1K,iphoneos-arm
 com.lenglengyu.qingnhaibaopro,青柠海报设计【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.qingnhaibaopro-rootless,青柠海报设计-Rootless【会员破解】,0.0.1,iphoneos-arm64
-com.lenglengyu.qingpianpro-rootless,清片-相册整理助手-Rootless【会员破解】,0.0.4,iphoneos-arm64e
+com.lenglengyu.qingpianpro-rootless,清片-相册整理助手-Rootless【会员破解】,0.0.5,iphoneos-arm64e
 com.lenglengyu.qingqirijipro,清奇日记【会员破解】,0.0.1,iphoneos-arm
 com.lenglengyu.qingqirijipro-rootless,清奇日记-Rootless【会员破解】,0.0.1,iphoneos-arm64e
 com.lenglengyu.qingshanpdfpro,轻闪PDF【会员破解】,0.0.1,iphoneos-arm
